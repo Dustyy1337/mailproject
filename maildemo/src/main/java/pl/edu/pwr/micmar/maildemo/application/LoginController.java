@@ -36,7 +36,7 @@ public class LoginController {
         System.out.println("Połączono pomyślnie");
         FXMLLoader fxmlLoader = new FXMLLoader(LoginController.class.getResource("message-list.fxml"));
         Stage stage = (Stage) emailAddress.getScene().getWindow();
-        stage.setScene(new Scene(fxmlLoader.load(), 320, 240));
+        stage.setScene(new Scene(fxmlLoader.load()));
     }
 
 }

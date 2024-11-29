@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class EmailReader {
 
-    public static void connectToMail(String host, String username, String accessToken) throws Exception {
+    public static void connectToMail(String host, String username, String accessToken, String refreshTokem, long expiration) throws Exception {
         Properties props = new Properties();
         props.put("mail.store.protocol", "imap");
         props.put("mail.imap.ssl.enable", "true"); // required for Gmail
