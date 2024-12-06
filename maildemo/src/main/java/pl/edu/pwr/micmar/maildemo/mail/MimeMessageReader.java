@@ -1,63 +1,61 @@
 package pl.edu.pwr.micmar.maildemo.mail;
 
 import javax.mail.*;
+import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 import java.io.IOException;
+import org.jsoup.Jsoup;
+
 public class MimeMessageReader {
     public static String getTextFromMessage(Message message, boolean isHTML) throws MessagingException, IOException {
-        if (message.isMimeType("text/plain")) {
-            return message.getContent().toString();
-        } else if (message.isMimeType("text/html")) {
-            return message.getContent().toString();
+        Object content = message.getContent();
+        if (message.isMimeType("text/plain") || message.isMimeType("text/html")) {
+            return content.toString();
         } else if (message.isMimeType("multipart/*")) {
-            MimeMultipart mimeMultipart = (MimeMultipart) message.getContent();
-            if (isHTML) {
-                return getTextFromMimeMultipart(mimeMultipart);
-            } else {
-                return getPlainTextFromMimeMultipart(mimeMultipart);
-            }
+            MimeMultipart mimeMultipart = (MimeMultipart) content;
+            return isHTML ? getTextFromMimeMultipart(mimeMultipart) : getPlainTextFromMimeMultipart(mimeMultipart);
         }
         return "";
     }
+    public static String getTextFromMessage(MimeMessage mimeMessage, boolean isHTML) throws MessagingException, IOException {
+        return getTextFromMessage((Message) mimeMessage, isHTML);
+    }
 
     private static String getTextFromMimeMultipart(MimeMultipart mimeMultipart) throws MessagingException, IOException {
-        String htmlContent = "";
-        String plainContent = "";
+        StringBuilder htmlContent = new StringBuilder();
+        StringBuilder plainContent = new StringBuilder();
         for (int i = 0; i < mimeMultipart.getCount(); i++) {
             BodyPart bodyPart = mimeMultipart.getBodyPart(i);
+            Object content = bodyPart.getContent();
             if (bodyPart.isMimeType("text/html")) {
-                htmlContent = bodyPart.getContent().toString();
+                htmlContent.append(content.toString());
             } else if (bodyPart.isMimeType("text/plain")) {
-                plainContent = bodyPart.getContent().toString();
-            } else if (bodyPart.getContent() instanceof MimeMultipart) {
-                String nestedContent = getTextFromMimeMultipart((MimeMultipart) bodyPart.getContent());
+                plainContent.append(content.toString());
+            } else if (content instanceof MimeMultipart) {
+                String nestedContent = getTextFromMimeMultipart((MimeMultipart) content);
                 if (bodyPart.isMimeType("text/html")) {
-                    htmlContent = nestedContent;
+                    htmlContent.append(nestedContent);
                 } else if (bodyPart.isMimeType("text/plain")) {
-                    plainContent = nestedContent;
+                    plainContent.append(nestedContent);
                 }
             }
         }
-        return !htmlContent.isEmpty() ? htmlContent : plainContent;
+        return htmlContent.length() > 0 ? htmlContent.toString() : plainContent.toString();
     }
+
     private static String getPlainTextFromMimeMultipart(MimeMultipart mimeMultipart) throws MessagingException, IOException {
-        String plainContent = "";
-        String htmlContent = "";
+        StringBuilder plainContent = new StringBuilder();
         for (int i = 0; i < mimeMultipart.getCount(); i++) {
             BodyPart bodyPart = mimeMultipart.getBodyPart(i);
+            Object content = bodyPart.getContent();
             if (bodyPart.isMimeType("text/plain")) {
-                plainContent = bodyPart.getContent().toString();
+                plainContent.append(content.toString());
             } else if (bodyPart.isMimeType("text/html")) {
-                htmlContent = bodyPart.getContent().toString();
-            } else if (bodyPart.getContent() instanceof MimeMultipart) {
-                String nestedContent = getPlainTextFromMimeMultipart((MimeMultipart) bodyPart.getContent());
-                if (bodyPart.isMimeType("text/plain")) {
-                    plainContent = nestedContent;
-                } else if (bodyPart.isMimeType("text/html")) {
-                    htmlContent = nestedContent;
-                }
+                plainContent.append(Jsoup.parse(content.toString()).text());
+            } else if (content instanceof MimeMultipart) {
+                plainContent.append(getPlainTextFromMimeMultipart((MimeMultipart) content));
             }
         }
-        return !plainContent.isEmpty() ? plainContent : htmlContent;
+        return plainContent.toString();
     }
 }

@@ -13,7 +13,7 @@
    <children>
       <HBox prefHeight="100.0" prefWidth="200.0">
          <children>
-            <Button mnemonicParsing="false" text="Szukaj" />
+            <Button mnemonicParsing="false" onAction="#search" text="Szukaj" />
             <TextField fx:id="searchBar" />
          </children>
       </HBox>

@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title></title>
+    <style type="text/css">
+        body {
+            margin: 0;
+            padding: 0;
+            min-width: 100% !important;
+        }
+
+        img {
+            height: auto;
+        }
+
+        .content {
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .header {
+            padding: 40px 30px 20px 30px;
+        }
+
+        .innerpadding {
+            padding: 30px 30px 30px 30px;
+        }
+
+        .borderbottom {
+            border-bottom: 1px solid #f2eeed;
+        }
+
+        .subhead {
+            font-size: 15px;
+            color: #ffffff;
+            font-family: sans-serif;
+            letter-spacing: 10px;
+        }
+
+        .h1, .h2, .h3, .bodycopy {
+            color: #153643;
+            font-family: sans-serif;
+            padding: 0 20px 0 20px;
+        }
+
+        .bodywithpadding {
+            color: #153643;
+            font-family: sans-serif;
+            padding: 15px 20px 0 20px;
+
+            font-size: 16px;
+            line-height: 22px;
+            text-align: justify;
+        }
+
+        .h1 {
+            font-size: 33px;
+            line-height: 38px;
+            font-weight: bold;
+        }
+
+        .h2 {
+            padding: 0 0 15px 0;
+            font-size: 24px;
+            line-height: 28px;
+            font-weight: bold;
+        }
+
+        .h3 {
+            padding: 0 0 5px 0;
+            font-size: 20px;
+            line-height: 28px;
+            font-weight: bold;
+        }
+
+        .bodycopy {
+            font-size: 16px;
+            line-height: 22px;
+            text-align: justify;
+        }
+
+        .bodycopy p {
+            padding-bottom: 20px;
+        }
+
+        .button {
+            text-align: center;
+            font-size: 18px;
+            font-family: sans-serif;
+            font-weight: bold;
+            padding: 0 30px 0 30px;
+        }
+
+        .button a {
+            color: #ffffff;
+            text-decoration: none;
+        }
+
+        .footer {
+            padding: 20px 30px 15px 30px;
+        }
+
+        .footercopy {
+            font-family: sans-serif;
+            font-size: 14px;
+            color: #ffffff;
+        }
+
+        .footercopy a {
+            color: #ffffff;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body bgcolor="#f6f8f1" style="margin: 0; padding: 0; min-width: 100% !important;">
+<table width="100%" bgcolor="#f6f8f1" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width: 600px;">
+                <tr>
+                    <td bgcolor="#fff" class="header" style="padding: 40px 30px 20px 30px;">
+                        <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td height="20" style="padding: 0 0px 0px 0;" align="center">
+                                    <h1>PolandMT2.pl</h1>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+
+                
+    <tr>
+        <td class="innerpadding borderbottom" style="padding: 30px 30px 30px 30px; border-bottom: 1px solid #f2eeed;">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="h2" align="center" style="color: #153643; font-family: sans-serif; padding: 0 0 15px 0; font-size: 24px; line-height: 28px; font-weight: bold;">
+                        Dziękujemy za rejestrację w serwisie.
+                    </td>
+                </tr>
+                <tr>
+                    <td class="bodycopy" style="color: #153643; font-family: sans-serif; padding: 0 20px 0 20px; font-size: 16px; line-height: 22px; text-align: justify;">
+                        <p style="padding-bottom: 20px;">
+                            Konto <strong>Dustyy1337</strong> zostało utworzone.                                Aby móc zalogować się do gry, musisz aktywować swoje konto klikając w poniższy odnośnik.
+                                <br>
+                                <br>
+
+                                Dziękujemy za rejestrację w serwisie.
+                                                    </p>
+                    </td>
+                </tr>                    <tr>
+                        <td class="innerpadding borderbottom" style="padding: 30px 30px 30px 30px; border-bottom: 1px solid #f2eeed;">
+                            <table class="buttonwrapper" bgcolor="#1d3557" border="0" cellspacing="0" cellpadding="0" align="center">
+                                <tr>
+                                    <td class="button" height="45" style="text-align: center; font-size: 18px; font-family: sans-serif; font-weight: bold; padding: 0 30px 0 30px;">
+                                        <a href="https://polandmt2.pl/register/confirm?id=35de3bb0-d18e-11ee-8adb-269a1317e928&amp;secret=23b872a0466bc9440e31cbbabd7f6f6e6d59660d" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                            Aktywuj konto
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                
+                                    <tr>
+                        <td class="bodywithpadding" style="color: #153643; font-family: sans-serif; padding: 15px 20px 0 20px; font-size: 16px; line-height: 22px; text-align: justify;">
+                            <p>
+                                Do twojego konta został wygenerowany kod PIN. Zapisz go w bezpiecznym miejscu, bez niego nie zalogujesz się na stronie ani w grze!
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td class="h2" align="center" style="color: #153643; font-family: sans-serif; padding: 0 0 15px 0; font-size: 24px; line-height: 28px; font-weight: bold;">
+                            Twój kod PIN:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="button" height="45" style="text-align: center; font-size: 18px; font-family: sans-serif; font-weight: bold; padding: 0 30px 0 30px;">
+                            <code>
+                                4593
+                            </code>
+                        </td>
+                    </tr>
+                            </table>
+        </td>
+    </tr>
+    <tr>
+        <td class="innerpadding borderbottom" style="padding: 30px 30px 30px 30px; border-bottom: 1px solid #f2eeed;">
+            <table class="buttonwrapper" bgcolor="#1d3557" border="0" cellspacing="0" cellpadding="0" align="center">
+                <tr>
+                    <td class="button" height="45" style="text-align: center; font-size: 18px; font-family: sans-serif; font-weight: bold; padding: 0 30px 0 30px;">
+                        <a href="https://polandmt2.pl/" target="_blank" style="color: #ffffff; text-decoration: none;">
+                            Formularz logowania
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+
+                <tr>
+                    <td class="innerpadding borderbottom" align="center" style="padding: 30px 30px 30px 30px; border-bottom: 1px solid #f2eeed;">
+                        <small>Kilka przydatnych linków:</small>
+                        <br>
+                        <small>
+                            <a href="https://polandmt2.pl/support/" target="_blank">Support</a>
+                        </small>
+                        <small>
+                            <a href="https://polandmt2.pl/support/" target="_blank">Kontakt</a>
+                        </small>
+                        <small>
+                            <a href="https://polandmt2.pl/page/terms.html" target="_blank">Regulamin</a>
+                        </small>
+                        <br>
+
+                        <p style="padding: 5px 0">
+                            <small>
+                                Copyright © 2024 PolandMT2.pl Wszystkie prawa zastrzeżone.
+                            </small>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

@@ -17,7 +17,6 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-import javax.mail.Session;
 import java.io.IOException;
 
 public class Application extends javafx.application.Application {
@@ -89,7 +88,7 @@ class DownloadLLM implements Runnable {
                 .optTranslator(new SBERTTranslator())  // Ustawienie niestandardowego tłumacza
                 .optProgress(new ProgressBar())
                 .optEngine("PyTorch")
-                .optDevice(Device.cpu())
+                .optDevice(Device.gpu())
                 .build();
         try {
             Application.model = criteria.loadModel();

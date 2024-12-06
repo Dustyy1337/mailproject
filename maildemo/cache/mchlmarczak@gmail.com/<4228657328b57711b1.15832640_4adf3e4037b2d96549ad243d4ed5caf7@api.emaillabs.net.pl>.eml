@@ -1,0 +1,362 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
+        <meta name="color-scheme" content="light">
+    </head>
+    <body style="width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; font-family: Roboto, Helvetica, Arial;">
+        <center style="padding:20px 0; font-family: Roboto, Helvetica, Arial;">
+            <table style="width:100%;max-width:648px;border-collapse:collapse;">
+                <tr>
+                    <td>
+
+
+                        <table style="width:100%;max-width:648px;border-collapse:collapse;display:none">
+                            <tr>
+                                <td>
+                                    <div style="display: none; max-height: 0px; overflow: hidden;">
+
+                                    </div>
+                                    <div style="display: none; max-height: 0px; overflow: hidden;">
+                                        &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                                        &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <table style="width:100%;max-width:648px;text-align:left;">
+                            <tr>
+                                <td style="padding: 0px 22px;">
+                                    <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwvfE5ESXlPRFkxTnpNeU9HSTFOemN4TVdJeExqRTFPRE15TmpRd1h6UmhaR1l6WlRRd016ZGlNbVE1TmpVME9XRmtNalF6WkRSbFpEVmpZV1kzUUdGd2FTNWxiV0ZwYkd4aFluTXVibVYwTG5Cc2ZFWnlhU3dnT0NCRVpXTWdNakF5TXlBeE5Ub3pNVG94TnlBck1ERXdNSHh0WTJoc2JXRnlZM3BoYTBCbmJXRnBiQzVqYjIxOE55NWxiMkoxZDJsbGNHd3VjMjEwY0h4eVpXUm5jbWxrTkRKOE1RcDhNUzQyWlRFeE1USmxaV0UwWW1JM05ETm1Nek0xTkdSbFlUUmxObUkwTTJRNVpnPT0%3D" target="_blank">
+                                        <img src="https://img.eobuwie.cloud/mag(global_elements/email_template/site_logo/2003/PL.png)/PL.png" alt="website logo" width="279" style="width:100%;max-width:279px;" />
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <table style="width:100%;max-width:648px;border-collapse:collapse;text-align:left; margin-top: 14px;">
+                            <tr>
+                                <td style="font-size: 24px; color: #2F2F2F; padding: 0px 24px; font-weight: bold;">
+                                    Potwierdzenie wysłania paczki
+                                </td>
+                            </tr>
+                        </table>
+
+                        <table style="width:100%;max-width:648px;border-collapse:collapse;text-align:left; margin-top: 22px;">
+                            <tr>
+                                <td style="font-size: 16px; color: #2F2F2F; line-height: 24px; padding: 0px 24px;">
+                                    <span style="display: inline-block;">Dzień dobry,
+									<br />
+									<br />
+									Twoje zamówienie 10005264479 jest już przygotowane i czeka na odbiór przez przewoźnika.
+									<br />
+									<br />
+									Szczegółowe informacje o dostawie otrzymasz w ciągu 1-2 dni roboczych w wiadomości od przewoźnika.
+									<br />
+									<br />
+									Międzynarodowy numer paczki: <b>666002856358500127859626</b>
+									<br />
+									<br />
+									Informacje o paczce będą wkrótce dostępne na stronie przewoźnika.
+									</span>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <table style="width:100%;max-width:648px;border-collapse:collapse;text-align:left; margin-top: 24px;">
+                            <tr>
+                                <td style="font-size: 16px; color: #2F2F2F; line-height: 24px; padding: 0px 24px; font-weight: bold;">
+                                    Zawartość paczki:
+                                </td>
+                            </tr>
+                        </table>
+
+                            <table style="width:100%;max-width:648px;border-collapse:collapse;text-align:left; margin-top: 15px;">
+                            <tr>
+                                <td style="font-size: 16px; color: #2F2F2F; line-height: 24px; padding: 0px 24px;">
+                                    Produkty:
+                                                                        <b>WHISTLER-W224438 PARRITE WINTERBOOT WP 5006 SUDAN BROWN 46</b>
+                                     
+                                    <br />Koszt dostawy: <b>0,00 PLN</b><br />
+                                    <b>Wartość całkowita: 249,99 PLN</b>                                </td>
+                            </tr>
+                        </table>
+						<table style="width:100%;max-width:648px;border-collapse:collapse;text-align:left; margin-top: 22px;">
+                            <tr>
+                                <td style="font-size: 16px; color: #2F2F2F; line-height: 24px; padding: 0px 24px;">
+                                    <span style="display: inline-block;">Ta wiadomość oznacza zawarcie umowy sprzedaży na produkty z zamówienia.
+									<br />
+									<br />
+									Na tym etapie zmiany w zamówieniu nie są już możliwe.
+									</span>
+                                </td>
+                            </tr>
+                        </table>
+						
+						
+						<table style="width:100%;max-width:648px;border-collapse:collapse;text-align:left; margin-top: 22px;">
+                            <tr>
+                                <td style="font-size: 16px; color: #2F2F2F; line-height: 24px; padding: 0px 24px;">
+                                    <span style="display: inline-block;">Zobacz <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwvcmVndWxhbWlufE5ESXlPRFkxTnpNeU9HSTFOemN4TVdJeExqRTFPRE15TmpRd1h6UmhaR1l6WlRRd016ZGlNbVE1TmpVME9XRmtNalF6WkRSbFpEVmpZV1kzUUdGd2FTNWxiV0ZwYkd4aFluTXVibVYwTG5Cc2ZFWnlhU3dnT0NCRVpXTWdNakF5TXlBeE5Ub3pNVG94TnlBck1ERXdNSHh0WTJoc2JXRnlZM3BoYTBCbmJXRnBiQzVqYjIxOE55NWxiMkoxZDJsbGNHd3VjMjEwY0h4eVpXUm5jbWxrTkRKOE1RcDhNUzVqTWpNeE9EUmxaRGhrWWpBd1ptUXlOMlEyT1RVd05EaGxZelV6TnpVM1lnPT0%3D" target="_blank" style="text-decoration: none; color: #2F2F2F;"> <u>Regulamin sklepu</u></a> oraz naszą <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwvcG9saXR5a2EtcHJ5d2F0bm9zY2ktaS1jb29raWVzfE5ESXlPRFkxTnpNeU9HSTFOemN4TVdJeExqRTFPRE15TmpRd1h6UmhaR1l6WlRRd016ZGlNbVE1TmpVME9XRmtNalF6WkRSbFpEVmpZV1kzUUdGd2FTNWxiV0ZwYkd4aFluTXVibVYwTG5Cc2ZFWnlhU3dnT0NCRVpXTWdNakF5TXlBeE5Ub3pNVG94TnlBck1ERXdNSHh0WTJoc2JXRnlZM3BoYTBCbmJXRnBiQzVqYjIxOE55NWxiMkoxZDJsbGNHd3VjMjEwY0h4eVpXUm5jbWxrTkRKOE1RcDhNUzR6WVRNMllURTVZalEyWXprNU9UQTVaRFV4TkRaak9HSmtNVFV4WVRnMk5RPT0%3D" target="_blank" style="text-decoration: none; color: #2F2F2F;"> <u>Politykę prywatności</u></a>.</span>
+                                </td>
+                            </tr>
+                        </table>   
+
+                        <table style="width:100%;max-width:648px;border-collapse:collapse;text-align:left; margin-top: 22px;">
+                            <tr>
+                                <td style="font-size: 16px; color: #2F2F2F; line-height: 24px; padding: 0px 24px;">
+                                    <span style="display: inline-block;">Zapraszamy do ponownych zakupów w eobuwie.pl!</span>
+                                </td>
+                            </tr>
+                        </table>               
+
+                        <table style="width:100%;max-width:648px;border-collapse:collapse;text-align:left; margin-top: 18px;">
+                            <tr>
+                                <td style="font-size: 16px; color: #2F2F2F; line-height: 24px; padding: 0px 24px;">
+                                    Życzymy miłego dnia
+                                    <br />
+                                    Zespół <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwvfE5ESXlPRFkxTnpNeU9HSTFOemN4TVdJeExqRTFPRE15TmpRd1h6UmhaR1l6WlRRd016ZGlNbVE1TmpVME9XRmtNalF6WkRSbFpEVmpZV1kzUUdGd2FTNWxiV0ZwYkd4aFluTXVibVYwTG5Cc2ZFWnlhU3dnT0NCRVpXTWdNakF5TXlBeE5Ub3pNVG94TnlBck1ERXdNSHh0WTJoc2JXRnlZM3BoYTBCbmJXRnBiQzVqYjIxOE55NWxiMkoxZDJsbGNHd3VjMjEwY0h4eVpXUm5jbWxrTkRKOE1RcDhNUzQyWlRFeE1USmxaV0UwWW1JM05ETm1Nek0xTkdSbFlUUmxObUkwTTJRNVpnPT0%3D" target="_blank" style="text-decoration: none; color: #2F2F2F;">eobuwie.pl</a>
+                                </td>
+                            </tr>
+                        </table>
+
+						<table style="width:100%;max-width:648px;border-collapse:collapse;text-align:left; margin-top: 18px;">
+                            <tr>
+                                <td style="font-size: 16px; color: #2F2F2F; line-height: 24px; padding: 0px 24px;">
+                                    Wiadomość automatyczna - prosimy na nią nie odpowiadać.
+                                </td>
+                            </tr>
+                        </table>
+						
+                        <table style="width:100%;max-width:600px;border-collapse:collapse;" align="center">
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </table>                        <table style="width:100%;max-width:648px;border-collapse:collapse; margin-top: 20px;" align="center">
+                            <tr>
+                                <td>
+                                    <table style="width:100%;max-width:648px;border-collapse:collapse; border-top: 1px solid #E0E0E0; border-bottom: 1px solid #E0E0E0;" align="center" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td style="padding: 2px 24px;">
+                                                <table style="width:100%;border-collapse:collapse; font-size: 16px; line-height: 20px; margin-top: 24px; margin-bottom: 6px;" align="center" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td style="display: inline-block; width: 205px; padding-bottom: 10px; vertical-align: top;">
+                                                            <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwvZG9zdGF3YS0wemx8TkRJeU9EWTFOek15T0dJMU56Y3hNV0l4TGpFMU9ETXlOalF3WHpSaFpHWXpaVFF3TXpkaU1tUTVOalUwT1dGa01qUXpaRFJsWkRWallXWTNRR0Z3YVM1bGJXRnBiR3hoWW5NdWJtVjBMbkJzZkVaeWFTd2dPQ0JFWldNZ01qQXlNeUF4TlRvek1Ub3hOeUFyTURFd01IeHRZMmhzYldGeVkzcGhhMEJuYldGcGJDNWpiMjE4Tnk1bGIySjFkMmxsY0d3dWMyMTBjSHh5WldSbmNtbGtOREo4TVFwOE1TNWxPV0UzT0dGaU9XWTFOekJoTXprNE1URTVZemszTWpobVpEWTROelZtWWc9PQ%3D%3D" target="_blank" style="color: #2F2F2F;">
+                                                                <table style="width:100%;border-collapse:collapse;" align="left">
+                                                                    <tr>
+                                                                        <td style="vertical-align: top; width: 40px; padding-right: 8px; padding-left: 3px;">
+                                                                            <img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/track.png)/track.png" alt="truck icon" width="40" style="max-width:40px;" />
+                                                                        </td>
+                                                                        <td style="padding-right: 6px;">
+                                                                            <b>Dostawa </br>od 0 zł</b>
+                                                                            <br />
+                                                                            <span style="text-decoration: underline; font-size: 12px; color: #757575;">Szczegóły</span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </a>
+                                                        </td>
+                                                        <td style="display: inline-block; width: 206px; padding-bottom: 10px; padding-left: 2px; vertical-align: top;">
+                                                            <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwvendyb3R8TkRJeU9EWTFOek15T0dJMU56Y3hNV0l4TGpFMU9ETXlOalF3WHpSaFpHWXpaVFF3TXpkaU1tUTVOalUwT1dGa01qUXpaRFJsWkRWallXWTNRR0Z3YVM1bGJXRnBiR3hoWW5NdWJtVjBMbkJzZkVaeWFTd2dPQ0JFWldNZ01qQXlNeUF4TlRvek1Ub3hOeUFyTURFd01IeHRZMmhzYldGeVkzcGhhMEJuYldGcGJDNWpiMjE4Tnk1bGIySjFkMmxsY0d3dWMyMTBjSHh5WldSbmNtbGtOREo4TVFwOE1TNWlOVGN4T0dZMVpUQTJNVFF4WldFMFlqQm1ZVE0wTVRRek1tSXdNR0ppTlE9PQ%3D%3D" target="_blank" style="color: #2F2F2F;">
+                                                                <table style="width:100%;border-collapse:collapse;" align="left">
+                                                                    <tr>
+                                                                        <td style="vertical-align: top; width: 40px; padding-right: 8px;">
+                                                                            <img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/return.png)/return.png" alt="wrapped arrow icon" width="40" style="max-width:40px;"/>
+                                                                        </td>
+                                                                        <td style="padding-right: 6px;">
+                                                                            <b>100 dni na darmowy&nbsp;zwrot</b>
+                                                                            <br />
+                                                                            <span style="text-decoration: underline; font-size: 12px; color: #757575;">Szczegóły</span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </a>
+                                                        </td>
+                                                        <td style="display: inline-block; width: 150px; padding-bottom: 10px; padding-left: 1px; vertical-align: top;">
+                                                            <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwvcmVhbGl6YWNqYS16YW1vd2llbmlhfE5ESXlPRFkxTnpNeU9HSTFOemN4TVdJeExqRTFPRE15TmpRd1h6UmhaR1l6WlRRd016ZGlNbVE1TmpVME9XRmtNalF6WkRSbFpEVmpZV1kzUUdGd2FTNWxiV0ZwYkd4aFluTXVibVYwTG5Cc2ZFWnlhU3dnT0NCRVpXTWdNakF5TXlBeE5Ub3pNVG94TnlBck1ERXdNSHh0WTJoc2JXRnlZM3BoYTBCbmJXRnBiQzVqYjIxOE55NWxiMkoxZDJsbGNHd3VjMjEwY0h4eVpXUm5jbWxrTkRKOE1RcDhNUzVsWTJNM09ERXlObU0zT1RBM05tUm1ORFpoTURVeU5HUmxORGRtT1RFM05RPT0%3D" target="_blank" style="color: #2F2F2F;">
+                                                                <table style="width:100%;border-collapse:collapse;" align="left">
+                                                                    <tr>
+                                                                        <td style="vertical-align: top; padding-top: 3px; width: 40px; padding-right: 8px; padding-left: 2px;">
+                                                                            <img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/delivery.png)/delivery.png" alt="clock icon" width="40" style="max-width:40px;"/>
+                                                                        </td>
+                                                                        <td style="padding-right: 6px;">
+                                                                            <b>Wysyłka<br />w&nbsp;24h</b>
+                                                                            <br />
+                                                                            <span style="text-decoration: underline; font-size: 12px; color: #757575;">Szczegóły</span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <table style="width:100%;max-width:648px;border-collapse:collapse; border-bottom: 1px solid #E0E0E0; margin-top: 8px;" align="center" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td style="padding-left: 24px;">
+
+                                                <table style="width:100%;max-width:648px;border-collapse:collapse;" align="center" cellpadding="0" cellspacing="0">
+                                                    <tr>
+                                                        <td style="vertical-align: top; display: inline-block; width: 285px; padding-right: 20px; padding-bottom: 30px;">
+
+                                                            <table style="width:100%;border-collapse:collapse;" cellpadding="0" cellspacing="0" align="left">
+                                                                <tr>
+                                                                    <td style="padding-top: 6px;">&nbsp;</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="font-size: 20px; color: #2F2F2F; line-height: 28px; min-height: 56px;">
+                                                                        <b>Masz pytanie? <span style="display: inline-block;">Skontaktuj się z nami</span></b>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="font-size: 14px; color: #2F2F2F; line-height: 20px; padding-top: 12px; padding-right: 20px;">
+                                                                        Wirtualny asystent zna odpowiedzi na większość pytań i&nbsp;jest dostępny na czacie&nbsp;24/7:
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding-top: 18px;">
+                                                                        <table style="width:100%;max-width:230px;border-collapse:collapse;display: inline-block;" cellpadding="0" cellspacing="0">
+                                                                            <tr>
+                                                                                <td style="vertical-align: middle;">
+                                                                                    <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwva29udGFrdHxOREl5T0RZMU56TXlPR0kxTnpjeE1XSXhMakUxT0RNeU5qUXdYelJoWkdZelpUUXdNemRpTW1RNU5qVTBPV0ZrTWpRelpEUmxaRFZqWVdZM1FHRndhUzVsYldGcGJHeGhZbk11Ym1WMExuQnNmRVp5YVN3Z09DQkVaV01nTWpBeU15QXhOVG96TVRveE55QXJNREV3TUh4dFkyaHNiV0Z5WTNwaGEwQm5iV0ZwYkM1amIyMThOeTVsYjJKMWQybGxjR3d1YzIxMGNIeHlaV1JuY21sa05ESjhNUXA4TVM0NFpHTmhPRFl3TTJSak1XVTBNell5T0RsbU5UQTJNR1kxTWpKak9HSmlOUT09" target="_blank"><img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/Chat.png)/Chat.png" alt="chat bubble icon" width="24" style="padding-right: 8px;width:100%;max-width: 24px;" /></a>
+                                                                                </td>
+                                                                                <td style="text-align: left; padding-right: 44px;">
+                                                                                    <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwva29udGFrdHxOREl5T0RZMU56TXlPR0kxTnpjeE1XSXhMakUxT0RNeU5qUXdYelJoWkdZelpUUXdNemRpTW1RNU5qVTBPV0ZrTWpRelpEUmxaRFZqWVdZM1FHRndhUzVsYldGcGJHeGhZbk11Ym1WMExuQnNmRVp5YVN3Z09DQkVaV01nTWpBeU15QXhOVG96TVRveE55QXJNREV3TUh4dFkyaHNiV0Z5WTNwaGEwQm5iV0ZwYkM1amIyMThOeTVsYjJKMWQybGxjR3d1YzIxMGNIeHlaV1JuY21sa05ESjhNUXA4TVM0NFpHTmhPRFl3TTJSak1XVTBNell5T0RsbU5UQTJNR1kxTWpKak9HSmlOUT09" style="color: #2F2F2F; text-decoration: none; font-size: 14px; font-weight: bold;">Czat</a>
+                                                                                </td>
+                                                                                <td style="vertical-align: middle;">
+                                                                                    <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly9tLm1lLzMwOTg1Mzg2MTQ0ND9yZWY9cGFnZXxOREl5T0RZMU56TXlPR0kxTnpjeE1XSXhMakUxT0RNeU5qUXdYelJoWkdZelpUUXdNemRpTW1RNU5qVTBPV0ZrTWpRelpEUmxaRFZqWVdZM1FHRndhUzVsYldGcGJHeGhZbk11Ym1WMExuQnNmRVp5YVN3Z09DQkVaV01nTWpBeU15QXhOVG96TVRveE55QXJNREV3TUh4dFkyaHNiV0Z5WTNwaGEwQm5iV0ZwYkM1amIyMThOeTVsYjJKMWQybGxjR3d1YzIxMGNIeHlaV1JuY21sa05ESjhNUXA4TVM0MVl6QXhOR1JrTURKbU1UVmxZV1ptTWpZeU1USTBNemszTVRJd1pHWm1Zdz09" target="_blank"><img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/messenger.png)/messenger.png" alt="chat bubble messenger icon" width="24" style="padding-right: 8px;width:100%;max-width: 24px;" /></a>
+                                                                                </td>
+                                                                                <td style="text-align: left;">
+                                                                                    <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly9tLm1lLzMwOTg1Mzg2MTQ0ND9yZWY9cGFnZXxOREl5T0RZMU56TXlPR0kxTnpjeE1XSXhMakUxT0RNeU5qUXdYelJoWkdZelpUUXdNemRpTW1RNU5qVTBPV0ZrTWpRelpEUmxaRFZqWVdZM1FHRndhUzVsYldGcGJHeGhZbk11Ym1WMExuQnNmRVp5YVN3Z09DQkVaV01nTWpBeU15QXhOVG96TVRveE55QXJNREV3TUh4dFkyaHNiV0Z5WTNwaGEwQm5iV0ZwYkM1amIyMThOeTVsYjJKMWQybGxjR3d1YzIxMGNIeHlaV1JuY21sa05ESjhNUXA4TVM0MVl6QXhOR1JrTURKbU1UVmxZV1ptTWpZeU1USTBNemszTVRJd1pHWm1Zdz09" target="_blank" style="color: #2F2F2F; text-decoration: none; font-size: 14px; font-weight: bold;">Messenger</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                                <!--<tr>
+                                                                    <td style="font-size: 12px; color: #757575; line-height: 18px; padding-top: 8px; padding-right: 30px;">
+                                                                        Dostępność naszych Konsultantów:<br />
+                                                                        PN-PT: 8:00 - 21:00, SB-ND: 8:00 - 19:00.
+                                                                    </td>
+                                                                </tr>-->
+                                                                <tr>
+                                                                    <td style="font-size: 14px; color: #2F2F2F; line-height: 20px; padding-top: 8px;padding-right: 60px;">
+                                                                        Zapraszamy również na naszą stronę <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZW9idXdpZS5jb20ucGwva29udGFrdHxOREl5T0RZMU56TXlPR0kxTnpjeE1XSXhMakUxT0RNeU5qUXdYelJoWkdZelpUUXdNemRpTW1RNU5qVTBPV0ZrTWpRelpEUmxaRFZqWVdZM1FHRndhUzVsYldGcGJHeGhZbk11Ym1WMExuQnNmRVp5YVN3Z09DQkVaV01nTWpBeU15QXhOVG96TVRveE55QXJNREV3TUh4dFkyaHNiV0Z5WTNwaGEwQm5iV0ZwYkM1amIyMThOeTVsYjJKMWQybGxjR3d1YzIxMGNIeHlaV1JuY21sa05ESjhNUXA4TVM0NFpHTmhPRFl3TTJSak1XVTBNell5T0RsbU5UQTJNR1kxTWpKak9HSmlOUT09" target="_blank" style="color: #289B38; text-decoration: underline;">Kontakt</a>.
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+
+                                                        </td>
+                                                        <td style="vertical-align: top; display: inline-block;">
+
+                                                            <table style="width:100%;border-collapse:collapse;vertical-align: top;margin: 0;padding: 0;max-width: 305px;" cellpadding="0" cellspacing="0">
+                                                                <tr>
+                                                                    <td style="vertical-align: top;margin: 0;padding: 0;">
+                                                                        <table style="width:100%;border-collapse:collapse;vertical-align: top;" cellpadding="0" cellspacing="0" align="left">
+                                                                            <tr>
+                                                                                <td style="padding-top: 6px;">&nbsp;</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td style="font-size: 20px; color: #2F2F2F; line-height: 28px; display:inline-block;">
+                                                                                    <b>Kupuj wygodniej z&nbsp;aplikacją</b>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td style="font-size: 14px; color: #2F2F2F; line-height: 20px; padding-top: 8px; min-width:305px;">
+                                                                                    Pobierz aplikację i otrzymaj <b>rabat&nbsp;20 zł</b> na&nbsp;pierwsze zakupy!
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td style="padding-top: 16px;">
+                                                                                    <table style="width:100%;max-width:305px;border-collapse:collapse;" cellpadding="0" cellspacing="0">
+                                                                                        <tr>
+                                                                                            <td>
+                                                                                                <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly9uZXdzbGV0dGVyZW9iLm9uZWxpbmsubWUvcU90Yy9uZXdzcGx8TkRJeU9EWTFOek15T0dJMU56Y3hNV0l4TGpFMU9ETXlOalF3WHpSaFpHWXpaVFF3TXpkaU1tUTVOalUwT1dGa01qUXpaRFJsWkRWallXWTNRR0Z3YVM1bGJXRnBiR3hoWW5NdWJtVjBMbkJzZkVaeWFTd2dPQ0JFWldNZ01qQXlNeUF4TlRvek1Ub3hOeUFyTURFd01IeHRZMmhzYldGeVkzcGhhMEJuYldGcGJDNWpiMjE4Tnk1bGIySjFkMmxsY0d3dWMyMTBjSHh5WldSbmNtbGtOREo4TVFwOE1TNDNZVFk0TVRCaE0ySTNNalF5T1dSaVlXRTFOVFppWkRkbVptUTBOV1UyTVE9PQ%3D%3D" target="_blank"><img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/googleplay.png)/googleplay.png" alt="google play icon" width="150" style="max-width:150px;" /></a>
+                                                                                            </td>
+                                                                                            <td rowspan="3" style="text-align: right; vertical-align: top;">
+                                                                                                <img src="https://img.eobuwie.cloud/mag(global_elements/email_template/QR/2306/PLQR.png)/PLQR.png" alt="qr code icon" width="140" style="max-width:140px; border: 1px solid #757575; border-radius: 5px;" />
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td>
+                                                                                                <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly9uZXdzbGV0dGVyZW9iLm9uZWxpbmsubWUvcU90Yy9uZXdzcGx8TkRJeU9EWTFOek15T0dJMU56Y3hNV0l4TGpFMU9ETXlOalF3WHpSaFpHWXpaVFF3TXpkaU1tUTVOalUwT1dGa01qUXpaRFJsWkRWallXWTNRR0Z3YVM1bGJXRnBiR3hoWW5NdWJtVjBMbkJzZkVaeWFTd2dPQ0JFWldNZ01qQXlNeUF4TlRvek1Ub3hOeUFyTURFd01IeHRZMmhzYldGeVkzcGhhMEJuYldGcGJDNWpiMjE4Tnk1bGIySjFkMmxsY0d3dWMyMTBjSHh5WldSbmNtbGtOREo4TVFwOE1TNDNZVFk0TVRCaE0ySTNNalF5T1dSaVlXRTFOVFppWkRkbVptUTBOV1UyTVE9PQ%3D%3D" target="_blank"><img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/appstore.png)/appstore.png" alt="app stroe icon" width="150" style="max-width:150px;" /></a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td>
+                                                                                                <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly9uZXdzbGV0dGVyZW9iLm9uZWxpbmsubWUvcU90Yy9uZXdzcGxobXN8TkRJeU9EWTFOek15T0dJMU56Y3hNV0l4TGpFMU9ETXlOalF3WHpSaFpHWXpaVFF3TXpkaU1tUTVOalUwT1dGa01qUXpaRFJsWkRWallXWTNRR0Z3YVM1bGJXRnBiR3hoWW5NdWJtVjBMbkJzZkVaeWFTd2dPQ0JFWldNZ01qQXlNeUF4TlRvek1Ub3hOeUFyTURFd01IeHRZMmhzYldGeVkzcGhhMEJuYldGcGJDNWpiMjE4Tnk1bGIySjFkMmxsY0d3dWMyMTBjSHh5WldSbmNtbGtOREo4TVFwOE1TNDNPV1ZtWmpReU9USTJPV1ZrTURkalpUWXpNakl6Tm1aalpqWXdOV0ZoTmc9PQ%3D%3D" target="_blank"><img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/appgallery.png)/appgallery.png" alt="app gallery icon" width="150" style="max-width:150px;" /></a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td style="font-size: 12px; color: #222222; line-height: 18px; padding-top: 10px; padding-bottom: 15px;" colspan="2">
+                                                                                                Szczegóły promocji w&nbsp;<a href="www.eobuwie.pl/b/regulaminapp10" target="_blank" style="color: #289B38; text-decoration: underline;">Regulaminie</a>.
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <table style="width:100%;max-width:648px;border-collapse:collapse;">
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                        </tr>
+                                    </table>
+
+                                    <table style="width:100%;max-width:648px;border-collapse:collapse;text-align: center;" align="center" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td style="padding: 0px 24px;">
+                                                <table style="width:100%; max-width:340px; text-align: center;border-collapse:collapse;" cellpadding="0" cellspacing="0" align="center">
+                                                    <tr>
+                                                        <td style="display: inline-block; padding-bottom: 4px;">
+                                                            <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2VvYnV3aWVwbC98TkRJeU9EWTFOek15T0dJMU56Y3hNV0l4TGpFMU9ETXlOalF3WHpSaFpHWXpaVFF3TXpkaU1tUTVOalUwT1dGa01qUXpaRFJsWkRWallXWTNRR0Z3YVM1bGJXRnBiR3hoWW5NdWJtVjBMbkJzZkVaeWFTd2dPQ0JFWldNZ01qQXlNeUF4TlRvek1Ub3hOeUFyTURFd01IeHRZMmhzYldGeVkzcGhhMEJuYldGcGJDNWpiMjE4Tnk1bGIySjFkMmxsY0d3dWMyMTBjSHh5WldSbmNtbGtOREo4TVFwOE1TNDVNR0ZtTnpBeVpqWTBZamxpWm1Vek9HUmpPVEUzTkRNMlpEUXhNbVJtWmc9PQ%3D%3D" target="_blank"><img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/facebook.png)/facebook.png" alt="facebook icon" width="48" style="padding-right: 4px;max-width: 48px;" /></a>
+                                                            <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9lb2J1d2llfE5ESXlPRFkxTnpNeU9HSTFOemN4TVdJeExqRTFPRE15TmpRd1h6UmhaR1l6WlRRd016ZGlNbVE1TmpVME9XRmtNalF6WkRSbFpEVmpZV1kzUUdGd2FTNWxiV0ZwYkd4aFluTXVibVYwTG5Cc2ZFWnlhU3dnT0NCRVpXTWdNakF5TXlBeE5Ub3pNVG94TnlBck1ERXdNSHh0WTJoc2JXRnlZM3BoYTBCbmJXRnBiQzVqYjIxOE55NWxiMkoxZDJsbGNHd3VjMjEwY0h4eVpXUm5jbWxrTkRKOE1RcDhNUzVrWWpBNE1HVm1NRE14TXprNE1HRXhNR00yWm1SbU5XWTJZamczT1ROak9BPT0%3D" target="_blank"><img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/instagram.png)/instagram.png" alt="instagram icon" width="48" style="padding-right: 4px;max-width: 48px;" /></a>
+                                                            <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzQzeWp5MmlSZnlMUW5sUU80NUEyWFF8TkRJeU9EWTFOek15T0dJMU56Y3hNV0l4TGpFMU9ETXlOalF3WHpSaFpHWXpaVFF3TXpkaU1tUTVOalUwT1dGa01qUXpaRFJsWkRWallXWTNRR0Z3YVM1bGJXRnBiR3hoWW5NdWJtVjBMbkJzZkVaeWFTd2dPQ0JFWldNZ01qQXlNeUF4TlRvek1Ub3hOeUFyTURFd01IeHRZMmhzYldGeVkzcGhhMEJuYldGcGJDNWpiMjE4Tnk1bGIySjFkMmxsY0d3dWMyMTBjSHh5WldSbmNtbGtOREo4TVFwOE1TNDFORE0xTnpjek9URXpPRGRtWXpJMFkyWm1OamN3WWpZeU5XVmxORFJoWWc9PQ%3D%3D" target="_blank"><img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/youtube.png)/youtube.png" alt="youtube icon" width="48" style="max-width: 48px;" /></a>
+                                                        </td>
+                                                        <td style="display: inline-block; vertical-align: top;">
+                                                            <a href="http://eobuwiepl.emaillabs.info.pl/click/?lt=aHR0cHM6Ly9nLnBhZ2Uvci9DWEw0QnNSNkxvRmlFQUkvcmV2aWV3fE5ESXlPRFkxTnpNeU9HSTFOemN4TVdJeExqRTFPRE15TmpRd1h6UmhaR1l6WlRRd016ZGlNbVE1TmpVME9XRmtNalF6WkRSbFpEVmpZV1kzUUdGd2FTNWxiV0ZwYkd4aFluTXVibVYwTG5Cc2ZFWnlhU3dnT0NCRVpXTWdNakF5TXlBeE5Ub3pNVG94TnlBck1ERXdNSHh0WTJoc2JXRnlZM3BoYTBCbmJXRnBiQzVqYjIxOE55NWxiMkoxZDJsbGNHd3VjMjEwY0h4eVpXUm5jbWxrTkRKOE1RcDhNUzVoWlRrMU1HUXhNalZqT1dKbVpqVmlNemt5TkRBeU56ZGhZV001TlRrMk13PT0%3D" target="_blank"><img src="https://img.eobuwie.cloud/mag(global_elements/email_template/icons_footer/2305/ocen_nas.png)/ocen_nas.png" alt="rate us icon" width="154" style="max-width:154px;padding: 0px 8px;display:inline-block;" /></a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <table style="width:100%;max-width:648px;border-collapse:collapse;" align="center" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td style="padding: 18px 24px;">
+                                                <table style="width:100%;border-collapse:collapse;text-align:justify;">
+                                                    <tr>
+                                                        <td style="font-size: 12px; color: #757575; line-height: 18px;">
+                                                            Ta wiadomość została wysłana przez sklep internetowy eobuwie.pl, należący do MODIVO S.A. z siedzibą w Zielonej Górze, ul. Nowy Kisielin – Nowa 9, 66-002 Zielona Góra. Kontakt: info@eobuwie.pl. Firma wpisana jest do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego, prowadzonego przez Sąd Rejonowy w Zielonej Górze, Wydział VIII Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS: 0000541722, kapitał zakładowy 2 008 001 PLN (dwa miliony osiem tysięcy jeden złotych) w całości opłacony, NIP: 9291353356, REGON: 970569861, BDO: 000031285.
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+
+                                </td>
+                            </tr>
+                        </table>
+        </center>
+    <img src="http://eobuwiepl.emaillabs.info.pl/open/?ot=NDIyODY1NzMyOGI1NzcxMWIxLjE1ODMyNjQwXzRhZGYzZTQwMzdiMmQ5NjU0OWFkMjQzZDRlZDVjYWY3QGFwaS5lbWFpbGxhYnMubmV0LnBsfEZyaSwgOCBEZWMgMjAyMyAxNTozMToxNyArMDEwMHxtY2hsbWFyY3pha0BnbWFpbC5jb218Ny5lb2J1d2llcGwuc210cHxyZWRncmlkNDJ8MQp8MS45MWJkYjY0ZTg2N2QwODhjNGEwZDIyMWRkNDM3ZGFhZA%3D%3D" alt="" width="1" height="1" border="0" style="height:1px;width:1px;border-width:0;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"/><div style="width:1px;height:1px;border-width:0;background:url('http://eobuwiepl.emaillabs.info.pl/open/?ot=NDIyODY1NzMyOGI1NzcxMWIxLjE1ODMyNjQwXzRhZGYzZTQwMzdiMmQ5NjU0OWFkMjQzZDRlZDVjYWY3QGFwaS5lbWFpbGxhYnMubmV0LnBsfEZyaSwgOCBEZWMgMjAyMyAxNTozMToxNyArMDEwMHxtY2hsbWFyY3pha0BnbWFpbC5jb218Ny5lb2J1d2llcGwuc210cHxyZWRncmlkNDJ8MQp8MS45MWJkYjY0ZTg2N2QwODhjNGEwZDIyMWRkNDM3ZGFhZA%3D%3D')"></div></body>
+</html>

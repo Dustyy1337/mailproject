@@ -6,7 +6,7 @@ import javax.mail.Store;
 import java.util.Properties;
 
 public class SingleSession {
-    private Session session;
+    public Session session;
     public String host, username, password, refreshToken;
     public boolean isOauth2;
     public long expiration;

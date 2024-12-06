@@ -1,0 +1,817 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><META NAME="referrer" CONTENT="no-referrer">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif]-->
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="email=no" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:800&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+<!--[if mso]> <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet" type="text/css" /> 
+<link href="https://fonts.googleapis.com/css?family=Montserrat:extrabold&display=swap" rel="stylesheet" type="text/css" /> 
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+<![endif]-->
+<title>"Lemme at 'Em!" Boosted Drop Rate for Arataki Itto! | Genshin Impact</title><!--[if mso]>    <style type="text/css">      .exposant { vertical-align: top;mso-text-raise: 55%; font-size: 60% ; line-height:1.5; }     .indice { vertical-align: bottom;mso-text-lower: 55%; font-size: 60% ; line-height:1.5; }   </style>  <![endif]-->
+<style type="text/css">
+  /* thai */
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/kanit/v7/nKKZ-Go6G5tXcraBGwCYdA.woff2) format('woff2');
+  unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/kanit/v7/nKKZ-Go6G5tXcraaGwCYdA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+*[x-apple-data-detectors],.unstyle-auto-detected-links *,.aBn {border-bottom: 0 !important;cursor: default !important;color: inherit !important;text-decoration: none !important;font-size: inherit !important;font-family: inherit !important;font-weight: inherit !important;line-height: inherit !important;}
+#outlook a { padding: 0; }
+
+body { width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0; }
+.ExternalClass { width: 100%; }
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div { line-height: 100%; }
+.img-swap:hover img { max-height: 0px !important; height:0px !important;}
+.rollover:hover .main{
+    max-height: 0px !important;
+}
+.rollover:hover .alt{
+    max-height: none !important;
+}
+#backgroundTable { margin: 0; padding: 0; width: 100% !important; line-height: 100% !important; }
+img { outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; }
+.image_fix { display: block; }
+a img { border: none; }
+p { margin: 1em 0; }
+br { line-height: 100%; }
+td { border-collapse: collapse; }
+table { border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0px; }
+br { line-height: normal; }
+div { border: 0px; }
+a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
+div[style*="margin: 16px 0"] { margin: 0 !important; }
+img + div {display:none !important;}
+.exposant {position: relative;bottom: 0px;font-size: 70%;line-height: normal;vertical-align: super;text-decoration:none !important;}
+.indice {position: relative;bottom: 0px;font-size: 70%;line-height: normal;vertical-align: bottom;text-decoration:none !important;}
+
+@media only screen and (min-width: 800px){
+.hide {display: none !important;max-height: 0 !important;mso-hide: all !important;overflow: hidden !important;font-size: 0 !important;line-height: 0 !important;padding: 0 !important;}
+.show {display: block !important;}
+.btn-hover:hover {background-color: #4b6ca9!important;color: ##VARIABLE-HOVERTXTCOLOR##!important;}
+.img-hover:hover {opacity: 0.8!important;  }
+.responsiveSpacer {display: inline-block !important;}
+}
+@media screen and (max-width: 400px) {
+.s-fullWidth { display: block !important; width: 100% !important; height: auto !important; max-width:100% !important }
+.s-hide {  display: none !important; max-height: 0 !important; mso-hide: all !important; overflow: hidden !important; font-size: 0 !important; line-height: 0 !important; padding: 0 !important; }
+.s-show { display: block !important; max-height: none !important; line-height: 100% !important; font-size: inherit !important; }
+.s-hackgmail { display: none; display: none!important; }
+.s-w250 { width: 250px !important; height: auto !important; max-width:250px !important; }  
+}
+</style>
+<!--[if mso]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+</head>
+<body bgcolor="#bdd0ff" style="background-color:#bdd0ff; margin-left:auto; margin-right:auto; width:100%; max-width:100%" ><img src="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=1&url=&v=1.0&sign=dbb81e18c724f24303b20a886092066b" heigth="0" width="0" border="0" />
+<style type="text/css">
+@media yahoo and (max-width: 560px) {
+.s-show {display:block!important; max-height: none !important; line-height: 100% !important; font-size: inherit !important;}
+}
+</style>
+    <center>
+      <span style="display: none; font-size: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;">To thank you for your continuous support of Genshin Impact, thank-you letters containing a total of Primogems ×800 have been sent to you via in-game mail. Please remember to claim it~</span><div id="container" style="background-color:#bdd0ff;" ></div><!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+<div style="display: none; max-height: 0px; overflow: hidden;">
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+</div><div id="container" style="width: 100%; height: auto; margin: 0; padding: 0; background-image: url('#bdd0ff'); background-repeat: repeat; background-position: top center; background-size: 100%;background-color:#bdd0ff;" >
+<!-- EMAIL************************************************************************ -->
+      <!-- BODY************************************************************************ -->
+      <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; min-width: 100%; height: auto; background-color: #bdd0ff;" role="presentation">
+         <tr>
+            <td align="center" style="width: 100%; min-width: 100%; height: auto; padding: 0;">
+               <!--[if mso]>
+               <table cellpadding="0" cellspacing="0" border="0" style="width: 800px; margin: 0 auto;">
+                  <tr>
+                     <td style="width: 800px; height: auto; padding: 0; text-align: center;background-color: #1c3c76;">
+                        <![endif]-->
+      <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; min-width: 100%; height: auto; background-color: #bdd0ff;" role="presentation">
+         <tr>
+            <td align="center" style="width: 100%; min-width: 100%; height: auto; padding: 0;">
+    <div class="s-fullWidth" style="width: 100%; max-width: 800px; height: auto; margin: 0; padding: 0; background-color: #1c3c76;">   
+<table class="s-fullWidth" cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width: 800px; height: auto; background-color: #141e37;" role="presentation">
+         <tr>
+            <td align="center" style="width: 100%; min-width: 100%; height: auto; padding: 0;"> 
+    <div class="s-fullWidth" style="width: 100%; max-width: 800px; height: auto; margin: 0; padding: 0; background-image: url('https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/6ebd66456521339e0f0feafb491c6da1_493207211744450188.jpg'); background-repeat: repeat; background-position: top center; background-size: 100%; background-color: #141e37;">
+      <!-- Desktop bar -->
+      <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; min-width: 100%; height: auto; background-color: #bdd0ff;" role="presentation">
+         <tr>
+            <td align="center" style="width: 100%; min-width: 100%; height: auto; padding: 0;">
+               <!--[if mso]>
+               <table cellpadding="0" cellspacing="0" border="0" style="width: 800px; margin: 0 auto;">
+                  <tr>
+                     <td style="width: 800px; height: auto; padding: 0; text-align: center; ">
+                        <![endif]-->
+                        <div class="s-fullWidth" style="width: 100%; max-width: 800px; height: auto; padding: 0; ">
+                           <div class="show" style="display: none; mso-hide: all; width: 100%; max-width: 800px; height: auto; margin: 0 auto; padding: 0; text-align: center;">
+                              <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; min-width: 100%; height: auto; padding: 0; background-color: #1c3c76;" role="presentation">
+                                 <tr>
+                                    <td style="width: 40%; height: auto; padding: 0 0 0 20px; text-align: left; " align="left">
+                                       <a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2Fen%2Fhome%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=a79fef27c510e26ad2aad9a4ac6db535" target="_blank" style="display: block;"> <img class="img-hover" src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2021/07/15/6beb757dff24c0bd8aee2bb6ef68be49_3607035796495807940.png" alt="Logo" style="display: block; border: 0;padding-left:20px;width:130px" width="130"></a></td><td class="img-hover" style="width: 15%; height: auto; padding: 0; text-align: center; " align="right"> <a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwebstatic-sea.hoyoverse.com%2Fys%2Fevent%2Fsignin-sea-v3%2Findex.html%3Fact_id%3De202102251931481%26mhy_auth_required%3Dtrue%26mhy_presentation_style%3Dfullscreen%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=6adfc5dee76fd0afbff4eac299f43ea0" target="_blank" style="display: block;font-family: Tahoma, Geneva, sans-serif;font-size: 15px; font-weight: bold; line-height: 130%; color: #FFFFFF; text-align: center; margin: 0px; padding: 0 10px 0  0;text-transform: uppercase;text-decoration: none"> Check in</a></td><td class="img-hover" style="width: 15%; height: auto; padding: 0; text-align: center; border-left: 0px solid #676767; " align="right"><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwebstatic-sea.hoyoverse.com%2Fapp%2Fcommunity-game-records-sea%2Findex.html%3Fbbs_presentation_style%3Dfullscreen%26bbs_auth_required%3Dtrue%26v%3D101%26gid%3D2%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=38e664c89a446dbbadb894d1e061dcfb" target="_blank" style="display: block;font-family: Tahoma, Geneva, sans-serif;font-size: 15px; font-weight: bold; line-height: 1.3; color:#FFFFFF; text-align: center; margin: 0px; padding: 0 10px 0  0;text-transform: uppercase;text-decoration: none"> Battle Chronicle</a></td> <td class="img-hover" style="width: 15%; height: auto; padding: 0; text-align: center; border-left: 0px solid #676767; " align="right">
+                                       <a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2Fen%2Fdownload%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=6e34adb35987c8d9a5eac918fadd5c36" target="_blank" style="display: block;font-family: Tahoma, Geneva, sans-serif;font-size: 15px; font-weight: bold; line-height: 1.3; color: #FFFFFF; text-align: center; margin: 0px; padding: 0 10px 0 0;text-transform: uppercase;text-decoration: none"> Download</a> </td> </tr> </table> </div></div>
+                        <!--[if mso]>
+                     </td>
+                  </tr>
+               </table>
+               <![endif]-->
+            </td>
+         </tr>
+      </table>
+    <!-- Desktop bar************************************************************************ --> <!-- Mobile bar************************************************************************ -->
+      <!--[if !mso]><!-->
+      <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; height: auto; background-color: #1c3c76;" role="presentation">
+         <tr>
+            <td align="center" style="width: 100%; min-width: 100%; height: auto; padding: 0;">
+               <!--[if mso]>
+               <table cellpadding="0" cellspacing="0" border="0" style="width: 800px; margin: 0 auto; ">
+                  <tr>
+                     <td style="width: 480px; height: auto; padding: 0; text-align: center; ">
+                        <![endif]-->
+                        <div style="width: 100%; height: auto; padding: 0; ">
+                           <div class="hide" style="display: block; width: 100%; max-width: 480px; height: auto; margin: 0 auto; padding: 0; text-align: center;">
+                              <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; min-width: 100%; height: auto; padding: 0;" role="presentation">
+                                 <tr>
+                                    <td style="width: 100%; height: auto; padding: 0px; text-align: center; " align="center">
+                                       <a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2Fen%2Fhome%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=a79fef27c510e26ad2aad9a4ac6db535" target="_blank" ><img class="img-hover" src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2021/07/15/6beb757dff24c0bd8aee2bb6ef68be49_3607035796495807940.png" alt="Logo" width="130" style="display: inline-block; border: none;max-width: 130px;">
+                                       </a>
+                                    </td>
+                                    
+                                 </tr>
+                              </table>
+                           </div>
+                        </div>
+                        <!--[if mso]>
+                     </td>
+                  </tr>
+               </table>
+               <![endif]-->
+            </td>
+         </tr>
+      </table>
+      <!--<![endif]-->
+      <!-- /Mobile bar****************** -->            <!-- ####END_header#### -->  <!-- BEGIN IMAGE WITH MOBILE -->
+        <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;" >
+         <tr>
+                                  <td align="center" valign="top">
+                                            <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;" class="s-hide" >
+                                                <tr>
+                                                    <td><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2F%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=860b6f05d75dbb5ac8bedace583c6bd9" target="_blank" ><img class="img-hover s-fullwidth" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/6f1e6dfe44e534a90c3ce82d0e7076de_7792230110203720752.png" alt="3_3_regular_recall" style="display:block; max-width:800px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; "  width="800" border="0" /></a></td></tr></table><!--[if !mso]><!-->
+                                            <div class="s-show" style="font-size:0;max-height:0;overflow:hidden;display:none;">
+                                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                                    <tr>
+                                                        <td align="center"><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2F%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=860b6f05d75dbb5ac8bedace583c6bd9" target="_blank" ><img class="img-hover s-fullWidth" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/b2ad672c0bd473c831b356db9f3d6efb_3987405806859393272.png" alt="3_3_regular_recall" style="display:block;  width:100%; height:auto"  border="0" /></a></td></tr></table></div>
+                                            <!--<![endif]--> </td>
+                                    </tr>
+                                </table> 
+<!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table><!-- BEGIN SUB AC TITLE - STD -->
+        <table role="presentation" style="border-collapse:collapse;" width="90%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                <tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:center;" ><font color="#b1d0f6">Dear Traveler,<br/>To thank you for your continuous support of Genshin Impact, thank-you letters containing a total of Primogems ×800 have been sent to you via in-game mail. Please remember to claim it~<br/>In addition, the new permanent gameplay mode "Genius Invokation TCG" is also available, how about a duel?<br/>The characters Wanderer and Arataki Itto are also available with a boosted drop rate for a limited time, don't miss them!</font></td></tr></table><!-- END SUB AC TITLE - STD --><!-- BB -->      <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:10px;" height="10">&nbsp;</td>
+                                    </tr>
+                                </table>
+                           <!-- BEGIN 2CTA -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="padding:0;font-size:0;text-align:center;" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td valign="top"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:400px;" class="s-fullWidth"><div style="display:inline-block;vertical-align:top;width:100%;max-width:280px;" >
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0"><tr>
+ <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+      <td align="center" bgcolor="#1c3c76" class="btn-hover"  style="max-width: 280px; border: 0px solid ; border-radius: 50px; cursor: pointer; padding: 20px 10px; background: #1c3c76;" valign="middle">
+        <a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2F%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=860b6f05d75dbb5ac8bedace583c6bd9"  target="_blank" style="color: #ffffff; font-family: Tahoma, Geneva, sans-serif; font-size:18px; line-height:140%; font-weight: bold; text-align: center; text-transform: uppercase; text-decoration: none; margin: 0; "> More Version Information </a>
+      </td>
+      <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div></div><!--[if mso]></td>   <td  valign="top" style="width:400px;"><![endif]-->
+                                               <div style="display:inline-block;vertical-align:top;width:100%;max-width:400px;" class="s-fullWidth"><div style="display:inline-block;vertical-align:top;width:100%;max-width:280px;" >
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+ <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+      <td align="center" bgcolor="#1c3c76" class="btn-hover"  style="max-width: 280px; border: 0px solid ; border-radius: 50px; cursor: pointer; padding: 20px 10px; background: #1c3c76;" valign="middle">
+        <a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fapp.adjust.com%2Fhnknu66%3Ffallback%3Dhttps%253A%252F%252Fgenshin.mihoyo.com%252Fen%252Fdownload%253Futm_source%253Dnewsletter_3_3_regular_recall%2526utm_medium%253Demail%2526utm_campaign%253D3_3_regular_recall&v=1.0&sign=bdf7cb307042da356c388d85c2071475"  target="_blank" style="color: #ffffff; font-family: Tahoma, Geneva, sans-serif; font-size:18px; line-height:140%; font-weight: bold; text-align: center; text-transform: uppercase; text-decoration: none; margin: 0; "> Play Now </a>
+      </td>
+      <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                                </table>
+                                          </div></div>
+                                          <!--[if mso]></td></tr></table><![endif]-->
+                                        </td>
+                                    </tr>
+                                </table>
+       <!-- END 2CTA --><!-- BEGIN SUB AC TITLE - STD -->
+        <table role="presentation" style="border-collapse:collapse;" width="90%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                <tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:14px; line-height:22px; color:#b1d0f6; text-align:center;" ><font color="#b1d0f6">*There are 4 thank-you letters that contain a total of Primogems ×800.</font></td></tr></table><!-- END SUB AC TITLE - STD --><!-- BB -->      <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:10px;" height="10">&nbsp;</td>
+                                    </tr>
+                                </table>
+                           <!-- BEGIN STD right -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" dir="rtl" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px" dir="rtl"><tr><td  valign="top" align="right" style="width:220px;" dir="ltr"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:220px;" class="s-fullWidth">
+                                                <table align="right"  role="presentation" style="border-collapse:collapse;" dir="ltr" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                <tr>
+                                                        <td align="center"  ><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fact.hoyolab.com%2Fpuzzle%2Fbbs%2Fpz_1f73uq_f9G%2Findex.html%3Fgame_biz%3Dbbs_oversea%26hyl_presentation_style%3Dfullscreen%26hyl_auth_required%3Dtrue%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=3153f89bb6ee0bb1c2873f2f5915bfe5" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/5b765ce6b12b0899ba369780a32fa9d7_628415353756258558.png" alt="3_3_regular_recall" style="display:block; max-width:220px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="220" border="0" /></a></td></tr></table></div><!--[if mso]></td><td  valign="top" style="width:400px;" dir="ltr"><![endif]--><div style="display:inline-block;vertical-align:top;width:100%;max-width:500px;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td style="padding-left:20px; padding-right:20px" class="xs-half-PaddingText">
+                                                            <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                               <tr>
+                                                          <td align="left" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%;color:#9cdafd; text-align:LEFT; padding: 10px 0;" ><strong><font color="#9cdafd">Hilichurls' Treasure Trove</font></strong></td></tr><tr><td align="left" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:LEFT;" >The web event has begun, take part to obtain Primogems and other rewards!</td></tr>   <tr><td align="right" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:right;padding: 10px 0;" >
+<a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fact.hoyolab.com%2Fpuzzle%2Fbbs%2Fpz_1f73uq_f9G%2Findex.html%3Fgame_biz%3Dbbs_oversea%26hyl_presentation_style%3Dfullscreen%26hyl_auth_required%3Dtrue%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=3153f89bb6ee0bb1c2873f2f5915bfe5"  target="_blank" style="color: #b1d0f6; font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; font-weight: bold; text-align: right; text-transform: uppercase; text-decoration: underline;  "> Take Part in the Web Event Now >>> </a>
+      </td>
+                   </tr>
+                  </table>
+                                                                    </td>
+                                                                </tr>
+                                            </table></div><!--[if mso]></td></tr></table><![endif]-->
+                                                        </td>
+                                                    </tr>
+                                                </table>  <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+        <!-- BF -->        <!-- BEGIN AC TITLE With BG IMG-->
+<table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td style="padding:0px;background-image: url('https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/f2a999dd5f7c29460bb2239cbc4dee0d_3532840834141604986.png'); background-repeat: no-repeat; background-position: center center; background-size: 800px;" align="center" >
+<table role="presentation" style="border-collapse:collapse;width:340px;" width="340"  cellspacing="0" cellpadding="0" border="0" align="center"  class="xs-max400"><tr><td style="height:30px;" height="30">&nbsp;</td></tr><tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%; color:#b1d0f6; text-align:center; " ><strong><center><span style="font-size:14px;line-height:21px;">In Progress</span><br/>Limited-Time Wishes</center></strong></td></tr><tr><td style=" height:30px;" height="30">&nbsp;</td></tr></table></td></tr></table><!-- END AC TITLE with BG IMG --><!-- BB -->                               <!-- BEGIN STD LEFT CHARACTER BLOCK -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:400px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14128952%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=0b346881ea7641de519800999292af6d" target="_blank" ><img class="img-hover s-fullwidth" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/543bef75f089d44c02377e0f10127ad5_575533319850181633.png" alt="3_3_regular_recall" style="display:block; max-width:400px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; "  width="400" border="0" /></a></td></tr></table></div>
+<!--[if mso]> </td><td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:320px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td style="padding-left:20px; padding-right:20px" class="xs-half-PaddingText">
+                                                            <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+            
+                                                               <tr>
+                                                        <td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:32px; line-height:45px;color:#9cdafd; text-align:center; text-transform:uppercase;" ><strong><span style="font-size:14px;line-height:21px;">New Character</span><br/>Wanderer</strong></td></tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr><td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:32px; line-height:45px;color:#b1d0f6; text-align:center; padding: 0 10px;text-transform:uppercase;" ><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2FNHEE_-87mNE%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=bcef7b4eb7cb223968704c9c82456da6" target="_blank" ><img class="img-hover s-fullwidth" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/9f0b285bf7c947329d38523a532c8ae6_2350972076297573013.png" alt="3_3_regular_recall" style="display:block; max-width:280px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%;  "  width="280" border="0" /></a></td></tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr><td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:14px; line-height:140%;color:#b1d0f6; text-align:center;" >A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.</td></tr>   
+<tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr><td align="center" style="text-align:Right; padding: 10px;text-transform:uppercase;"><a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14128952%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=0b346881ea7641de519800999292af6d"  target="_blank" style="color: #b1d0f6; font-family: Tahoma, Geneva, sans-serif; font-size:18px; line-height:140%; font-weight: bold; text-align: right; text-transform: uppercase; text-decoration: underline;  margin: 0; ">More about the Wanderer>>></a>
+      
+                    </td>
+                   </tr>
+                  </table>
+                                                                    </td>
+                                                                </tr>
+                                            </table></div><!--[if mso]></td></tr></table><![endif]-->
+                                                        </td>
+                                                    </tr>
+                                                </table>  <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+        <!-- BF -->       <!-- END STD LEFT CHARACTER BLOCK -->                               <!-- BEGIN STD Right Character BLOCK -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" valign="top" dir="rtl"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px" dir="rtl"><tr><td  valign="top" style="width:400px;" dir="ltr"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:400px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" dir="ltr">
+                                                    <tr>
+                                                        <td align="center"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F1580566%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=9d60f7cdd81cd08e85135155f38574ee" target="_blank" ><img class="img-hover s-fullwidth" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/07/fa08d739b9d792b5fd0d9ebf344e2441_7996991282203030781.png" alt="3_3_regular_recall" style="display:block; max-width:400px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; "  width="400" border="0" /></a></td></tr></table></div>
+<!--[if mso]> </td><td  valign="top" style="width:400px;" dir="ltr"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:320px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" dir="ltr">
+                                                    <tr>
+                                                        <td style="padding-left:20px; padding-right:20px" class="xs-half-PaddingText">
+                                                            <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+             
+                                                               <tr>
+                                                        <td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:30px; line-height:45px;color:#9cdafd; text-align:center; text-transform:uppercase;" ><strong>Arataki Itto</strong></td></tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr><td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:40px; line-height:45px;color:#b1d0f6; text-align:center; padding: 0 10px;text-transform:uppercase;" ><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2FiXeJ94AFZDw%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=835f5fddf7b08a55e785a4ffa68d958c" target="_blank" ><img class="img-hover s-fullwidth" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/5ab39040571530c9eb5cad82be0d08be_8039524445843917532.png" alt="3_3_regular_recall" style="display:block; max-width:280px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="280" border="0" /></a></td></tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr><td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:14px; line-height:140%;color:#b1d0f6; text-align:center;" >The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?</td></tr>   
+<tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr><td align="center" style="text-align:Right; padding: 10px;text-transform:uppercase;"><a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F1580566%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=9d60f7cdd81cd08e85135155f38574ee"  target="_blank" style="color: #b1d0f6; font-family: Tahoma, Geneva, sans-serif; font-size:18px; line-height:140%; font-weight: bold; text-align: right; text-transform: uppercase; text-decoration: underline;  margin: 0; ">More About Arataki Itto>>></a>
+      
+                    </td>
+                   </tr>
+                  </table>
+                                                                    </td>
+                                                                </tr>
+                                            </table></div><!--[if mso]></td></tr></table><![endif]-->
+                                                        </td>
+                                                    </tr>
+                                                </table>  <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+        <!-- BF -->       <!-- END STD Right Character BLOCK -->                               <!-- BEGIN STD LEFT CHARACTER BLOCK -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:400px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14155890%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=98d1f611e0ebd13760f8d9267edc633c" target="_blank" ><img class="img-hover s-fullwidth" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/07/542effa28d3813a99009013880f61843_8075817152000119776.png" alt="3_3_regular_recall" style="display:block; max-width:400px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; "  width="400" border="0" /></a></td></tr></table></div>
+<!--[if mso]> </td><td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:320px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td style="padding-left:20px; padding-right:20px" class="xs-half-PaddingText">
+                                                            <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+            
+                                                               <tr>
+                                                        <td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:32px; line-height:45px;color:#9cdafd; text-align:center; text-transform:uppercase;" ><strong><span style="font-size:14px;line-height:21px;">New Character</span><br/>Faruzan</strong></td></tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr><td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:32px; line-height:45px;color:#b1d0f6; text-align:center; padding: 0 10px;text-transform:uppercase;" ><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2F0grd767X4Jg%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=4aee6b8ff3b381e6532a2d99d8ff943e" target="_blank" ><img class="img-hover s-fullwidth" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/93c92c02d99a8acb49ace0cfdecfbefb_2434534240886721600.png" alt="3_3_regular_recall" style="display:block; max-width:280px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%;  "  width="280" border="0" /></a></td></tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr><td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:14px; line-height:140%;color:#b1d0f6; text-align:center;" >A researcher from "one hundred years ago." She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.</td></tr>   
+<tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr><td align="center" style="text-align:Right; padding: 10px;text-transform:uppercase;"><a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14155890%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=98d1f611e0ebd13760f8d9267edc633c"  target="_blank" style="color: #b1d0f6; font-family: Tahoma, Geneva, sans-serif; font-size:18px; line-height:140%; font-weight: bold; text-align: right; text-transform: uppercase; text-decoration: underline;  margin: 0; ">More About Faruzan>>></a>
+      
+                    </td>
+                   </tr>
+                  </table>
+                                                                    </td>
+                                                                </tr>
+                                            </table></div><!--[if mso]></td></tr></table><![endif]-->
+                                                        </td>
+                                                    </tr>
+                                                </table>  <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+        <!-- BF -->       <!-- END STD LEFT CHARACTER BLOCK -->   <!-- BEGIN AC TITLE With BG IMG-->
+<table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td style="padding:0px;background-image: url('https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/f2a999dd5f7c29460bb2239cbc4dee0d_3532840834141604986.png'); background-repeat: no-repeat; background-position: center center; background-size: 800px;" align="center" >
+<table role="presentation" style="border-collapse:collapse;width:340px;" width="340"  cellspacing="0" cellpadding="0" border="0" align="center"  class="xs-max400"><tr><td style="height:30px;" height="30">&nbsp;</td></tr><tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%; color:#b1d0f6; text-align:center; " ><strong><center><span style="font-size:14px;line-height:21px;">Version 3.3 Trailer</span><br/>"All Senses Clear, All Existence Void"</center></strong></td></tr><tr><td style=" height:30px;" height="30">&nbsp;</td></tr></table></td></tr></table><!-- END AC TITLE with BG IMG --><!-- BB -->   <!-- BEGIN BANNER NO MOBILE -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td align="center">
+                                            <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;" >
+                                                <tr align="center">
+                                                    <td ><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2FoTIHLsa0bj0%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=185f1489befe4f2a01aefd76c4c6a072"  target="_blank" ><img class="img-hover"  src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/56191129ba26b8c4148dcd6c640a0c6c_7029635018297422481.gif" style="display:block; max-width:750px; width:100%; height:auto; color:#6560B9; font-size:18px; line-height:140%; font-weight: bold; font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;" class="s-fullWidth" width="750" border="0" /></a></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                </table>
+       <!-- END BANNER --><!-- BEGIN SUB AC TITLE - STD -->
+        <table role="presentation" style="border-collapse:collapse;" width="90%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                <tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:center;" ><font color="#b1d0f6">There have been a multitude of kaidan and legends surrounding Inazuma since ancient times.<br/>Some of these tales, naturally, are linked to the generations of long-lived youkai.<br/>While others may just be mere glimpses of long-forgotten stories...</font></td></tr></table><!-- END SUB AC TITLE - STD --><!-- BB -->      <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:10px;" height="10">&nbsp;</td>
+                                    </tr>
+                                </table>
+                           <!-- BEGIN SA CTA -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td valign="top" ><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:570px;" class="s-fullWidth"><div style="display:inline-block;vertical-align:top;width:95%;max-width:350px;" >
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+ <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+      <td align="center" bgcolor="#1c3c76" class="btn-hover"  style="max-width: 350px; border: 0px solid ; border-radius: 50px; cursor: pointer; padding: 20px 10px; background: #1c3c76;" valign="middle">
+        <a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2FoTIHLsa0bj0%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=185f1489befe4f2a01aefd76c4c6a072"  target="_blank" style="color: #ffffff; font-family: Tahoma, Geneva, sans-serif; font-size:18px; line-height:140%; font-weight: bold; text-align: center; text-transform: uppercase; text-decoration: none; margin: 0; "> Watch Now </a>
+      </td>
+      <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                                </table>
+                                          </div></div>
+                                          <!--[if mso]></td></tr></table><![endif]-->
+                                        </td>
+                                    </tr>
+                                </table>
+       <!-- END SA --><!-- BEGIN AC TITLE With BG IMG-->
+<table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td style="padding:0px;background-image: url('https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/f2a999dd5f7c29460bb2239cbc4dee0d_3532840834141604986.png'); background-repeat: no-repeat; background-position: center center; background-size: 800px;" align="center" >
+<table role="presentation" style="border-collapse:collapse;width:340px;" width="340"  cellspacing="0" cellpadding="0" border="0" align="center"  class="xs-max400"><tr><td style="height:30px;" height="30">&nbsp;</td></tr><tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%; color:#b1d0f6; text-align:center; " ><strong><center>New Permanent Gameplay</center></strong></td></tr><tr><td style=" height:30px;" height="30">&nbsp;</td></tr></table></td></tr></table><!-- END AC TITLE with BG IMG --><!-- BB -->   <!-- BEGIN BANNER NO MOBILE -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td align="center">
+                                            <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;" >
+                                                <tr align="center">
+                                                    <td ><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fact.hoyoverse.com%2Fys%2Fevent%2Fe20221207-card-dhcksn%2Findex.html%3Fgame_biz%3Dhk4e_global%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=a31ba5a0425873f7679cee58c44243c3"  target="_blank" ><img class="img-hover"  src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/ed2a708104745cf86475f03120895ce3_2760565367426608037.png" style="display:block; max-width:750px; width:100%; height:auto; color:#6560B9; font-size:18px; line-height:140%; font-weight: bold; font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;" class="s-fullWidth" width="750" border="0" /></a></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                </table>
+       <!-- END BANNER --><!-- BEGIN AC TITLE -->
+        <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr>
+                                                                    <td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%;color:#9cdafd; text-align:center;text-transform:uppercase;" ><Strong><font color="#9cdafd">Genius Invokation TCG</font></strong></td></tr></table><!-- END AC TITLE --> <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+                           <!-- BEGIN SUB AC TITLE - STD -->
+        <table role="presentation" style="border-collapse:collapse;" width="90%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                <tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:center;" ><font color="#b1d0f6">A new permanent gameplay mode is available! Collect cards, build your deck, and go toe-to-toe with various opponents at the table!<br/>Tip: The "Genius Invokation TCG" preview page is now online, and contains all kinds of information, which includes Card Display, Duel Guide, Card Archive... Everything you need to know about "Genius Invokation TCG" is here.</font></td></tr></table><!-- END SUB AC TITLE - STD --><!-- BB -->      <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:10px;" height="10">&nbsp;</td>
+                                    </tr>
+                                </table>
+                           <!-- BEGIN 2CTA -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="padding:0;font-size:0;text-align:center;" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td valign="top"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:400px;" class="s-fullWidth"><div style="display:inline-block;vertical-align:top;width:100%;max-width:280px;" >
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0"><tr>
+ <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+      <td align="center" bgcolor="#1c3c76" class="btn-hover"  style="max-width: 280px; border: 0px solid ; border-radius: 50px; cursor: pointer; padding: 20px 10px; background: #1c3c76;" valign="middle">
+        <a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fact.hoyoverse.com%2Fys%2Fevent%2Fe20221207-card-dhcksn%2Findex.html%3Fgame_biz%3Dhk4e_global%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=a31ba5a0425873f7679cee58c44243c3"  target="_blank" style="color: #ffffff; font-family: Tahoma, Geneva, sans-serif; font-size:18px; line-height:140%; font-weight: bold; text-align: center; text-transform: uppercase; text-decoration: none; margin: 0; "> View Preview Page </a>
+      </td>
+      <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div></div><!--[if mso]></td>   <td  valign="top" style="width:400px;"><![endif]-->
+                                               <div style="display:inline-block;vertical-align:top;width:100%;max-width:400px;" class="s-fullWidth"><div style="display:inline-block;vertical-align:top;width:100%;max-width:280px;" >
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+ <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+      <td align="center" bgcolor="#1c3c76" class="btn-hover"  style="max-width: 280px; border: 0px solid ; border-radius: 50px; cursor: pointer; padding: 20px 10px; background: #1c3c76;" valign="middle">
+        <a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2FJUSZOjmD_1U%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=833186086c99d658ddc8801368c642a4"  target="_blank" style="color: #ffffff; font-family: Tahoma, Geneva, sans-serif; font-size:18px; line-height:140%; font-weight: bold; text-align: center; text-transform: uppercase; text-decoration: none; margin: 0; "> View Trailer </a>
+      </td>
+      <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                                </table>
+                                          </div></div>
+                                          <!--[if mso]></td></tr></table><![endif]-->
+                                        </td>
+                                    </tr>
+                                </table>
+       <!-- END 2CTA --><!-- BEGIN STD right -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" dir="rtl" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px" dir="rtl"><tr><td  valign="top" align="right" style="width:220px;" dir="ltr"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:220px;" class="s-fullWidth">
+                                                <table align="right"  role="presentation" style="border-collapse:collapse;" dir="ltr" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                <tr>
+                                                        <td align="center"  ><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle_pre%2F9438%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=c50b54114b35066ff2befa27c49648dd" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/3b8013ec311122801e8539b508365f3f_876835723125993237.png" alt="3_3_regular_recall" style="display:block; max-width:220px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="220" border="0" /></a></td></tr></table></div><!--[if mso]></td><td  valign="top" style="width:400px;" dir="ltr"><![endif]--><div style="display:inline-block;vertical-align:top;width:100%;max-width:500px;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td style="padding-left:20px; padding-right:20px" class="xs-half-PaddingText">
+                                                            <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                               <tr>
+                                                          <td align="left" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%;color:#9cdafd; text-align:LEFT; padding: 10px 0;" ><strong><font color="#9cdafd">Community Content Overview</font></strong></td></tr><tr><td align="left" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:LEFT;" >Let's take a look at a collection of Genius Invokation TCG guides, popular discussions, and events with rewards!</td></tr>   <tr><td align="right" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:right;padding: 10px 0;" >
+<a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle_pre%2F9438%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=c50b54114b35066ff2befa27c49648dd"  target="_blank" style="color: #b1d0f6; font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; font-weight: bold; text-align: right; text-transform: uppercase; text-decoration: underline;  "> View Now >>> </a>
+      </td>
+                   </tr>
+                  </table>
+                                                                    </td>
+                                                                </tr>
+                                            </table></div><!--[if mso]></td></tr></table><![endif]-->
+                                                        </td>
+                                                    </tr>
+                                                </table>  <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+        <!-- BF -->        <!-- BEGIN AC TITLE With BG IMG-->
+<table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td style="padding:0px;background-image: url('https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/f2a999dd5f7c29460bb2239cbc4dee0d_3532840834141604986.png'); background-repeat: no-repeat; background-position: center center; background-size: 800px;" align="center" >
+<table role="presentation" style="border-collapse:collapse;width:340px;" width="340"  cellspacing="0" cellpadding="0" border="0" align="center"  class="xs-max400"><tr><td style="height:30px;" height="30">&nbsp;</td></tr><tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%; color:#b1d0f6; text-align:center; " ><strong><center>New Version Topics Page</center></strong></td></tr><tr><td style=" height:30px;" height="30">&nbsp;</td></tr></table></td></tr></table><!-- END AC TITLE with BG IMG --><!-- BB -->    <!-- BEGIN STD LEFT IMAGE -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Fversion%2Finvokation%3Fgame_id%3D2%26game_version%3D3.3%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=16f42ae533368f4e5d89260344841e1b" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/7c44d49d4caf6d5879bddda135a8ba41_5774084705393657050.png" alt="3_3_regular_recall" style="display:block; max-width:380px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="380" border="0" /></a></td></tr></table></div>
+<!--[if mso]> </td>  <td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td style="padding-left:20px; padding-right:20px" class="xs-half-PaddingText">
+                                                            <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                                               <tr>
+                                                        <td align="left" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px;; line-height:140%;color:#9cdafd; text-align:left; padding: 10px 0;text-transform:uppercase;" ><strong><font color="#9cdafd"></font></strong><br/></td></tr><tr><td align="left" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:left;" >The new Version Topics Page is out now. It's your one-stop collection of the newest guides, trending discussions, and Primogem reward events! Come check it out now!</td></tr>   
+<tr><td style=" height:20px;" height="20">&nbsp;</td></tr><tr>
+      <td align="center">
+            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;" class="s-fullWidth"><div style="display:inline-block;vertical-align:top;width:100%;max-width:280px;" >
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0"><tr>
+ <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+      <td align="center" bgcolor="#1c3c76" class="btn-hover"  style="max-width: 280px; border: 0px solid ; border-radius: 50px; cursor: pointer; padding: 20px 10px; background: #1c3c76;" valign="middle">
+        <a  class="btn-hover"  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Fversion%2Finvokation%3Fgame_id%3D2%26game_version%3D3.3%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=16f42ae533368f4e5d89260344841e1b"  target="_blank" style="color: #ffffff; font-family: Tahoma, Geneva, sans-serif; font-size:18px; line-height:140%; font-weight: bold; text-align: center; text-transform: uppercase; text-decoration: none;  margin: 0; "> View Now </a>
+      </td>
+      <!--[if mso]><td>&nbsp;&nbsp;&nbsp;</td><![endif]-->
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div></div>
+                    </td>
+                   </tr>
+                  </table>
+                                                                    </td>
+                                                                </tr>
+                                            </table></div><!--[if mso]></td></tr></table><![endif]-->
+                                                        </td>
+                                                    </tr>
+                                                </table>  <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+        <!-- BF -->        <!-- BEGIN AC TITLE With BG IMG-->
+<table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td style="padding:0px;background-image: url('https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/f2a999dd5f7c29460bb2239cbc4dee0d_3532840834141604986.png'); background-repeat: no-repeat; background-position: center center; background-size: 800px;" align="center" >
+<table role="presentation" style="border-collapse:collapse;width:340px;" width="340"  cellspacing="0" cellpadding="0" border="0" align="center"  class="xs-max400"><tr><td style="height:30px;" height="30">&nbsp;</td></tr><tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%; color:#b1d0f6; text-align:center; " ><strong><center>Version Events</center></strong></td></tr><tr><td style=" height:30px;" height="30">&nbsp;</td></tr></table></td></tr></table><!-- END AC TITLE with BG IMG --><!-- BB -->   <!-- BEGIN BANNER NO MOBILE -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td align="center">
+                                            <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;" >
+                                                <tr align="center">
+                                                    <td ><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14149689%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=b71684606dba41d5cd0ce0de2aa98869"  target="_blank" ><img class="img-hover"  src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/55e48bf3aa2b7fb26a2aa81f98ae429b_3583080699493979216.png" style="display:block; max-width:750px; width:100%; height:auto; color:#6560B9; font-size:18px; line-height:140%; font-weight: bold; font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;" class="s-fullWidth" width="750" border="0" /></a></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                </table>
+       <!-- END BANNER --><!-- BEGIN AC TITLE -->
+        <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr>
+                                                                    <td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%;color:#9cdafd; text-align:center;text-transform:uppercase;" ><Strong><font color="#9cdafd">Akitsu Kimodameshi</font></strong></td></tr></table><!-- END AC TITLE --> <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+                           <!-- BEGIN SUB AC TITLE - STD -->
+        <table role="presentation" style="border-collapse:collapse;" width="90%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                <tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:center;" ><font color="#b1d0f6">The ever-well-informed Paimon has caught wind of a exciting new event hosted by the Yashiro Commission called the "Test of Courage." Experience new amusements and win awesome rewards before it's too late.</font></td></tr></table><!-- END SUB AC TITLE - STD --><!-- BB -->      <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:10px;" height="10">&nbsp;</td>
+                                    </tr>
+                                </table>
+                           <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:10px;" height="10">&nbsp;</td>
+                                    </tr>
+                                </table> <!-- BEGIN STD LEFT IMAGE -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2F%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=860b6f05d75dbb5ac8bedace583c6bd9" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/07/5be610356c2dba377a53b2ea801cf52d_15092944380676122.png" alt="3_3_regular_recall" style="display:block; max-width:380px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="380" border="0" /></a></td></tr></table></div>
+<!--[if mso]> </td>  <td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td style="padding-left:20px; padding-right:20px" class="xs-half-PaddingText">
+                                                            <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                                               <tr>
+                                                        <td align="left" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px;; line-height:140%;color:#9cdafd; text-align:left; padding: 10px 0;text-transform:uppercase;" ><strong><font color="#9cdafd">Across the Wilderness</font></strong><br/></td></tr><tr><td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:left;" >The Adventurers' Guild is hosting a special event titled "Across the Wilderness." Find as many Wilderness Balloons as possible within the time limit to earn increasingly better rewards.</td></tr>   
+<tr><td style=" height:20px;" height="20">&nbsp;</td></tr>     </table>
+                                                                    </td>
+                                                                </tr>
+                                            </table></div><!--[if mso]></td></tr></table><![endif]-->
+                                                        </td>
+                                                    </tr>
+                                                </table>  <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+        <!-- BF -->         <!-- BEGIN STD RIGHT IMAGE -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" valign="top" dir="rtl"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;" dir="ltr" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2F%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=860b6f05d75dbb5ac8bedace583c6bd9" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/07/cb869a205e2a6d22d42492e05c6c63a0_5672055520796021582.png" alt="3_3_regular_recall" style="display:block; max-width:380px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="380" border="0" /></a></td></tr></table></div>
+<!--[if mso]> </td>  <td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;" dir="ltr" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td style="padding-left:20px; padding-right:20px" class="xs-half-PaddingText">
+                                                            <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                                               <tr>
+                                                        <td align="left" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px;; line-height:140%;color:#9cdafd; text-align:left; padding: 10px 0;text-transform:uppercase;" ><strong><font color="#9cdafd">Windtrace</font></strong><br/></td></tr><tr><td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:left;" >Windtrace, the classic game that hands down Mondstadt's history, is once again being held! Players shall be split into two sides: the Rebels, members of the ancient resistance, and a Hunter sent by the ancient aristocracy, who will then have a contest of wits in the Contested Zones.</td></tr>   
+<tr><td style=" height:20px;" height="20">&nbsp;</td></tr>     </table>
+                                                                    </td>
+                                                                </tr>
+                                            </table></div><!--[if mso]></td></tr></table><![endif]-->
+                                                        </td>
+                                                    </tr>
+                                                </table>  <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+        <!-- BF -->         <!-- BEGIN STD LEFT IMAGE -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td align="center"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14149689%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=b71684606dba41d5cd0ce0de2aa98869" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/07/e440487397450edf4b81dcd97fd98c45_2870547353139388377.png" alt="3_3_regular_recall" style="display:block; max-width:380px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="380" border="0" /></a></td></tr></table></div>
+<!--[if mso]> </td>  <td  valign="top" style="width:400px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;" class="xs-max400">
+                                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td style="padding-left:20px; padding-right:20px" class="xs-half-PaddingText">
+                                                            <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                                                               <tr>
+                                                        <td align="left" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px;; line-height:140%;color:#9cdafd; text-align:left; padding: 10px 0;text-transform:uppercase;" ><strong><font color="#9cdafd">Misty Dungeon: Realm of Sand</font></strong><br/></td></tr><tr><td align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%; color:#b1d0f6; text-align:left;" >In a forbidden place warded by dust and sand, mysterious foes have assembled lines of fortifications to stop you. Assemble a team, punch through their defenses, and defeat all the foes in your path!</td></tr>   
+<tr><td style=" height:20px;" height="20">&nbsp;</td></tr>     </table>
+                                                                    </td>
+                                                                </tr>
+                                            </table></div><!--[if mso]></td></tr></table><![endif]-->
+                                                        </td>
+                                                    </tr>
+                                                </table>  <!-- BB -->
+                                <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+                                    <tr>
+                                        <td style=" height:20px;" height="20">&nbsp;</td>
+                                    </tr>
+                                </table>
+        <!-- BF -->        <!-- BEGIN AC TITLE With BG IMG-->
+<table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td style="padding:0px;background-image: url('https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/f2a999dd5f7c29460bb2239cbc4dee0d_3532840834141604986.png'); background-repeat: no-repeat; background-position: center center; background-size: 800px;" align="center" >
+<table role="presentation" style="border-collapse:collapse;width:340px;" width="340"  cellspacing="0" cellpadding="0" border="0" align="center"  class="xs-max400"><tr><td style="height:30px;" height="30">&nbsp;</td></tr><tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%; color:#b1d0f6; text-align:center; " ><strong><center>New Artifacts</center></strong></td></tr><tr><td style=" height:30px;" height="30">&nbsp;</td></tr></table></td></tr></table><!-- END AC TITLE with BG IMG --><!-- BB -->     <!-- BEGIN SIMPLE 2IMGS -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" dir="ltr" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px" dir="ltr"><tr><td  valign="top" style="width:360px;" dir="ltr"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;align:center;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr"  width="360" align="center" cellspacing="0" cellpadding="0" border="0">
+                                                <tr>
+                                                        <td align="center" colspan="3"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14132179%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=86080899eb4c14c28c9d32d9ad536274" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/07/2d059944d4f6c03b0ee297210488d3db_1677107715346196462.png" alt="3_3_regular_recall" style="display:block; max-width:360px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="360" border="0" /></a></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%;color:#9cdafd; text-align:center; padding: 15px;" ><strong><font color="#9cdafd">Desert Pavilion Chronicle</font></strong></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%;color:#b1d0f6; text-align:center;padding:0 10px;" ><br/></td>
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div><!--[if mso]></td>  <td  valign="top" style="width:360px;" dir="ltr"><![endif]--> <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;align:center;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr"  width="360" align="center" cellspacing="0" cellpadding="0" border="0">
+                                              <tr>
+                                                        <td align="center" colspan="3"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14132179%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=86080899eb4c14c28c9d32d9ad536274" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/07/b1de9f0968562e3f38aa2aa2725c4d6c_3169741886112391137.png" alt="3_3_regular_recall" style="display:block; max-width:360px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="360" border="0" /></a></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%;color:#9cdafd; text-align:center; padding: 15px;" ><strong><font color="#9cdafd">Flower of Paradise Lost</font></strong></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%;color:#b1d0f6; text-align:center;padding:0 10px;" ><br/>   </td>
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div><!--[if mso]></td></tr></table><![endif]--> 
+      </td></tr>
+                  </table><!-- BEGIN AC TITLE With BG IMG-->
+<table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td style="padding:0px;background-image: url('https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/f2a999dd5f7c29460bb2239cbc4dee0d_3532840834141604986.png'); background-repeat: no-repeat; background-position: center center; background-size: 800px;" align="center" >
+<table role="presentation" style="border-collapse:collapse;width:340px;" width="340"  cellspacing="0" cellpadding="0" border="0" align="center"  class="xs-max400"><tr><td style="height:30px;" height="30">&nbsp;</td></tr><tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%; color:#b1d0f6; text-align:center; " ><strong><center>New Weapons</center></strong></td></tr><tr><td style=" height:30px;" height="30">&nbsp;</td></tr></table></td></tr></table><!-- END AC TITLE with BG IMG --><!-- BB -->     <!-- BEGIN SIMPLE 2IMGS -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" dir="ltr" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px" dir="ltr"><tr><td  valign="top" style="width:360px;" dir="ltr"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;align:center;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr"  width="360" align="center" cellspacing="0" cellpadding="0" border="0">
+                                                <tr>
+                                                        <td align="center" colspan="3"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14132178%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=9decb3855f61afdd990685c611272936" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/07/7c21285b662e14803c07df0c382d09d8_7338912946567485694.png" alt="3_3_regular_recall" style="display:block; max-width:360px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="360" border="0" /></a></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%;color:#9cdafd; text-align:center; padding: 15px;" ><strong><font color="#9cdafd">Tulaytullah's Remembrance</font></strong></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%;color:#b1d0f6; text-align:center;padding:0 10px;" ><br/>A bell crafted of deep sapphire and sterling silver. Its echoes are as crisp as they are distant.</td>
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div><!--[if mso]></td>  <td  valign="top" style="width:360px;" dir="ltr"><![endif]--> <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;align:center;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr"  width="360" align="center" cellspacing="0" cellpadding="0" border="0">
+                                              <tr>
+                                                        <td align="center" colspan="3"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Farticle%2F14132178%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=9decb3855f61afdd990685c611272936" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/07/c5969b4ba7790e34f4c9479e4979a13a_4676424260072699443.png" alt="3_3_regular_recall" style="display:block; max-width:360px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="360" border="0" /></a></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%;color:#9cdafd; text-align:center; padding: 15px;" ><strong><font color="#9cdafd">Toukabou Shigure</font></strong></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%;color:#b1d0f6; text-align:center;padding:0 10px;" ><br/>A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol.   </td>
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div><!--[if mso]></td></tr></table><![endif]--> 
+      </td></tr>
+                  </table><!-- BEGIN AC TITLE With BG IMG-->
+<table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td style="padding:0px;background-image: url('https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/f2a999dd5f7c29460bb2239cbc4dee0d_3532840834141604986.png'); background-repeat: no-repeat; background-position: center center; background-size: 800px;" align="center" >
+<table role="presentation" style="border-collapse:collapse;width:340px;" width="340"  cellspacing="0" cellpadding="0" border="0" align="center"  class="xs-max400"><tr><td style="height:30px;" height="30">&nbsp;</td></tr><tr><td style="font-family: Tahoma, Geneva, sans-serif;font-size:28px; line-height:140%; color:#b1d0f6; text-align:center; " ><strong><center>Recap of Past Content</center></strong></td></tr><tr><td style=" height:30px;" height="30">&nbsp;</td></tr></table></td></tr></table><!-- END AC TITLE with BG IMG --><!-- BB -->     <!-- BEGIN SIMPLE 2IMGS -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" dir="ltr" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px" dir="ltr"><tr><td  valign="top" style="width:360px;" dir="ltr"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;align:center;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr"  width="360" align="center" cellspacing="0" cellpadding="0" border="0">
+                                                <tr>
+                                                        <td align="center" colspan="3"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2FX5Dd78jiSi8%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=21345c972dfd94017c36b0e8585ab37f" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/b87fa6d78ae297f2bf3c657e16246b04_6359178480492599385.png" alt="3_3_regular_recall" style="display:block; max-width:360px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="360" border="0" /></a></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%;color:#b1d0f6; text-align:center;padding:0 10px;" ><br/>Gourmet Tour: "Liyue's Cuisine Collection" Issue No. 2</td>
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div><!--[if mso]></td>  <td  valign="top" style="width:360px;" dir="ltr"><![endif]--> <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;align:center;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr"  width="360" align="center" cellspacing="0" cellpadding="0" border="0">
+                                              <tr>
+                                                        <td align="center" colspan="3"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2FvkAdpWohH1o%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=ddbdbd52942e1267a93723444696d815" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/c7cb7c9977558af1baeb947406ea44dc_773146072136999932.png" alt="3_3_regular_recall" style="display:block; max-width:360px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="360" border="0" /></a></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%;color:#b1d0f6; text-align:center;padding:0 10px;" ><br/>Ancient Kingdom Guardians: Behind the Scenes of the Creation of Ruin Monsters | Genshin Impact   </td>
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div><!--[if mso]></td></tr></table><![endif]--> 
+      </td></tr>
+                  </table>  <!-- BEGIN SIMPLE 2IMGS -->
+                                <table role="presentation" style="border-collapse:collapse;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" dir="ltr" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px" dir="ltr"><tr><td  valign="top" style="width:360px;" dir="ltr"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;align:center;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr"  width="360" align="center" cellspacing="0" cellpadding="0" border="0">
+                                                <tr>
+                                                        <td align="center" colspan="3"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2FzgQG0b-Isbk%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=9ed61fb568d1cf501f8e2ebc65132c0c" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/06cad744dd5dbe5411593342da16c522_3408606144766429614.png" alt="3_3_regular_recall" style="display:block; max-width:360px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="360" border="0" /></a></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%;color:#b1d0f6; text-align:center;padding:0 10px;" ><br/>Cutscene Animation: "A Dream of Falling Branches"</td>
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div><!--[if mso]></td>  <td  valign="top" style="width:360px;" dir="ltr"><![endif]--> <div style="display:inline-block;vertical-align:top;width:100%;max-width:380px;align:center;" class="s-fullWidth">
+                                                <table role="presentation" style="border-collapse:collapse;" dir="ltr"  width="360" align="center" cellspacing="0" cellpadding="0" border="0">
+                                              <tr>
+                                                        <td align="center" colspan="3"><a  href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fyoutu.be%2FExVzjvMSnTI%3Futm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=ce0c9951e25d8c3fd0c3809b19bf5299" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/05/261ae55ac17188aa52b61230feb15f24_7325561283339227771.png" alt="3_3_regular_recall" style="display:block; max-width:360px; width:100%; height:auto; color:#b1d0f6; font-size:18px; line-height:140%; font-weight: bold; " class="s-fullWidth" width="360" border="0" /></a></td></tr><tr><td colspan="3" align="center" style="font-family: Tahoma, Geneva, sans-serif;font-size:18px; line-height:140%;color:#b1d0f6; text-align:center;padding:0 10px;" ><br/>Cutscene Animation: "The First Sage of Buer"   </td>
+                  </tr><tr><td style=" height:20px;" height="20">&nbsp;</td></tr>
+                  </table>
+                  </div><!--[if mso]></td></tr></table><![endif]--> 
+      </td></tr>
+                  </table>
+                           </div>
+</td>
+</tr>
+</table>
+
+   </div>
+            </td>
+         </tr>
+      </table>
+
+<!-- BEGIN FOOTER -->
+<table cellpadding="0" cellspacing="0" border="0" style="width: 100%; min-width: 100%; height: auto; background-color: #bdd0ff;" role="presentation">
+         <tr>
+            <td align="center" style="width: 100%; min-width: 100%; height: auto; padding: 0;">
+               <!--[if mso]>
+               <table cellpadding="0" cellspacing="0" border="0" style="width: 800px; margin: 0 auto;">
+                  <tr>
+                     <td style="width: 800px; height: auto; padding: 0; text-align: center;background-color: #1c3c76;">
+                        <![endif]-->
+                                <table role="presentation" style="border-collapse:collapse;max-width: 800px; height: auto;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"  bgcolor="#1c3c76" > 
+                                    <tr>
+                                        <td style="font-size:0;text-align:center;" valign="top"><!--[if mso]><table role="presentation" width="800" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:800px"><tr><td  valign="top" style="width:800px;"><![endif]-->
+                                            <div style="display:inline-block;vertical-align:top;width:100%;max-width:800px; " class="s-fullwidth">
+                                                <table role="presentation" style="border-collapse:collapse;"  width="90%" align="center"cellspacing="0" cellpadding="0" border="0" >
+                                                    <tr >
+                                                        <td align = "center" style="padding:5px; ">
+                                                          <a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.facebook.com%2FGenshinimpact%3Futm_source%3Dnewsletter&v=1.0&sign=d7ec748878875cd56ca5c669896acde9" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/0b7fd530a8b9e74ed0c0691b1aa60838_4155065097803670106.png" align="center" alt="Facebook" style="width:50px;padding:10px;" width="50" border="0" /></a><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Ftwitter.com%2FGenshinImpact%3Futm_source%3Dnewsletter&v=1.0&sign=2aeb3197f4b62c80a4cd725804d3a1a3" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/9a1386f5e91ccc54f1db8474925fefde_6972773175186017969.png" align="center" alt="Twitter" style="width:50px;padding:10px;" width="50" border="0" /></a><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCiS882YPwZt1NfaM0gR0D9Q%3Futm_source%3Dnewsletter&v=1.0&sign=e8e80c318d97cf19caf639efaa1018fb" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/71a14fe7db56d69eee8dfcc73ddb1808_8972215353857719116.png" align="center" alt="YouTube" style="width:50px;padding:10px;" width="50" border="0" /></a><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.instagram.com%2Fgenshinimpact%2F%3Futm_source%3Dnewsletter&v=1.0&sign=25eeceb23ff3b05faa37f28a4d4c2fcf" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/9656bd3745a5f91907625888ed0d81cd_2452726121160044652.png" align="center" alt="Instagram" style="width:50px;padding:10px;" width="50" border="0" /></a><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.tiktok.com%2F%40genshinimpact_en%3Futm_source%3Dnewsletter&v=1.0&sign=31229f213275bcae1ebad6dd6360fd0d" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/0d5832a998500c5344652f560434aa5e_7107827828923188413.png" align="center" alt="TikTok" style="width:50px;padding:10px;" width="50" border="0" /></a><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fdiscord.gg%2Fgenshinimpact%3Futm_source%3Dnewsletter&v=1.0&sign=e7ed2b6829418cc08e4d89cd6f3f367d" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/aec1c2d1608e6eea438b2c2777359fc0_2817865489230457052.png" align="center" alt="Discord" style="width:50px;padding:10px;" width="50" border="0" /></a><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FGenshin_Impact%2F%3Futm_source%3Dnewsletter&v=1.0&sign=e8a40e32ac33d132c93d907f609fca10" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/ae5bf94869e62c9c8eec360ce5f8bbf4_5052837978277129446.png" align="center" alt="Reddit" style="width:50px;padding:10px;" width="50" border="0" /></a><a href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwww.hoyolab.com%2Fcircles%2F2%2F27%2Fofficial&v=1.0&sign=fe5a6ed4e634781afb609cce78b08892" target="_blank" ><img class="img-hover" src="https://webstatic.hoyoverse.com/upload/static-resource/2022/12/06/daf570f34b44d39bba9f4eb1cf896f49_6668720415160060217.png" align="center" alt="HoYoLAB" style="width:50px;padding:10px;" width="50" border="0" /></a></td></tr><tr><td align="center" style="padding:5px;" ><p style="font-family: Tahoma, Geneva, sans-serif; font-weight: normal; font-size: 16px; line-height: 25px; color: #ffffff; "><a class="img-hover" href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2Fen%2Fcompany%2Fterms%3F%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=124c962797cd307553c31f099cf96cbb"  target="_blank" style="padding:20px 0;display: inline-block; text-decoration: underline;color:#ffffff;font-family: Tahoma, Geneva, sans-serif; font-weight: normal; font-size: 16px;  "> Terms of Service</a>&nbsp;|&nbsp;<a class="img-hover" href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fgenshin.hoyoverse.com%2Fen%2Fcompany%2Fprivacy%3F%26utm_source%3Demail%26utm_medium%3Dgame%26utm_id%3D2%26utm_campaign%3D3_3_regular_recall&v=1.0&sign=4b4312d87887d50ea271ac3dc403f3a3"  target="_blank" style="padding:20px 0;display: inline-block; text-decoration: underline;color:#ffffff;font-family: Tahoma, Geneva, sans-serif; font-weight: normal; font-size: 16px; "> Privacy Policy</a></p></td></tr><tr><td style="height:20px;" height="20">&nbsp;</td></tr>
+<tr><td align="center"><img src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2022/02/21/135baf163a8371f40f64ba8c9caa4bbc_7994054460726074880.png" alt="HoYoverse" style="display:block;" width="200" height="auto" border="0" /></td></tr>
+                <tr><td style="height:20px;" height="20">&nbsp;</td></tr>
+                <tr> <td align="center"><img src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2021/07/16/5077a5a1d5a83e248a8dacbd61749a53_7064247779961745394.png" align="center" alt="ESRB" style="width:100px;padding:0 10px;" width="100" border="0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <img src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2021/07/15/2cc113004c0a35af4894d2481281a7ec_238760837434819267.png" align="center" alt="PEGI" style="width:50px;padding:0 10px" width="48" border="0" /></td></tr>
+                 <tr><td style="height:20px;" height="20">&nbsp;</td></tr>
+                <tr><td align="center">
+                 <img src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2021/07/15/de84d45673ae1d6c046bfe1141c57970_1634650926303304529.png" align="center" alt="PS5/PS4" style="width:100px;padding:10px;" width="100" border="0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <img src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2021/07/15/1904d3037182094c961166ec9bd65f25_535215849156002310.png" align="center" alt="IOS" style="width:100px;padding:10px;" width="100" border="0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <img src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2021/07/15/d94dd38a4a943305115333111b0c38dc_7096010032811307428.png" align="center" alt="Android" style="width:100px;padding:10px;" width="100" border="0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <img src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2021/07/15/6bb17e04878ca27da85bd2b0e98a8374_309033228066322938.png" align="center" alt="Windows" style="width:100px;padding:10px;" width="100" border="0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <img src="https://webstatic-sea.hoyoverse.com/upload/static-resource/2021/07/15/5802b82263f46dbf63ec93132110f5e9_1937299779485925606.png" align="center" alt="Epic" style="width:30px;padding:10px;" width="30" border="0" />
+                 </td>
+                                                                </tr>
+                                                                <tr><td style="height:20px;" height="20">&nbsp;</td></tr>
+                                                                <tr>
+                                                                    <td align="center" ><span style="font-family: Tahoma, Geneva, sans-serif; font-weight: normal; font-size: 10px; line-height: 16px; color: #A1A1A1;">
+                 "PlayStation Family Mark," "PS5 logo" and "PS4 logo" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.<br/>
+Epic, Epic Games, Epic Games Store, the Epic Games Store logo, and Epic Online Services are trademarks and/or registered trademarks of Epic Games. All other trademarks are the property of their respective owners.<br/><br/>
+                                                                    Copyright © COGNOSPHERE. All Rights Reserved.<br/><br/>
+                                                                  </span>
+                  </td>
+                                                                </tr>
+                 <tr>
+                                                                   <td align="center"><span style="font-family: Tahoma, Geneva, sans-serif; font-weight: normal; font-size: 12px; line-height: 16px; color: #A1A1A1; ">
+                                                                   If you do not wish to continue receiving such newsletters, click <a target="_blank" href="https://tracedm-ap-southeast-1.aliyun.com/trace/v1/report?bid=1&env=576460796883475506&mac=86677&mf=noreply.news%40e-mail.hoyoverse.com&msgid=613-3386-1654157-en_us&sac=0&tag=hk4elang&tid=&to=mchlmarczak%40gmail.com&tpl=&ts=1670533499&type=0&url=https%3A%2F%2Fwebstatic.hoyoverse.com%2Fys%2Fevent%2Fe20200424unsubscribe%2Findex.html%3Ffrom%3Dnoreply.news%2540e-mail.hoyoverse.com%26lang%3Den-us%26sign%3D6d9b558639daffa65be2ab3151e3afef%26to%3Dmchlmarczak%2540gmail.com&v=1.0&sign=c272c8d4770d24ca00f480e55027d5a5">here</a> to unsubscribe.<br/><br/>
+                                                                  </span></td>
+                                                                </tr><tr>
+                                                                   <td align="center"><span style="font-family: Tahoma, Geneva, sans-serif; font-weight: normal; font-size: 12px; line-height: 16px; color: #A1A1A1; ">
+                                                                   Please kindly be reminded that once you have unsubscribed, you will no longer receive any HoYoverse marketing emails. This might result in you missing out on messages regarding invitations to tests, community-exclusive content, or announcements of eligibility to participate in events. In the meantime, you will continue to receive emails related to your account and transactions.<br/><br/>
+                                                                  </span></td>
+                                                                </tr>
+                 <tr>
+                                                                    <td align="center"><span style="font-family: Tahoma, Geneva, sans-serif; font-weight: normal; font-size: 12px; line-height: 16px; color: #A1A1A1; ">
+                                                                   COGNOSPHERE PTE. LTD., 6 Raffles Quay, #14-02, Singapore (048580)
+                                                                  </span></td>
+                                                                </tr>
+                                                </table>
+                                          </div>
+                                           <!--[if mso]></td></tr></table><![endif]-->
+                                        </td>
+                                    </tr>
+                                </table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+        <!-- ####END_footer#### -->  
+<!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+<!-- END BODY -->
+            <div class="xs-hackgmail" style="white-space:nowrap;font-size:15px;font-family:monospace;line-height:0;display:none;">                                                           </div>
+        </div>
+    </center>
+</body></html>

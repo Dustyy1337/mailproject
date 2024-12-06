@@ -4,18 +4,18 @@ import javax.mail.Message;
 
 public class MessageVector {
     private Message message;
-    private float[] vector;
+    private double similarity;
 
-    public MessageVector(Message message, float[] vector) {
+    public MessageVector(Message message, double similarity) {
         this.message = message;
-        this.vector = vector;
+        this.similarity = similarity;
     }
 
     public Message getMessage() {
         return message;
     }
 
-    public float[] getVector() {
-        return vector;
+    public double getSimilarity() {
+        return similarity;
     }
 }

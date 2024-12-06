@@ -1,0 +1,309 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- New Order for Account Holder (CDK) --><!-- Your CDKeys.com Order confirmation 0188730558 --><!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+--><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<style type="text/css">
+        
+
+        body,
+td {
+  color: #8F899E;
+  font-family: 'Montserrat', sans-serif; }
+
+body {
+  background-color: #fff;
+  margin: 0;
+  padding: 0; }
+
+td {
+  font-size: 14px; }
+  td.footer-nav {
+    background-color: #1f153d; }
+    td.footer-nav img {
+      display: block; }
+  td.footer {
+    background-color: #0c0020;
+    padding: 10px 20px; }
+  td.footer-info {
+    background-color: #597ea9;
+    padding: 10px 20px 0;
+    color: #fff; }
+    td.footer-info a {
+      color: #fff;
+      font-weight: bold; }
+
+h1 {
+  color: #8F899E;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center; }
+
+p {
+  margin-bottom: 30px;
+  text-align: center; }
+
+a, a:link, a:visited {
+  color: #8F899E; }
+
+hr {
+  background-color: #eeeff0;
+  border-width: 0;
+  height: 1px;
+  margin: 20px 0; }
+
+table.email-order-details {
+  border-collapse: collapse; }
+  table.email-order-details th,
+  table.email-order-details td {
+    padding: 8px 10px;
+    vertical-align: top;
+    width: 50%; }
+  table.email-order-details th {
+    color: #8F899E;
+    font-weight: 400;
+    text-align: right; }
+  table.email-order-details td {
+    color: #0c0020;
+    text-align: left; }
+  table.email-order-details strong {
+    font-weight: 400; }
+
+table.email-items {
+  margin-top: 20px;
+  border-spacing: 0 0; }
+  table.email-items p {
+    margin: 0;
+    text-align: left; }
+  table.email-items tbody {
+    padding: 10px 0 0;
+    display: table;
+    width: 100%; }
+  table.email-items .item-image {
+    border-top: 1px solid #eeeff0;
+    border-left: 1px solid #eeeff0;
+    border-bottom: 1px solid #eeeff0;
+    border-radius: 3px 0 0 3px;
+    padding: 10px 0 10px 10px; }
+  table.email-items .item-info {
+    border-top: 1px solid #eeeff0;
+    border-right: 1px solid #eeeff0;
+    border-radius: 0 3px 0 0;
+    padding: 10px; }
+  table.email-items .item-bottom {
+    border-right: 1px solid #eeeff0;
+    border-bottom: 1px solid #eeeff0;
+    border-radius: 0 0 3px 0;
+    padding: 10px; }
+  table.email-items .item-qty {
+    text-align: right; }
+  table.email-items .price {
+    font-weight: 700; }
+  table.email-items .item-download {
+    padding: 10px; }
+    table.email-items .item-download .item-image,
+    table.email-items .item-download .item-info {
+      border: none;
+      padding: 10px; }
+
+table .grand_total th,
+table .grand_total td {
+  background-color: #1f153d;
+  font-family: 'Quantico', sans-serif;
+  color: #fff;
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding: 12px 10px;
+  text-shadow: 0 0 8px rgba(100, 162, 235, 0.75);
+  text-transform: uppercase; }
+
+table .grand_total th {
+  border-radius: 4px 0 0 4px; }
+
+table .grand_total td {
+  border-radius: 0 4px 4px 0; }
+
+dl.payment-method {
+  margin: 0; }
+
+.cdkbody {
+  background-color: #0c0020;
+  color: #fff; }
+  .cdkbody td,
+  .cdkbody h1,
+  .cdkbody table.email-order-details td {
+    color: #fff; }
+  .cdkbody hr {
+    background-color: #1f153d; }
+  .cdkbody table.email-items td {
+    background-color: #fff;
+    color: #1f153d; }
+  .cdkbody .product-name {
+    letter-spacing: 0.01em;
+    text-transform: uppercase; }
+
+.cdkimage img {
+  display: block;
+  width: 100%;
+  vertical-align: top; }
+
+    </style>
+</head>
+<body style="margin: 0; padding: 0;">
+    
+    <div class="main">
+        <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr>
+<td align="center" valign="top" class="padding" style="padding-left: 30px;">
+                    <table cellspacing="0" cellpadding="0" border="0" width="800">
+<!-- Start Content --><tr>
+<td class="cdkbody" align="center" valign="top"><img src="https://cdn.cdkeys.com/media/email/email-thank-you-order.png" alt="Thank you for your order" border="0" style="margin-bottom: 0px;"></td>
+</tr>
+<tr>
+<td class="cdkbody" align="center" valign="top" style="padding: 20px 0 20px 0;">
+        <table cellspacing="0" cellpadding="0" border="0" width="700">
+<tr>
+<td valign="top">
+                    <p>
+                        
+                        <strong>YOUR ORDER IS COMPLETE</strong>
+                        
+                    </p>
+
+                    <table class="email-order-details" width="100%">
+<tr>
+<th>ORDER NUMBER:</th>
+<td>0188730558</td>
+                    </tr>
+<tr>
+<th>PLACED ON:</th>
+<td>12 Feb 2022, 18:02:19</td>
+                    </tr>
+</table>
+<p>
+                        Hi Michał Marczak, your order been completed and is ready for collection.
+                    </p>
+
+                    <p>
+                        Please log in to your <a href="https://www.cdkeys.com/">CDKeys.com</a> account to retrieve your purchase.
+                    </p>
+
+                    <p>
+                        If you do not yet have a CDKeys account, please click <a href="https://www.cdkeys.com/customer/account/">here</a> and follow the instructions to access your code securely.
+                    </p>
+
+                    <p>
+                        If you have any queries regarding your order, please contact our Customer Services team by emailing <a href="mailto:support@cdkeys.com">support@cdkeys.com</a>
+                    </p>
+                    
+                </td>
+            </tr>
+<tr>
+<td align="center">
+                       <table class="email-order-details" width="100%">
+<tr class="mp_earn">
+<th colspan="2" scope="row"> Earned </th>
+<td data-th="Earned"> 6 CDKoins </td>
+</tr>
+<tr class="subtotal">
+<th colspan="2" scope="row"> Subtotal </th>
+<td data-th="Subtotal"> <span class="price">PLN33.29</span> </td>
+</tr>
+<tr class="grand_total">
+<th colspan="2" scope="row"> Total </th>
+<td data-th="Grand Total"> <strong><span class="price">PLN33.29</span></strong> </td>
+</tr>
+</table>
+<table class="email-items" width="450"><tbody>
+<tr><td class="item-download" colspan="2"><table width="100%"><tr>
+<td class="item-image" width="70" valign="top" rowspan="2" style="margin-top: 10px; margin-left: 10px;"><img src="https://cdn.cdkeys.com/160x200/media/catalog/product/n/e/new_project_1__1_1.jpg" alt="Dying Light Platinum Edition PC" width="70"></td>
+<td class="item-info has-extra" valign="top" style="margin-top: 10px;">
+<p class="product-name">Dying Light Platinum Edition PC</p>  <dl style="margin-top: 10px; margin-bottom: 0;"><dd style="margin-left: 0; padding-left: 0;"><a href="https://www.cdkeys.com/downloadable/download/link/id/MC40Njc1OTIwMCAxNjQ0Njg4OTM5MzkyNTcwMDE0MTc1MTg1NzExNzM1/?utm_medium=email&amp;utm_source=magento"><img src="https://cdn.cdkeys.com/media/email/button-download-white.png" alt="Click here to download" width="192" height="50"></a></dd></dl>
+</td>
+</tr></table></td></tr>
+<tr><td valign="bottom" class="item-bottom"><table width="100%"><tr>
+<td align="right" class="item-qty">1x</td>
+<td align="left" class="item-price">    <span class="price">PLN33.29</span>   </td>
+</tr></table></td></tr>
+</tbody></table>
+</td>
+            </tr>
+<tr>
+<td>
+                    <hr style="background-color: #1f153d;">
+<table class="email-order-details" width="100%">
+<tr>
+<th>Order Number</th>
+<td>0188730558</td>
+                    </tr>
+<tr>
+<th>Order Date</th>
+<td>12 Feb 2022, 18:02:19</td>
+                    </tr>
+<tr>
+<th>Customer Name</th>
+<td>Michał Marczak</td>
+                    </tr>
+<tr>
+<th>Billing Address</th>
+<td>Michał Marczak<br>
+
+3 Maja 57<br>
+
+
+
+Roztoka,  58-173<br>
+Poland<br>
+</td>
+                    </tr>
+</table>
+<hr style="background-color: #1f153d;">
+<table class="email-order-details" width="100%"><tr>
+<th>Payment Method</th>
+<td> <dl class="payment-method"><dt class="title">P24</dt></dl>
+</td>
+                    </tr></table>
+</td>
+            </tr>
+</table>
+</td>
+</tr>
+<!-- End Content --><tr>
+<td class="footer-nav" align="center">
+                                <table width="728">
+<td><a href="https://www.cdkeys.com/user/profile/index/"><img src="https://cdn.cdkeys.com/media/email/footer-nav_01.png" width="156" height="46" alt="My Profile"></a></td>
+                                    <td><a href="https://www.cdkeys.com/sales/order/history/"><img src="https://cdn.cdkeys.com/media/email/footer-nav_02.png" width="173" height="46" alt="My Orders"></a></td>
+                                    <td><a href="https://www.cdkeys.com/koins/index/index/"><img src="https://cdn.cdkeys.com/media/email/footer-nav_03.png" width="156" height="46" alt="CDKoins"></a></td>
+                                    <td><a href="https://www.cdkeys.com/join-affiliates/index/index/"><img src="https://cdn.cdkeys.com/media/email/footer-nav_04.png" width="156" height="46" alt="Affiliate"></a></td>
+                                    <td><a href="https://www.cdkeys.com/vip/index/index/"><img src="https://cdn.cdkeys.com/media/email/footer-nav_05.png" width="87" height="46" alt="VIP"></a></td>
+                                </table>
+</td>
+                        </tr>
+<tr>
+<td class="footer">
+                                <table width="100%"><tr>
+<td>
+                                            <img src="https://cdn.cdkeys.com/media/email/footer-text.png" width="312" height="24" alt="No payment fees - No hidden fees">
+</td>
+                                        <td align="right">
+                                            <table width="297">
+<td><a href="https://www.facebook.com/cdkeyscom"><img src="https://cdn.cdkeys.com/media/email/social_01.png" width="90" height="44" alt="Facebook"></a></td>
+                                                <td><a href="https://www.instagram.com/cdkeyscom/"><img src="https://cdn.cdkeys.com/media/email/social_02.png" width="110" height="44" alt="Instagram"></a></td>
+                                                <td><a href="https://twitter.com/cdkeyscom_en"><img src="https://cdn.cdkeys.com/media/email/social_03.png" width="97" height="44" alt="Twitter"></a></td>
+                                            </table>
+</td>
+                                    </tr></table>
+</td>
+                        </tr>
+</table>
+</td>
+            </tr></table>
+</div>
+</body>
+</html>
+

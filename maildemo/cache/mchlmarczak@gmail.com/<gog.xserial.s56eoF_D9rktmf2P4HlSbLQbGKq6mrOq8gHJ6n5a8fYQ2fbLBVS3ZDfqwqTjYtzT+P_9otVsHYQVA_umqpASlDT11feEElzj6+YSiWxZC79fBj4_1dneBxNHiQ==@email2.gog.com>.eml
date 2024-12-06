@@ -1,0 +1,663 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no" />
+    <style type="text/css">
+      /* RESET (general) */
+      body {
+        height: 100% !important;
+        width: 100% !important;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      #emBodyTable {
+        height: auto !important;
+        width: 100% !important;
+        margin: 0px !important;
+        padding: 0px !important;
+      }
+      table,
+      td {
+        border-collapse: collapse;
+      }
+      img,
+      a img {
+        border-style: none;
+        border-width: 0px;
+        outline: none;
+        text-decoration: none;
+      } /* RESET (client-specific) */
+      .ReadMsgBody {
+        width: 100%;
+      }
+      .ExternalClass {
+        width: 100%;
+      }
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height: 100%;
+      }
+      table,
+      td {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+      img {
+        -ms-interpolation-mode: bicubic;
+      }
+      body,
+      table,
+      td,
+      p,
+      a,
+      li,
+      blockquote {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      } /* BASIC STYLE */
+      table a,
+      table a:link,
+      table a:visited {
+        color: #9fbf00;
+        border: none;
+        cursor: pointer;
+        text-decoration: none;
+        font-weight: 100;
+      }
+      td[class~="em_button"] a:link,
+      td[class~="em_button"] a:visited,
+      td[class~="em_tag"] a:link,
+      td[class~="em_tag"] a:visited {
+        color: #ffffff;
+        font-weight: 600;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+      span[class~="em_link_fix_808080"] a {
+        color: #808080 !important;
+        text-decoration: none !important;
+      }
+      span[class~="em_link_fix_262626"] a {
+        color: #262626 !important;
+        text-decoration: none !important;
+      }
+      img[class~="em_image_fix"] {
+        display: block;
+      } /* RESPONSIVENESS */
+      @media only screen and (max-width: 480px) {
+        td[class~="em_main_section"] {
+          padding-left: 6px !important;
+          padding-right: 6px !important;
+        }
+        table[class~="em_content_wrapper"],
+        td[class~="em_content_600"] {
+          width: 100% !important;
+          max-width: 480px !important;
+        }
+        td[class~="em_content_297"] {
+          width: 49% !important;
+          max-width: 237px !important;
+        }
+        td[class~="em_content_196"] {
+          width: 32% !important;
+          max-width: 156px !important;
+        }
+        td[class~="em_tile_space_col"] {
+          width: 2% !important;
+        }
+        td[class~="em_bg_image"] {
+          background-size: 150% !important;
+        }
+        img[class~="em_image"] {
+          height: auto !important;
+          width: 100% !important;
+        }
+        img[class~="em_image_600"] {
+          max-width: 600px !important;
+        }
+        img[class~="em_image_297"] {
+          max-width: 297px !important;
+        }
+        img[class~="em_image_196"] {
+          max-width: 196px !important;
+        }
+        div[class~="em_text_12"],
+        p[class~="em_text_12"],
+        a[class~="em_text_12"],
+        li[class~="em_text_12"],
+        td[class~="em_text_12"] {
+          -webkit-text-size-adjust: none;
+        }
+      }
+    </style>
+  </head>
+  <body
+    topmargin="0"
+    rightmargin="0"
+    bottommargin="0"
+    leftmargin="0"
+    marginwidth="0"
+    marginheight="0"
+  >
+    <!-- WRAPPER -->
+    <table
+      bgcolor="#f2f2f2"
+      border="0"
+      cellpadding="0"
+      cellspacing="0"
+      height="100%"
+      width="100%"
+      id="emBodyTable"
+      class="em_main_wrapper em_bg_f2f2f2"
+      style="
+        border-style: none;
+        border-width: 0px;
+        min-width: 100%;
+        width: 100%;
+        background-color: #f2f2f2;
+      "
+    >
+      <!-- logo/language selection -->
+      <tr class="wwwno">
+        <td
+          bgcolor="#262626"
+          align="center"
+          valign="top"
+          class="em_main_section em_bg_262626"
+          style="
+            border-style: none;
+            border-width: 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-right: 0 px;
+            margin-left: 0px;
+            padding-top: 0px;
+            padding-right: 12px;
+            padding-bottom: 0px;
+            padding-left: 12px;
+            background-color: #262626;
+          "
+        >
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            class="em_content_wrapper"
+            style="
+              border-style: none;
+              border-width: 0px;
+              margin-top: 0px;
+              margin-bottom: 0px;
+              margin-right: 0 px;
+              margin-left: 0px;
+              padding-top: 0px;
+              padding-bottom: 0px;
+              padding-right: 0px;
+              padding-left: 0px;
+            "
+          >
+            <tr>
+              <td
+                align="center"
+                valign="top"
+                width="600"
+                class="em_content_600 em_padding_6"
+                style="
+                  width: 600px;
+                  max-width: 600px;
+                  vertical-align: top;
+                  padding-top: 6px;
+                  padding-right: 0px;
+                  padding-bottom: 6px;
+                  padding-left: 0px;
+                "
+              >
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="100%"
+                  class="em_content_wrapper"
+                  style="
+                    border-style: none;
+                    border-width: 0px;
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    margin-right: 0 px;
+                    margin-left: 0px;
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                    padding-right: 0px;
+                    padding-left: 0px;
+                  "
+                >
+                  <tr>
+                    <!-- logo -->
+                    <td
+                      align="left"
+                      valign="middle"
+                      height="32"
+                      width="34"
+                      class="em_image_wrapper"
+                      style="
+                        font-size: 0px;
+                        line-height: 0px;
+                        margin-top: 0px;
+                        margin-bottom: 0px;
+                        margin-right: 0px;
+                        margin-left: 0px;
+                        padding-top: 0px;
+                        padding-bottom: 0px;
+                        padding-right: 0px;
+                        padding-left: 0px;
+                      "
+                    >
+                      <img
+                        border="0"
+                        hspace="0"
+                        vspace="0"
+                        height="32"
+                        width="34"
+                        class="em_image em_image_fix"
+                        src="https://static.gog.com/upload/newsletters/img_common/logo_gogcom_white_2x.png"
+                        alt="GOG.COM"
+                        style="
+                          margin-top: 0px;
+                          margin-bottom: 0px;
+                          margin-right: 0px;
+                          margin-left: 0px;
+                          padding-top: 0px;
+                          padding-bottom: 0px;
+                          padding-right: 0px;
+                          padding-left: 0px;
+                        "
+                      />
+                    </td>
+                    <!-- /logo -->
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- /logo/language selection -->
+      <!-- BODY (actual content) -->
+      <tr>
+        <td
+          bgcolor="#f2f2f2"
+          align="center"
+          valign="top"
+          class="em_main_section em_bg_f2f2f2 em_bg_image"
+          style="
+            border-style: none;
+            border-width: 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-right: 0 px;
+            margin-left: 0px;
+            padding-top: 0px;
+            padding-right: 12px;
+            padding-bottom: 0px;
+            padding-left: 12px;
+            background-color: #f2f2f2;
+            background-image: url('https://static.gog.com/upload/newsletters/img_common/bg_default_f2f2f2.jpg');
+            background-position: center top;
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-size: 100%;
+          "
+        >
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            class="em_content_wrapper"
+            style="
+              border-style: none;
+              border-width: 0px;
+              margin-top: 0px;
+              margin-bottom: 0px;
+              margin-right: 0 px;
+              margin-left: 0px;
+              padding-top: 0px;
+              padding-bottom: 0px;
+              padding-right: 0px;
+              padding-left: 0px;
+            "
+          >
+            <!-- HEADER (main content) -->
+            <tr>
+              <td
+                align="center"
+                valign="top"
+                width="600"
+                class="em_content_600 em_padding_48"
+                style="
+                  width: 600px;
+                  max-width: 600px;
+                  vertical-align: top;
+                  padding-top: 48px;
+                  padding-right: 0px;
+                  padding-bottom: 48px;
+                  padding-left: 0px;
+                "
+              >
+                <div
+                  class="em_text_wrapper em_text_262626 em_text_24 em_header"
+                  style="
+                    font-family: Helvetica, Arial, sans-serif;
+                    font-style: normal;
+                    font-weight: 100;
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    margin-right: 0px;
+                    margin-left: 0px;
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                    padding-right: 0px;
+                    padding-left: 0px;
+                    color: #262626;
+                    font-size: 24px;
+                    line-height: 32px;
+                    text-transform: uppercase;
+                  "
+                >
+                  <span class="em_link_fix_262626"
+                    >Migration of CD PROJEKT RED Online Services</span
+                  >
+                </div>
+              </td>
+            </tr>
+            <!-- /HEADER -->
+            <!-- SECTION (text box) -->
+            <tr>
+              <td
+                align="left"
+                valign="top"
+                width="600"
+                class="em_content_600 em_padding_0_24"
+                style="
+                  width: 600px;
+                  max-width: 600px;
+                  vertical-align: top;
+                  padding-top: 0px;
+                  padding-right: 0px;
+                  padding-bottom: 24px;
+                  padding-left: 0px;
+                "
+              >
+                <table
+                  bgcolor="#ffffff"
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="100%"
+                  class="em_content_wrapper em_bg_ffffff"
+                  style="
+                    border-style: none;
+                    border-width: 0px;
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    margin-right: 0 px;
+                    margin-left: 0px;
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                    padding-right: 0px;
+                    padding-left: 0px;
+                  "
+                >
+                  <tr>
+                    <td
+                      align="left"
+                      valign="top"
+                      width="600"
+                      class="em_content_600 em_text_box_margins"
+                      style="
+                        width: 600px;
+                        max-width: 600px;
+                        vertical-align: top;
+                        padding-left: 24px;
+                        padding-top: 24px;
+                        padding-right: 24px;
+                        padding-bottom: 24px;
+                        font-family: Helvetica, Arial, sans-serif;
+                        font-style: normal;
+                        font-weight: 100;
+                        margin-top: 0px;
+                        margin-bottom: 0px;
+                        margin-right: 0px;
+                        margin-left: 0px;
+                        color: #262626;
+                        font-size: 14px;
+                        line-height: 20px;
+                      "
+                    >
+                      <!-- content -->
+                    Dear <b>dustyy1337,</b>
+                    <br>
+                    <br>
+                    You are receiving this email due to your use of online features, including Cross Progression and My Rewards, in CD PROJEKT RED games, as well as your participation in platforms like the CD PROJEKT RED Forums. We are migrating these products to a new account system, owned and operated by CD PROJEKT S.A., effective from <b>March 5th, 2024</b>. This consolidation will involve the transfer of governance of your personal data, including your email address and username, from the GOG account system to the CD PROJEKT RED account system. 
+                    <br>
+                    <br>
+                    <b>What does this change?</b>
+                    <br>
+                    Starting March 5th, 2024, the above mentioned online features and services will be available through a new CD PROJEKT RED account system.
+                    <br>
+                    <br>
+                    <b>Do I need to take any action?</b>
+                    <br>
+                    No, a new CD PROJEKT RED account will be created for you automatically based on your GOG Account information: user ID, username and email address. This will allow you to continue using features provided by CD PROJEKT RED with no interruption. No action is required on your end.
+                    <br>
+                    <br>
+                    <b>How can I log in after the migration?</b>
+                    <br>
+                    Your new account will use the same email address as your GOG Account. If you’re already logged into any of our games, you will stay logged in when the account change takes place.
+                    <br>
+                    <br>
+                    <b>What happens to my personal data?</b>
+                    <br>
+                    Upon migration, CD PROJEKT S.A. will become a data controller of your personal data connected with CD PROJEKT RED account. Transfer of data will be based on a legitimate interest in ensuring continuity of CD PROJEKT RED online services. For more information see updated CD PROJEKT S.A. Privacy Policy available <a href="https://regulations.cdprojektred.com/privacy_policy" target="_blank">here</a>.
+                    <br>
+                    <br>
+                    <b>How does this affect my current GOG account?</b>
+                    <br>
+                    Your GOG account and all your GOG purchases remain unaffected. The GOG.com website and the GOG Galaxy app will continue to use the GOG account system. Your GOG account will be separate from your CD PROJEKT RED account.
+                    <br>
+                    <br>
+                    <b>Can I opt out?</b>
+                    <br>
+                    If you do not wish to have a CD PROJEKT RED account created for you, you may opt out of the account creation process by clicking this <a href="https://opt-out.cdprojektred.com/status?q=tZGA6b0DmwVG573i6kC1LE6gC2ous0SMSEfbkNi7XyCy8fFhIPMXw_tW313xpA1f1_5cO6nuHv2OK3HsJIZbidh7ZSWuovgMLTKO44E7GSpznurP_nhDOqgcj-mgNAmgT7-r1w" target="_blank">link</a>. After the account system migration, you will be able to delete your account with the same link.
+                    <br>
+                    <br>
+                    If you choose to opt out, please note that on March 5th, 2024 you will lose access to Cross Progression, My Rewards, and RED Forums, and all connected data will be permanently deleted. 
+                    <br>
+                    <br>
+                    You can create a new CD PROJEKT RED account at any time.
+                    <br>
+                    <br>
+                    If you have any questions or need further assistance, please visit our <a href="https://support.cdprojektred.com/en/cdpr-accounts/account" target="_blank">support page</a>.
+                    <br>
+                    <br>
+                    Warm Regards,
+                    <br>
+                    GOG and CD PROJEKT RED Teams
+                      <!-- /content -->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- /SECTION -->
+          </table>
+        </td>
+      </tr>
+      <!-- /BODY -->
+      <!-- FOOTER (disclaimers, etc.) -->
+      <tr>
+        <td
+          bgcolor="#e6e6e6"
+          align="center"
+          valign="top"
+          class="em_main_section em_bg_e6e6e6"
+          style="
+            border-style: none;
+            border-width: 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-right: 0 px;
+            margin-left: 0px;
+            padding-top: 0px;
+            padding-right: 12px;
+            padding-bottom: 0px;
+            padding-left: 12px;
+            background-color: #e6e6e6;
+          "
+        >
+          <table
+            border="0"
+            cellpadding="0"
+            cellspacing="0"
+            class="em_content_wrapper"
+            style="
+              border-style: none;
+              border-width: 0px;
+              margin-top: 0px;
+              margin-bottom: 0px;
+              margin-right: 0 px;
+              margin-left: 0px;
+              padding-top: 0px;
+              padding-bottom: 0px;
+              padding-right: 0px;
+              padding-left: 0px;
+            "
+          >
+            <tr>
+              <td
+                align="center"
+                valign="top"
+                width="600"
+                class="em_content_600 em_padding_24"
+                style="
+                  width: 600px;
+                  max-width: 600px;
+                  vertical-align: top;
+                  padding-top: 24px;
+                  padding-right: 0px;
+                  padding-bottom: 24px;
+                  padding-left: 0px;
+                "
+              >
+                <div
+                  class="em_text_wrapper em_text_808080 em_text_12 wwwno"
+                  style="
+                    font-family: Helvetica, Arial, sans-serif;
+                    font-style: normal;
+                    font-weight: 100;
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    margin-right: 0px;
+                    margin-left: 0px;
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                    padding-right: 0px;
+                    padding-left: 0px;
+                    color: #808080;
+                    font-size: 12px;
+                    line-height: 16px;
+                  "
+                ></div>
+                <br class="wwwno" />
+                <div
+                  class="em_text_wrapper em_text_808080 em_text_12 em_header"
+                  style="
+                    font-family: Helvetica, Arial, sans-serif;
+                    font-style: normal;
+                    font-weight: 100;
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    margin-right: 0px;
+                    margin-left: 0px;
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                    padding-right: 0px;
+                    padding-left: 0px;
+                    color: #808080;
+                    font-size: 12px;
+                    line-height: 16px;
+                    text-transform: uppercase;
+                  "
+                >
+                  <span class="em_link_fix_808080"
+                    ><a
+                      href=""
+                      style="
+                        text-decoration: none;
+                        color: #808080;
+                        cursor: text;
+                      "
+                      >GOG.COM</a
+                    >
+                    &copy; 2024. Part of CD PROJEKT group.
+                  </span>
+                </div>
+                <div
+                  class="em_text_wrapper em_text_808080 em_text_12"
+                  style="
+                    font-family: Helvetica, Arial, sans-serif;
+                    font-style: normal;
+                    font-weight: 100;
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    margin-right: 0px;
+                    margin-left: 0px;
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                    padding-right: 0px;
+                    padding-left: 0px;
+                    color: #808080;
+                    font-size: 12px;
+                    line-height: 16px;
+                  "
+                >
+                  All other trademarks and copyrights are properties of their
+                  respective owners.
+                </div>
+                <div
+                  class="em_text_wrapper em_text_808080 em_text_12 wwwno wwwno"
+                  style="
+                    font-family: Helvetica, Arial, sans-serif;
+                    font-style: normal;
+                    font-weight: 100;
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    margin-right: 0px;
+                    margin-left: 0px;
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                    padding-right: 0px;
+                    padding-left: 0px;
+                    color: #808080;
+                    font-size: 12px;
+                    line-height: 16px;
+                  "
+                >
+                  GOG sp z o.o., ul. Jagiello&#324;ska 74, 03-301 Warsaw, Poland
+                </div>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <!-- /WRAPPER -->
+  </body>
+</html>
+<img src="https://email2.gog.com/open_transactional.html?x=a62e&mc=E&r=rmgC&t=vf&u=G&z=c9alRpp&" width="0" height="0" border="0" alt="" role="presentation" />

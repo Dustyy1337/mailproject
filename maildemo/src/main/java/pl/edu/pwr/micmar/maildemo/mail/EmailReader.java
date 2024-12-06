@@ -12,7 +12,9 @@ public class EmailReader {
         props.put("mail.imap.ssl.enable", "true"); // required for Gmail
         props.put("mail.imap.sasl.enable", "true");
         //props.put("mail.imap.ssl.protocols", "TLSv1.2"); // Wymuszenie TLS 1.2
+        props.put("mail.imap.compression.enable", "true");
         props.put("mail.imap.auth.mechanisms", "XOAUTH2");
+        props.put("mail.imap.fetchsize", "1024");
 
         SessionCollector.addSession(props, host, username, accessToken);
 

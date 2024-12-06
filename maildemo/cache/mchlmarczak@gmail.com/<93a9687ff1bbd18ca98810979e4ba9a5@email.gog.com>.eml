@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+</head>
+
+<body bgcolor="#414141" style="background-color: #414141; background-image: none; margin: 0px; padding: 0px;">
+
+<table bgcolor="#414141" style="background-color: #414141; margin: 0px; padding: 0px;" width="100%" height="100%">
+    <tr valign="top">
+        <td></td>
+        <td width="700" align="center">
+            <table cellpadding="0" cellspacing="0" width="700" style="margin: 0px; padding: 0px">
+                <tr valign="top">
+                    <td width="700" height="49">
+                        <table cellpadding="0" cellspacing="0" width="700">
+                            <tr valign="top" style="margin: 0; padding: 0;">
+                                <td width="146" height="49" align="left">
+                                    <a href="https://www.gog.com" style="color: #252525; text-decoration: underline;">
+                                                                                <img src="https://static-login.gog-statics.com/images/a783b65-5418199.png" style="border: 0;height:49px">
+                                                                            </a>
+                                </td>
+                                <td width="554" height="49" align="right"></td>                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td width="700">
+                        <table cellpadding="0" cellspacing="0" width="700" bgcolor="#FFFFFF" style="background-color: #FFFFFF; color: #333333; font-size: 12px; line-height: 18px; font-family: Arial, sans-serif; text-align: justify; margin: 0px; padding: 0px">
+                            <tr valign="top" style="line-height: 0px;">
+                                <td width="700" height="10" colspan="3">
+                                                                        <img src="https://static-login.gog-statics.com/images/9e67bf1-5418199.jpg" style="border: 0;">
+                                                                    </td>
+                            </tr>
+                            <tr valign="top">
+                                <td width="37"></td>
+                                <td width="626" style="padding: 25px 0 10px 0; font-size: 22px;">
+                                    Cześć Dustyy1337, Twoje hasło zostało zmienione
+                                </td>
+                                <td width="37"></td>
+                            </tr>
+                            <tr valign="top">
+                                <td width="37"></td>
+                                <td width="626" style="padding: 0 0 25px 0;">
+                                    To jest potwierdzenie, że hasło powiązane z Twoim kontem GOG.com o nazwie <b>Dustyy1337 (mchlmarczak@gmail.com)</b> zostało poprawnie zmienione z następującego komputera:
+                                </td>
+                                <td width="37"></td>
+                            </tr>
+                            <tr valign="top" bgcolor="f2f2f2" style="background-color: #f2f2f2;">
+                                <td width="37"></td>
+                                <td width="636" height="70" align="left" valign="middle" colspan="3" style="padding: 25px 0 0 0;">
+                                    Adres IP: 83.7.31.113<br>
+                                                                            OS: Windows 10<br>
+                                                                                                                Przeglądarka: Opera 85.0.4341<br>
+                                                                                                                Przybliżona lokalizacja: Uraz, Poland<br>
+                                                                    </td>
+                                <td width="37"></td>
+                            </tr>
+                            <tr valign="top" bgcolor="f2f2f2" style="background-color: #f2f2f2;">
+                                <td width="700" valign="middle" colspan="3" height="25"></td>
+                            </tr>
+                            <tr valign="top">
+                                <td width="37"></td>
+                                <td width="626" style="padding: 25px 0 20px 0;">
+                                    <p style="margin: 0 0 0 0;">
+                                        Jeśli hasło zostało zmienione bez Twojej wiedzy, <a href="https://www.gog.com/support/contact/general_website_questions" style="color: #252525;">skontaktuj się z naszym zespołem pomocy technicznej</a>.
+                                    </p>
+                                </td>
+                                <td width="37"></td>
+                            </tr>
+                            <tr valign="top" style="line-height: 0px;">
+                                <td width="700" colspan="3">
+                                                                        <img src="https://static-login.gog-statics.com/images/bf521c1-5418199.jpg" style="border: 0;">
+                                                                    </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td width="700" style="color: #9a9a9a; font-family: Arial, sans-serif; font-size: 9px; text-align: left; padding: 10px 0 25px 0;">
+                        This is an automatically generated e-mail, please do not reply to it. Copyright &#169; 2022 GOG Sp z o.o. All rights reserved.
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td></td>
+    </tr>
+</table>
+</body>
+</html>

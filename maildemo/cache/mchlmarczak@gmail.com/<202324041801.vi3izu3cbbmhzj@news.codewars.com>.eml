@@ -1,0 +1,89 @@
+*Welcome to Basic Training. Keep scrolling for the ultimate Docker cheat sheet, tips for time management, and kata picked specially for you.*
+
+From the Codewars Blog
+----------------------
+
+Learn in Public: The community-based learning strategy that improves programming skills
+
+Shawn Wang, better known as swyx, is a Dev Ex leader who worked for companies like Netlify, AWS, and Temporal. Currently, he’s Head of Dev Ex at Airbyte and curates the DX Tips newsletter, focusing on developer tools, developer relations, and all things developer experience. He’s also a proud Learn in Public Evangelist.
+
+ 
+
+While swyx is not the founder of LIP (the idea of community based learning has been an ethos since Aristotle and Plato began sharing ideas), he is very vocal about its personal and professional benefits.
+
+ 
+
+The logic behind LIP ties into the open-source culture of tech, and its thesis is to learn faster than privately learning. Swyx describes LIP as this:
+
+ 
+
+“*You share what you learn, as you learn it. You Open Source your knowledge. You build a public record of your interests and progress, and along the way, you attract a community of mentors, peers, and supporters. They will help you learn faster than you ever could on your own. Your network could be vast, consisting of experts in every field, unconstrained by your org chart.*” - The Coding Career Handbook
+
+ 
+
+By utilizing community based learning, and in turn, sharing what you learn with a community, you become part of a nearly infinite network of knowledge and opportunities.
+
+[Keep reading 📖](https://www.codewars.com/post/learn-in-public-the-community-based-learning-strategy-that-improves-programming-skills)
+
+Resources
+---------
+
+###[Use kata to follow along with Stephen Prata's "C Primer Plus" book ](https://github.com/darrellroot/Computer-Science-Education-Resources/blob/main/Codewars-Problems-By-Stephen-Prata-Chapter.md)
+
+Shout out to a fellow Codewarrior who went through all 180 8kyu C kata and sorted them according to chapters in Stephen Prata's "C Primer Plus" book! If you're looking to learn C with the help of kata, this is a great place to start.
+
+###[Time management 101: Boost your productivity](https://andela.com/insights/time-management-101-boost-your-productivity/?utm_medium=email&utm_source=newsletter&utm_campaign=talent-GLOBAL-april23-codewars-newsletter-basic-training&utm_content=productivity-101&utm_term=)
+
+In the fast-paced tech industry, time management is crucial for productivity and career growth. It can even help jumpstart your career.
+
+###[The ultimate Docker cheat sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+
+This is exactly what it sounds like. Tap the link to take advantage of another valuable cheat sheet.
+
+Time to Train
+-------------
+
+ 
+
+###[String Templates - Bug Fixing #5](https://www.codewars.com/kata/55c90cad4b0fe31a7200001f?utm_source=newsletter)
+
+Oh no! Timmy hasn't followed instructions very carefully and forgot how to use the new String Template feature, Help Timmy with his string template so it works as he expects!
+
+[matt c](https://www.codewars.com/users/matt c?utm_source=newsletter)
+
+ 
+
+###[Sudoku board validator](https://www.codewars.com/kata/63d1bac72de941033dbf87ae?utm_source=newsletter)
+
+###Sudoku Background
+
+
+Sudoku is a game played on a 9x9 grid. The goal of the game is to fill all cells of the grid with digits from 1 to 9, so that each column, each row, and each of the nine 3x3 sub-grids (also known as blocks) contain all of the digits from 1 to 9.
+More info at: [http://en.wikipedia.org/wiki/Sudoku](http://en.wikipedia.org/wiki/Sudoku)
+
+
+###Sudoku Solution Validator
+Write a function that accepts a Sudoku board, and returns true if it is a valid Sudoku solution, or false otherwise. The cells of the input Sudoku board may also contain 0's, which will represent empty cells. Boards containing one or more zeroes are considered to be invalid solutions.
+
+
+###Examples
+Valid board: 5 3 4|6 7 8|9 1 2 6 7 2|1 9 5|3 4 8 1 9 8|3 4 2|5 6 7 -----+-----+----- 8 5 9|7 6 1|4 2 3 4 2 6|8 5 3|7 9 1 7 1 3|9 2 4|8 5 6 -----+-----+----- 9 6 1|5 3 7|2 8 4 2 8 7|4 1 9|6 3 5 3 4 5|2 8 6|1 7 9Invalid board: This column has two 3's v This cell has a 0 > 0 3 4|6 7 8|9 1 2 6 7 2|1 9 5|3 4 8 1 9 8|3 4 2|5 6 7 -----+-----+----- 8 5 9|7 6 1|4 2 3 4 2 6|8 5 3|7 9 1 7 1 3|9 2 4|8 5 6 -----+-----+----- This box has /9 6 1|5 3 7|2 8 4 two 3's >| 2 8 3|4 1 9|6 3 5 < This row has two 3's \3 4 5|2 8 6|1 7 9
+###Details
+
+- All inputs are guaranteed to be 2D boards of size 9x9 with possible values in range 0-9. 
+- Rows, columns and blocks (3x3 small squares) must contain each number from range 1-9 exactly once. 
+- User solution must not modify input boards.
+
+[hobovsky](https://www.codewars.com/users/hobovsky?utm_source=newsletter)
+
+[**Andela**](http://andela.com)
+
+580 5th Ave Suite 820 New York, NY 10036 United States
+
+This email was sent to mchlmarczak@gmail.com
+
+You've received this email because you've subscribed to our newsletter.
+
+[Unsubscribe](http://r.news.codewars.com/mk/un/v2/SLYFEsWB-X6Fykw6Sx2UqcT323qvMfyXwAX4I0l0IEOOsRr-9KHj7t33njr2Auz-z-KuD5HymAeSGoFfCeGXe6A10iC3xfSLOzi-m2ySdf-7StRkUD_4bHod1ptqOuO4SoNFKkxqXFjV6LHsK5E9A5oWFdo4zASkeEIMXUWM)
+
+TBD Welcome to Basic Training. Keep scrolling for the ultimate Docker cheat sheet, tips for time management, and kata picked specially for you. From the Codewars Blog Learn in Public: The community-based learning strategy that improves programming skills Shawn Wang, better known as swyx, is a Dev Ex leader who worked for companies like Netlify, AWS, and Temporal. Currently, he’s Head of Dev Ex at Airbyte and curates the DX Tips newsletter, focusing on developer tools, developer relations, and all things developer experience. He’s also a proud Learn in Public Evangelist. While swyx is not the founder of LIP (the idea of community based learning has been an ethos since Aristotle and Plato began sharing ideas), he is very vocal about its personal and professional benefits. The logic behind LIP ties into the open-source culture of tech, and its thesis is to learn faster than privately learning. Swyx describes LIP as this: “You share what you learn, as you learn it. You Open Source your knowledge. You build a public record of your interests and progress, and along the way, you attract a community of mentors, peers, and supporters. They will help you learn faster than you ever could on your own. Your network could be vast, consisting of experts in every field, unconstrained by your org chart.” - The Coding Career Handbook By utilizing community based learning, and in turn, sharing what you learn with a community, you become part of a nearly infinite network of knowledge and opportunities. Keep reading 📖 Resources Use kata to follow along with Stephen Prata's "C Primer Plus" book Shout out to a fellow Codewarrior who went through all 180 8kyu C kata and sorted them according to chapters in Stephen Prata's "C Primer Plus" book! If you're looking to learn C with the help of kata, this is a great place to start. Time management 101: Boost your productivity In the fast-paced tech industry, time management is crucial for productivity and career growth. It can even help jumpstart your career. The ultimate Docker cheat sheet This is exactly what it sounds like. Tap the link to take advantage of another valuable cheat sheet. Time to Train String Templates - Bug Fixing #5 Oh no! Timmy hasn't followed instructions very carefully and forgot how to use the new String Template feature, Help Timmy with his string template so it works as he expects! matt c Sudoku board validator Sudoku Background Sudoku is a game played on a 9x9 grid. The goal of the game is to fill all cells of the grid with digits from 1 to 9, so that each column, each row, and each of the nine 3x3 sub-grids (also known as blocks) contain all of the digits from 1 to 9. More info at: http://en.wikipedia.org/wiki/Sudoku Sudoku Solution Validator Write a function that accepts a Sudoku board, and returns true if it is a valid Sudoku solution, or false otherwise. The cells of the input Sudoku board may also contain 0's, which will represent empty cells. Boards containing one or more zeroes are considered to be invalid solutions. Examples Valid board: 5 3 4|6 7 8|9 1 2 6 7 2|1 9 5|3 4 8 1 9 8|3 4 2|5 6 7 -----+-----+----- 8 5 9|7 6 1|4 2 3 4 2 6|8 5 3|7 9 1 7 1 3|9 2 4|8 5 6 -----+-----+----- 9 6 1|5 3 7|2 8 4 2 8 7|4 1 9|6 3 5 3 4 5|2 8 6|1 7 9 Invalid board: This column has two 3's v This cell has a 0 > 0 3 4|6 7 8|9 1 2 6 7 2|1 9 5|3 4 8 1 9 8|3 4 2|5 6 7 -----+-----+----- 8 5 9|7 6 1|4 2 3 4 2 6|8 5 3|7 9 1 7 1 3|9 2 4|8 5 6 -----+-----+----- This box has /9 6 1|5 3 7|2 8 4 two 3's >| 2 8 3|4 1 9|6 3 5 < This row has two 3's \3 4 5|2 8 6|1 7 9 Details All inputs are guaranteed to be 2D boards of size 9x9 with possible values in range 0-9. Rows, columns and blocks (3x3 small squares) must contain each number from range 1-9 exactly once. User solution must not modify input boards. hobovsky Andela 580 5th Ave Suite 820 New York, NY 10036 United States This email was sent to mchlmarczak@gmail.com You've received this email because you've subscribed to our newsletter. Unsubscribe

@@ -1,0 +1,225 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'>
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=ISO-8859-2'/>
+<style type='text/css'>
+body {
+    color:#444444;
+    font-family:Arial,Arial Ce,Arial CE,Verdana,Helvetica,Helv,Geneva,sans,sans,serif;
+    font-size:11px;
+    line-height:16px;
+    margin:0;
+    padding:0;
+}
+#mailBody, .mailBody { 
+	padding: 0px 0px 0px 10px;
+	float: left;
+	width: 500px;
+	margin: 3px 0px 3px 0px;
+    background-color:#FFFFFF;
+}
+td 
+{
+	vertical-align: top;
+}
+A, A:visited
+{
+	color: #63BB13;
+	text-decoration: none;
+}
+A:hover
+{
+	text-decoration: underline;
+}
+a img
+{
+	border: none 0px;
+}
+.Mail_Title
+{
+	font-weight: bold;	
+}
+P
+{
+	margin-top: 6px;
+	margin-bottom: 6px;	
+}
+ul, ol
+{
+    margin: 0px;
+}
+.Mail_Date
+{
+	font-style: italic;	
+}
+/* Breadcrumb */
+#mailBody .Mail_NewsHeader, #mailBody .Mail_NewProductsHeader
+{
+	width: 485px;
+	height: 30px;
+	background: #63BB13;
+	line-height: 30px;
+	font-weight: bold;
+	color: #ffffff;
+	padding-left: 15px;
+	margin-top: 6px;
+	margin-bottom: 16px;
+}
+#mailBody .Mail_breadcrumb
+{
+	color: #BC6497;
+}
+/* GvFEList */
+.Mail_GvFEList
+{
+	width: 100%;
+}
+.Mail_GvFEList td
+{
+	padding: 0px 10px 15px 0px;
+}
+.newsImageColumn
+{
+	width: 90px;
+}
+/* Mail / Newsletter only */
+.mailHeader
+{
+	background-color:#FFFFFF;
+	width: 100%;
+	margin-bottom: 8px;
+}
+.mailText, .mailContent
+{
+	display:block;
+    margin-bottom: 8px;
+}
+.mailFooter
+{
+	display:block;
+	clear: both;
+	border-top: solid 1px #cccccc;
+	padding-top: 6px;
+	margin-top: 16px;
+	color: #919191;
+}
+.mailFooter a:link, .mailFooter a:visited
+{
+	color: #444444;
+}
+
+.img-wrap 
+{
+    max-width: 200px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+</style>
+</head>
+<body>
+
+<div class='mailHeader'>
+    <a href='https://formeld.elevato.net/'><img class="img-wrap" src='https://formeld.elevato.net/Public/formeld.elevato.net/Account/formel-d_20200622054952.png' alt='Formel D Polska' border='0' /></a></div>
+<div id='mailBody'><table class='mailBody'><tr><td><i>Ten email został wysłany przez: Formel D Polska (rekrutacja@formeld.com).</i></td></tr><tr><td><div class='mailContent'>
+    Witaj Michał, <br>
+<br>
+Dziękujemy za przesłanie aplikacji na stanowisko <strong>Kontroler Jakości, Jawor</strong>. Pełną treść oferty pracy, na którą aplikowałeś, znajdziesz poniżej. Osobą odpowiedzialną za projekt rekrutacyjny jest Natalia Suścicka (<a href='mailto:natalia.suscicka@formeld.com' target='_blank'>natalia.suscicka@formeld.com</a>).<br>
+<br>
+Informujemy, że skontaktujemy się z wybranymi kandydatami. Twoje CV zostanie umieszczone w naszej bazie kandydatów.<br>
+<br>
+Obowiązek informacyjny<br>
+<br>
+<h4>Klauzule informacyjne</h4><hr/><div><span class="SectionName">OBOWIĄZEK INFORMACYJNY DLA KANDYDATÓW</span>
+<p>Zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w&nbsp;sprawie ochrony osób fizycznych w&nbsp;związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE („RODO”)
+<strong>Formel D Polska Sp. z o.o. </strong>z siedzibą w Gliwicach, ul.Toszecka 101, tel. (032) 302 93 00 jest Administratorem Twoich danych osobowych. </p>
+
+<p>Twoje dane osobowe przetwarzamy wyłącznie w celu przeprowadzenia rekrutacji wskazanej w ofercie pracy oraz do celów przyszłych rekrutacji, jeśli wyraziłe(a)ś stosowną zgodę.</p>
+
+<p>Twoje dane osobowe są przetwarzane w oparciu o art. 22<sup>1</sup> Kodeksu pracy, a w zakresie nie objętym tym przepisem na podstawie udzielonej przez Ciebie zgody, co jest konieczne do wzięcia udziału w rekrutacji.</p>
+
+<p>Nie przekazujemy Twoich danych osobowych poza Europejski Obszar Gospodarczy.</p>
+
+<p>Twoje dane osobowe przetwarzamy w celu przeprowadzenia rekrutacji na stanowisko wskazane w ogłoszeniu przez okres 1 roku od momentu otrzymania od Ciebie aplikacji. Jeśli wyraziłe(a)ś zgodę na przetwarzanie danych osobowych na potrzeby innych lub przyszłych rekrutacji, Twoje dane osobowe będą przetwarzane przez okres&nbsp; 3&nbsp;lat lub do momentu cofnięcia zgody.</p>
+
+<p>Jeśli wyraziłe(a)ś zgodę na przetwarzanie danych osobowych w celach marketingowych – Twoje dane przetwarzane będą na potrzeby przesyłania informacji o działalności Formel D, prowadzonych projektach, rekrutacjach, badania satysfakcji, analizowania rynku pracy i przetwarzane przez okres 1 roku lub do momentu cofnięcia zgody. </p>
+
+<p>Twoje dane osobowe możemy przechowywać dla celów ustalenia, dochodzenia lub obrony przed roszczeniami związanymi z procesem rekrutacji przez okres 3 lat liczonych od momentu zakończenia procesu rekrutacji, w&nbsp;której brałe(a)ś udział.</p>
+
+<p>W przypadku pozytywnego wyniku rekrutacji, Twoje dane osobowe przetwarzamy dalej w oparciu o zasady i&nbsp;okresy przetwarzania danych przewidziane dla pracowników Formel D Polska, które zostaną Ci przekazane&nbsp; w&nbsp;momencie rozpoczęcia pracy.</p>
+
+<p>Jeżeli wyraziłeś na to zgodę, twoje dane osobowe możemy przekazać naszym klientom, partnerom biznesowym lub podmiotom powiązanym kapitałowo, dostawcom usług publikacji ogłoszeń o pracę, dostawcom systemów do zarządzania rekrutacjami, dostawcom usług IT takich jak hosting oraz dostawcom systemów informatycznych biorącym udział procesie rekrutacji. Brak zgody na przekazanie danych może spowodować zmniejszenie szans na wybór Twojej kandydatury. Wszyscy nasi dostawcy mają siedziby w Unii Europejskiej.</p>
+
+<p>W każdym czasie możesz cofnąć zgodę, kontaktując się z nami pod adresem e-mail <a href="mailto:rekrutacja@formeld.com">rekrutacja@formeld.com</a> </p>
+<p>Cofnięcie zgody pozostaje bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem.</p>
+
+<p>Masz prawo dostępu do swoich danych, w tym uzyskania informacji o ich przetwarzaniu, ich kopii, sprostowania danych, żądania ich usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu wobec przetwarzania oraz przeniesienia podanych danych (na których przetwarzanie wyraziłe(a)ś zgodę) do innego administratora danych.</p>
+<p>Masz prawo do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych.</p>
+<p>W razie pytań możesz skontaktować się z naszym Inspektorem Ochrony Danych pod adresem e-mail:&nbsp; </p>
+<p><a href="mailto:dsb-formelD@dsb24.net">dsb-formelD@dsb24.net</a> </p><br/>Data wyrażenia zgody: 20.07.2023, 18:31</div><br>
+<br>
+Zgody zaznaczone podczas aplikowania:<br>
+<br>
+<h4>Zgody</h4><hr/><div><p>Wyrażam zgodę na przetwarzanie mojego prywatnego adresu mailowego przez Administratora danych osobowych, którym Formel D Polska z siedzibą w Gliwicach, ul. Toszecka 101, NIP: 5252182552, REGON: 016349279</p>
+<p>Podaję dane osobowe dobrowolnie i oświadczam, że są one zgodne z prawdą.</p><br/>Data wyrażenia zgody: 20.07.2023, 18:31<br/>Ważność zgody: Zgoda bezterminowa</div><hr/><div>Wyrażam zgodę na przetwarzanie moich danych osobowych, zawartych w przekazanych przeze mnie dokumentach, przez Formel D Polska Sp. z o.o., dla potrzeb niezbędnych do realizacji obecnego procesu rekrutacji. Administratorem Danych Osobowych jest Formel D Polska Sp. z o.o. z siedzibą w&nbsp;Gliwicach (44-100) przy ul. Toszeckiej 101.<br/>Data wyrażenia zgody: 20.07.2023, 18:31<br/>Ważność zgody: Z datą zakończenia projektu</div><hr/><div>Wyrażam zgodę na przetwarzanie moich danych osobowych, zawartych w przekazanych przeze mnie dokumentach, przez Formel D Polska Sp. z o.o., dla potrzeb niezbędnych do realizacji przyszłych procesów rekrutacyjnych, w tym na otrzymywanie informacji o ofertach pracy. Administratorem Danych Osobowych jest Formel D Polska Sp. z o.o. z siedzibą w Gliwicach (44-100) przy ul. Toszeckiej 101.<br/>Data wyrażenia zgody: 20.07.2023, 18:31<br/>Ważność zgody: 20.07.2024</div><hr/><div>Wyrażam ogólną zgodę na przetwarzanie moich danych osobowych, zawartych w przekazanych przeze mnie dokumentach przez klientów, partnerów biznesowych z Formel D Polska Sp. z o.o. lub podmioty powiązane kapitałowo, biorących udział w procesie rekrutacji. Administratorem Danych Osobowych jest Formel D Polska Sp. z o.o. z siedzibą w Gliwicach (44-100) przy ul. Toszeckiej 101.<br/>Data wyrażenia zgody: 20.07.2023, 18:31<br/>Ważność zgody: 20.07.2024</div><br>
+<br>
+Może Pani/Pan wycofać zgodę w dowolnym momencie, jednakże nie wpływa to na zgodność z prawem przetwarzania danych dokonanego przed wycofaniem zgody. Aby wycofać lub przedłużyć zgodę za pośrednictwem systemu rekrutacyjnego, należy wejść na stronę:  https://formeld.elevato.net/pl/zarzadzanie-zgodami-dostep,ccma.<br>
+<br>
+Pozdrawiamy,<br>
+Formel D Polska<br>
+<br>
+<br /><br /><h1>Kontroler Jakości, Jawor</h1><p><strong>Formel D</strong> jest globalnym dostawcą usług dla przemysłu motoryzacyjnego. Rozwijamy wiodące koncepcje i indywidualne, dedykowane rozwiązania z zakresu zapewniania jakości i optymalizacji procesów wraz z całym łańcuchem wartości przemysłu motoryzacyjnego — od rozwoju do produkcji i obsługi posprzedażowej.</p>
+<p>Pasja nas napędza, profesjonalizm nas wyróżnia, a duch zespołu sprawia, że odnosimy sukcesy!</p>
+<p>&nbsp;</p>
+<p style="text-align: center">Obecnie do naszego zespołu poszukujemy kandydatów na stanowisko:</p>
+<p style="text-align: center"><strong>Kontroler Jakości</strong> - nie wymagamy doświadczenia!&nbsp;&nbsp;</p><br/><br/><b>Miejsce pracy</b><br />Jawor<br /><br /><b>Region</b><br />dolnośląskie (Polska)<br /><br /><b>Rodzaj zatrudnienia</b><br />Umowa zlecenie<br /><br /><b>Wynagrodzenie</b><br />23<br /><br /><b>Poszukujemy właśnie Ciebie, jeśli:</b><br /><ul>
+    <li>
+    <p>jesteś dyspozycyjny do pracy w&nbsp;<strong>systemie 3 zmianowym&nbsp;</strong>(6.00 - 14.00, 14.00 - 22.00, 22.00 - 6.00)</p>
+    </li>
+    <li>
+    <p>wyróżnia Cię zaangażowanie i poczucie odpowiedzialności</p>
+    </li>
+    <li>
+    <p>posiadasz zdolności manualne oraz dobry wzrok</p>
+    </li>
+    <li>
+    <p style="text-align: left"><span style="font-size: 13px">chcesz się rozwijać i jesteś gotowy wspierać nasze inne projekty (np. w Gniewomierzu koło Legnicy)</span></p>
+    </li>
+</ul><br /><br /><b>Na co dzień będziesz odpowiedzialny za:</b><br /><ul>
+    <li>
+    <p>kontrolę jakości części samochodowych zgodnie z instrukcją (kontrola wizualna lub przy użyciu narzędzi pomiarowych, np. suwmiarka)</p>
+    </li>
+    <li>
+    <p>uzupełnianie raportów</p>
+    </li>
+    <li>
+    <p>dbanie o porządek na swoim stanowisku pracy</p>
+    </li>
+</ul><br /><br /><b>Przygotowaliśmy dla Ciebie:</b><br /><ul>
+    <li>
+    <p><strong>umowę zlecenie</strong> -&nbsp;przewidziana długoterminowa współpraca<strong>&nbsp;</strong></p>
+    </li>
+    <li>
+    <p><strong>premię uznaniową do 10%</strong></p>
+    </li>
+    <li>
+    <p>ewentualne nadgodziny płatne: 50% w tygodniu oraz 100% w weekendy</p>
+    </li>
+    <li>
+    <p>Pracownicze Plany Kapitałowe</p>
+    </li>
+    <li>
+    <p>program "Otwórz się na kulturę"</p>
+    </li>
+    <li>
+    <p><strong>pakiet szkoleń, który w pełni przygotuje Cię do pracy na stanowisku Kontrolera Jakości</strong></p>
+    </li>
+    <li>
+    <p>odzież i obuwie robocze</p>
+    </li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Aplikuj lub dowiedz się więcej! T:</strong><strong>&nbsp;533 141 088</strong></p><br /><br />
+</div></td></tr>
+</table></div>
+</body>
+</html>

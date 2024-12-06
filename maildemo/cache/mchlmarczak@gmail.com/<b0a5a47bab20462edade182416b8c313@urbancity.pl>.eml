@@ -1,0 +1,467 @@
+ 
+
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-type">
+</head>
+
+<!------------------------------ STYLES -------------------------------->
+<style type="text/css">
+    .mobile-vertical th {
+        text-align: start;
+    }
+
+    @media screen and (min-width:200px) and (max-width:450px) {
+        .mobile-vertical{
+            display: block;
+        }
+        .mobile-vertical th{
+            display: block;
+            width: 100%;
+            display: block !important;
+            width: 100% !important;
+        }
+        .mobile-vertical th p{
+            text-align: center;
+        }
+        .sideWrapper{
+            width: 20px;
+        }
+        .mobile-block {
+        	display: block;
+        	display: block!important;
+        	width: 100%;
+        	width: 100%!important;
+        	padding: 0!important;
+        }
+    }
+</style>
+
+<body style="padding: 0; margin:0; background:#f0f0f0;font-family: Arial,sans-serif;">
+
+<!------------------------------ HEADER -------------------------------->
+<table role="presentation" role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100% !important;min-width:100%;max-width:100%;background:#ffffff;margin:0;line-height:0;font-size:0;">
+    <tbody>
+    <tr>
+        <td style="line-height: 0"></td>
+        <td class="centerWrapper">
+            <div style="max-width:600px;min-width:300px;margin:0 auto;line-height:0;font-size:0;">
+                <table role="presentation" role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="margin:0;line-height:0;font-size:0;">
+                    <tbody>
+                    <tr>
+                        <td class="sideWrapper" width="50" valign="top" bgcolor="#ffffff" align="left" style="line-height:normal !important;"> </td>
+                        <td bgcolor="#000000">
+                            <table role="presentation" role="presentation" width="100%" height="60" cellspacing="0" cellpadding="0" border="0" align="center">
+                                <tbody>
+                                <tr height="60">
+                                    <td>
+                                        <div style="font-weight:400;line-height:1.3;margin-bottom:5px">
+                                            <center style="min-width:300px;width:100%">
+                                                <a  href="https://www.urbancity.pl" style="border:0px;" title="Urbancity">
+                                                                                                        <img align="center" class="float-center" style="clear:both;display:block;float:none;margin:0 auto;max-width:100%;outline:0;text-align:center;text-decoration:none;width:auto" alt="Urbancity" src="https://gfx.urbancity.pl/media/pub/logo/Group__141.png">
+                                                </a>
+                                            </center>
+                                        </div>
+                                    </td>
+                                </tr>
+
+                                </tbody>
+                            </table>
+                        </td>
+                        <td class="sideWrapper" width="50" valign="top" bgcolor="#ffffff" align="left" style="line-height:normal !important;"> </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </td>
+        <td style="line-height: 0"></td>
+    </tr>
+    <!--[if gte mso 12]>
+    <tr>
+        <td style="line-height: 0" width="50%"></td>
+        <td class="centerWrapper" width="600" >
+
+            <table role="presentation" role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tbody>
+                <tr>
+                    <td width="50" valign="top" bgcolor="#ffffff" align="left" style="line-height:normal !important;"> </td>
+                    <td bgcolor="#ffffff" style="font-size:0;line-height:0;height:0;">
+                    </td>
+                    <td width="50" valign="top" bgcolor="#ffffff" align="left" style="line-height:normal !important;"> </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td style="line-height: 0" width="50%"></td>
+    </tr>
+    <![endif]-->
+    </tbody>
+</table>
+
+<!------------------------------ CONTENT -------------------------------->
+<table role="presentation" role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100% !important;min-width:100%;max-width:100%;background:#ffffff;margin: 0;line-height:0;font-size: 0">
+    <tbody>
+    <tr>
+        <td style="line-height: 0"></td>
+        <td class="centerWrapper">
+            <div style="max-width:600px;min-width:300px; margin:0 auto;line-height:0;font-size:0;">
+                <table role="presentation" role="presentation" align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                    <tr>
+                        <td class="sideWrapper" bgcolor="#ffffff" width="50" valign="top" align="left" style="line-height:normal !important;"></td>
+                        <td bgcolor="#ffffff">
+                            <table role="presentation" role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tbody>
+                                <tr>
+                                    <td style="font-family:Arial, sans-serif;text-align:left;font-size: 13px;color:#000000;line-height: 18px;">
+                                        <p style="text-align: center; margin: 30px 0; text-transform: uppercase; font-weight: 800; font-size: 16px; color: #000000; letter-spacing: 1px;">
+WITAJ Michał Marczak
+</p>
+
+<p style="color: #8e8e8e; margin: 0 0 20px 0; text-align: center; font-size: 13px;">
+Twoje zamówienia numerze&nbsp;<b>UC2209273ISX </b>zostało wysłane.</p>
+
+<p style="color: #8e8e8e; margin: 0 0 20px 0; text-align: center; font-size: 13px;">
+Jeśli jesteś zarejestrowanym Klientem UrbanCity.pl, szczegółowe informacje na temat swoich zamówień znajdziesz na stronie
+<a href="https://www.urbancity.pl/myAccount/personalData" style="color: #000000; text-decoration: underline;">
+<b>Twoje konto</b>
+</a>
+</p>
+<p style="color: #8e8e8e; margin: 0 0 20px 0; font-size: 13px;">Numer listu przewozowego:&nbsp; 1000505867753U</p>
+
+<table style="width: 100%; margin: 40px 0;" width="100%">
+<tbody>
+<tr>
+<td style="width: 100%; background-color: #eeeeee;" width="100%">
+<p style="margin: 0; padding: 25px 20px; font-size: 12px; color: #000000; font-weight: 800; text-transform: uppercase;">Lista produktów</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+
+<table width="100%" style="widht: 100%" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody>
+                <tr>
+        <td width="120px" bgcolor="#ffffff"
+            style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 18px; vertical-align: top;">
+            <img src="https://gfx.urbancity.pl/media/res/products/741/98741/310x414/bluza-bez-kaptura-champion-waffle-ciemna-niebieska_1.jpg" style="width: 120px;">
+        </td>
+        <td width="20px"></td>
+        <td style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 18px; color: #8e8e8e;">
+            <p style="margin: 0; color: #000000; font-weight: 800; font-size: 13px; text-transform: uppercase;">Champion</p>
+            <p style="margin: 0; color: #000000; font-size: 13px;">Bluza Bez Kaptura Champion Waffle Ciemna Niebieska</p>
+
+            
+            <p style="margin: 0;font-size: 13px;line-height: 18px; color: #8e8e8e;">
+                                    2XL / 
+                                
+                szt. <b style="color: #000000">1</b>
+            </p>
+
+            <p style="margin: 0;font-size: 13px;line-height: 18px; color: #000000;">
+                <span style="color: #8e8e8e;">Cena:</span>
+                    <span>169,00</span>&nbsp;<span>zł</span>
+
+                                    <span style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 18px;color:rgba(0,0,0,0.29);text-decoration: line-through ">    <span>289,00</span>&nbsp;<span>zł</span>
+</span>
+                            </p>
+
+            <p style="margin: 0;font-size: 13px;line-height: 18px; color: #000000;">
+                <span style="color: #8e8e8e;">Wartość:</span>
+                    <span>169,00</span>&nbsp;<span>zł</span>
+
+                            </p>
+
+            
+            
+        </td>
+    </tr>
+    <tr>
+        <td height="20" colspan="5" style="line-height:0.1em !important;" bgcolor="#ffffff"> </td>
+    </tr>
+                <tr>
+        <td width="120px" bgcolor="#ffffff"
+            style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 18px; vertical-align: top;">
+            <img src="https://gfx.urbancity.pl/media/res/products/449/102449/310x414/bluza-bez-kaptura-ssg-small-ssg-washed-czarna-czerwona_1.jpg" style="width: 120px;">
+        </td>
+        <td width="20px"></td>
+        <td style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 18px; color: #8e8e8e;">
+            <p style="margin: 0; color: #000000; font-weight: 800; font-size: 13px; text-transform: uppercase;">Smokestory</p>
+            <p style="margin: 0; color: #000000; font-size: 13px;">Bluza Bez Kaptura SSG Small SSG Washed Bordowo / Czerwona</p>
+
+            
+            <p style="margin: 0;font-size: 13px;line-height: 18px; color: #8e8e8e;">
+                                    2XL / 
+                                
+                szt. <b style="color: #000000">1</b>
+            </p>
+
+            <p style="margin: 0;font-size: 13px;line-height: 18px; color: #000000;">
+                <span style="color: #8e8e8e;">Cena:</span>
+                    <span>119,00</span>&nbsp;<span>zł</span>
+
+                                    <span style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 18px;color:rgba(0,0,0,0.29);text-decoration: line-through ">    <span>179,00</span>&nbsp;<span>zł</span>
+</span>
+                            </p>
+
+            <p style="margin: 0;font-size: 13px;line-height: 18px; color: #000000;">
+                <span style="color: #8e8e8e;">Wartość:</span>
+                    <span>119,00</span>&nbsp;<span>zł</span>
+
+                            </p>
+
+            
+            
+        </td>
+    </tr>
+    <tr>
+        <td height="20" colspan="5" style="line-height:0.1em !important;" bgcolor="#ffffff"> </td>
+    </tr>
+        <tr>
+        <td height="5" colspan="5" style="line-height:0.1em !important;"> </td>
+    </tr>
+    </tbody>
+</table>
+</p>
+<table><tbody><tr><td>
+
+
+<table width="500" cellspacing="0" cellpadding="0" align="center" style="padding: 20px;background-color: #eeeeee;">
+    <tbody>
+    <tr>
+        <td width="50%" style="vertical-align: middle; width: 50%;">
+            <p style="margin: 0; font-size: 12px; color: #000000; font-weight: 800; text-transform: uppercase;">
+                Szczegóły zamówienia
+            </p>
+        </td>
+        <td width="50%" style="width: 50%;">
+            <table style="width: 100%;" width="100%">
+                <tr style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 18px;color: #8e8e8e;">
+                    <td>Wartość produktów</td>
+                    <td width="15" style="line-height:0.1em !important;"> </td>
+                    <td style="text-align: right;">    <span>288,00</span>&nbsp;<span>zł</span>
+</td>
+                </tr>
+                                                                                                                <tr style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 13px;color: #8e8e8e;">
+                    <td>Koszt dostawy</td>
+                    <td width="15" style="line-height:0.1em !important;" > </td>
+                    <td style="text-align: right;">    <span>0,00</span>&nbsp;<span>zł</span>
+</td>
+                </tr>
+                <tr style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 13px;color: #8e8e8e;">
+                    <td>Wartość zamówienia:</td>
+                    <td width="15" style="line-height:0.1em !important;" > </td>
+                    <td style="text-align: right; color: #000000; font-size: 21px; line-height: 18px; font-weight: 800;">    <span>288,00</span>&nbsp;<span>zł</span>
+</td>
+                </tr>
+            </table>
+        </td>
+        <td></td>
+    </tr>
+    </tbody>
+</table>
+
+</td></tr></tbody></table><br>
+<p>
+<table width="100%" style="width:100%">
+    <tbody>
+    <tr>
+        <td>
+            <p style="margin-top: 30px; font-weight: 800; font-size: 12px; border-bottom: 1px solid #ccc; padding-bottom: 5px; margin-bottom: 15px; text-transform: uppercase;">
+                Dane dostawy
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#ffffff" style="color: #232323;font-family: Helvetica;font-size: 13px;line-height: 18px;color: #8e8e8e; text-align: left;">
+                                                Michał Marczak
+                    <br>
+                                                                    3 Maja
+                                                    57
+                                                                    / 5
+                    <br>
+                                                                    58-173
+                                                    Roztoka
+                    <br>
+                                
+                        
+        </td>
+    </tr>
+    </tbody>
+</table>
+</p>
+<p>
+</p>
+
+
+<p style="margin: 0 0 40px 0">
+</p>
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                        <td class="sideWrapper" bgcolor="#ffffff" width="50" valign="top" align="left" style="line-height:normal !important;"></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </td>
+        <td style="line-height: 0"></td>
+    </tr>
+    <!--[if gte mso 12]>
+    <tr>
+        <td style="line-height: 0" width="50%"></td>
+        <td class="centerWrapper" width="600">
+
+            <table role="presentation" role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tbody>
+                <tr>
+                    <td width="50" valign="top" bgcolor="#ffffff" align="left" style="line-height:normal !important;"> </td>
+                    <td bgcolor="#ffffff" style="font-size:0;line-height:0;height:0;">
+                    </td>
+                    <td width="50" valign="top" bgcolor="#ffffff" align="left" style="line-height:normal !important;"> </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td style="line-height: 0" width="50%"></td>
+    </tr>
+    <![endif]-->
+    </tbody>
+</table>
+
+<!------------------------------ FOOTER -------------------------------->
+<table role="presentation" role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="width:100% !important;min-width:100%;max-width:100%;background:#ffffff;margin: 0;line-height:0;font-size: 0">
+    <tbody>
+    <tr>
+        <td style="line-height: 0"></td>
+        <td class="centerWrapper">
+            <div style="max-width:600px;min-width:300px; margin:0 auto;line-height:0;font-size:0;">
+                <table role="presentation" role="presentation" align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                    <tr>
+                        <td class="sideWrapper" bgcolor="#ffffff" width="50" valign="top" align="left" style="line-height:normal !important;"></td>
+                        <td bgcolor="#ffffff">
+                            <p style="margin-bottom: 0; height: 40px; line-height: 40px; color: #000000; text-align:center; border-bottom: 1px solid #cccccc; border-top: 1px solid #cccccc; font-size:16px;">
+  <b>MASZ PYTANIA?</b>
+</p>
+
+<table role="presentation" align="center" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 15px;">
+<tbody>
+  <tr>
+    <td class="mobile-block" width="50%" style="text-align: center; width: 50%; padding-right: 15px;">
+      <p style="text-align:center; margin: 25px 0 0 0; min-height: 15px; font-size: 14px; color: #000000; line-height: 14px;">
+        Zadzwoń do nas:
+      </p>
+      <p style="margin: 0; border: 1px solid #000; height: 35px; line-height: 35px; font-size: 12px; text-align: center;">
+        <b><a href="tel:694 671 332" style="text-decoration: none; color: #000000; line-height: 35px">694 671 332</a></b>
+      </p>
+      <p style="margin: 15px 0 0 0; min-height: 14px; font-size: 12px; color: #000000; line-height: 12px;">
+        w poniedziałek 7-16
+      </p>
+      <p style="margin: 0; min-height: 14px; font-size: 12px; color: #000000; line-height: 12px;">
+        od wtorku do czwartku 7-15
+      </p>
+      <p style="margin: 0; min-height: 14px; font-size: 12px; color: #000000; line-height: 12px;">
+        w piątek 7-14
+      </p>
+    </td>
+    <td class="mobile-block" width="50%" style="text-align: left; width: 50%; vertical-align: top; padding-left: 15px;">
+      <p style="text-align:center; margin: 25px 0 0 0; min-height: 15px; font-size: 14px; color: #000000; line-height: 12px">
+        Napisz do nas:
+      </p>
+      <p style="margin: 0; border: 1px solid #000; height: 35px; line-height: 35px; font-size: 12px; text-align: center;">
+        <b><a href="mailto:sklep@urbancity.pl" style="text-decoration: none; color: #000000; line-height: 35px">sklep@urbancity.pl</a></b>
+      </p>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<p style="margin-bottom: 0; padding: 10px 0; text-align:center; border-top: 1px solid #cccccc; border-bottom: 1px solid #cccccc;">
+  <a href="https://www.facebook.com/UrbanCityPl/" style="text-decoration: none">
+  <img style="margin-right: 30px" src="https://urbancity.e24files.com/media/pub/emails/facebook.png" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/urbancitypl/" style="text-decoration: none">
+    <img style="margin-right: 30px" src="https://urbancity.e24files.com/media/pub/emails/instagram.png" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/channel/UC4T_m2wuezhiULB9BtAKQKg" style="text-decoration: none">
+  <img src="https://urbancity.e24files.com/media/pub/emails/youtube.png" alt="Youtube">
+  </a>
+</p>
+
+<table role="presentation" align="center" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom: 30px;">
+<tbody>
+  <tr>
+    <td width="40%" style="text-align: left; width: 40%;">
+      <p style="margin: 15px 0 0 0; min-height: 14px; font-size: 12px; color: #000000; line-height: 12px">
+        Pozdrawiamy serdecznie!
+      </p>
+      <p style="margin: 0; min-height: 14px; font-size: 12px; color: #000000; line-height: 12px">
+        Zespół <b>UrbanCity.pl</b>
+      </p>
+    </td>
+    <td width="60%" style="text-align: right; font-size: 10px;vertical-align:middle; width: 60%;">
+      <p style="margin: 15px 0 0 0;">
+      
+        <a href="https://www.urbancity.pl/regulaminy/regulamin" style="font-size: 10px; color: #000; text-decoration: none; line-height: 10px;">
+          <b>Regulamin</b>
+        </a>
+        
+        <a href="https://www.urbancity.pl/regulaminy/polityka-prywatnosci" style="font-size: 10px; color: #000; text-decoration: none; line-height: 10px;">
+          <b>Polityka prywatności</b>
+        </a>
+        
+        Copyright © 2021
+        
+        <a href="https://www.urbancity.pl" style="font-size: 10px; height: 14px; color: #000; text-decoration: none; line-height: 10px;">
+          <b>UrbanCity.pl</b>
+        </a>
+        
+      </p>
+    </td>
+  </tr>
+</tbody>
+</table>
+                        </td>
+                        <td class="sideWrapper" bgcolor="#ffffff" width="50" valign="top" align="left" style="line-height:normal !important;"></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </td>
+        <td style="line-height: 0"></td>
+    </tr>
+    <!--[if gte mso 12]>
+    <tr>
+        <td style="line-height: 0" width="50%"></td>
+        <td class="centerWrapper" width="600">
+
+            <table role="presentation" role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tbody>
+                <tr>
+                    <td width="50" valign="top" bgcolor="#ffffff" align="left" style="line-height:normal !important;"> </td>
+                    <td bgcolor="#ffffff" style="font-size:0;line-height:0;height:0;">
+                    </td>
+                    <td width="50" valign="top" bgcolor="#ffffff" align="left" style="line-height:normal !important;"> </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td  style="line-height: 0" width="50%"></td>
+    </tr>
+    <![endif]-->
+    </tbody>
+</table>
+
+</body>
+</html>
+
+

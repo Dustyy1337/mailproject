@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-16"?><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1;" /><title>We got your order, here's your receipt.</title><style>
+    /* Email client specific styles */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+    body{width:100%!important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+    body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+    /* Reset Styles */
+    sup {font-size: 8px; line-height: 0; vertical-align: 3px}
+    body{margin:0 auto!important; padding:0;-webkit-font-smoothing: antialiased; }
+    div[style*="margin: 16px 0"] { margin:0!important; } /* Center in android 4.4 */
+    img{border:0; outline:none; text-decoration:none;}
+    table, td { border-collapse:collapse; mso-table-lspace:0pl; mso-table-rspace:0pl; }
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+    p {margin:0; padding:0; margin-bottom:0;}
+    .outlookNone {display: none;}
+    div,button {margin:0!important; padding:0!important; display:block!important;} 
+    .appleLinksBlack a {color: #000000; text-decoration: none;}
+    .appleLinksWhite a {color: #ffffff; text-decoration: none;}
+    .appleLinksFoot a {color: #565555; text-decoration: none;}
+
+    @media only screen and (max-width: 480px) {
+        .desktop {display: none!important;}
+        .mobile {display: block!important; width: auto!important; max-height: inherit!important;}
+        .outlookNone {display:inline-block!important;}
+        .fullWidth {width:100%!important; min-width:0px!important}
+        .fullWidthAuto {height: auto!important; width:100%!important}
+        .mobBR {display: block!important;}
+        .block {display: block!important; width: 100%!important;}
+        .topText1 {display: block!important; width: 100%!important; height:auto!important; text-align: left!important; padding: 10px 0px 0px 15px!important;}
+        .topText2 {display: block!important; width: 100%!important; height:auto!important; text-align: left!important; padding: 5px 0px 10px 15px!important;}
+        .footerText {width: 100%!important; height: 100%!important; padding: 0px 10px 0px 10px!important; font-size: 11px!important; line-height: 14px!important;}
+        .text {width: 100%!important; height: auto!important; padding: 0 20px 0 20px!important;}
+        .socialText {width: 40%!important; height: 53px!important;}
+        .social1 {width: 67px!important; height: 46px!important;}
+        .social2 {width: 42px!important; height: 46px!important;}
+        .social3 {width: 36px!important; height: 46px!important;}
+        .social4 {width: 36px!important; height: 46px!important;}
+        .social5 {width: 56px!important; height: 46px!important;}
+        .divider {width: 100%!important;}
+    }
+
+    @media only screen and (min-width: 361px) and (max-width: 480px) {
+        .textTitle {font-size: 24px!important; line-height: 28px!important;}
+        .text {font-size: 18px!important; line-height: 22px!important;}
+        sup {font-size:12px!important; vertical-align:4px!important;}
+    }
+				</style></head><body style="margin: 0; padding: 0; width: 100%!important; background-color:#f3f3f3;"><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center"><tr><td align="center"><table width="600" style="min-width:400px; width: 600px; background-color:#ffffff;" border="0" cellpadding="0" cellspacing="0" align="center" class="fullWidth"><tr><td align="center" style="font-size: 0px;"><table width="100%" cellpadding="0" cellspacing="0" border="0" margin="0" style="width: 100%" class="fullWidth"><tr><td width="100%" height="40" style="background-color: #434c55; font-family: Arial; font-size: 11px; line-height: 12px; color: #ffffff; text-align: center; -webkit-text-size-adjust: none;" class="fullWidth" /></tr><tr><table style="width: 100%;" width="100%" border="0" cellpadding="0" cellspacing="0" align="center"><tr><td style="font-size: 0px; width: 262px; text-align: left;" align="left" valign="top" width="262" class="logoSide"><img src="https://uk-prod01-productimages-bucket.s3.eu-central-1.amazonaws.com/fries-top.gif" width="120" height="94" alt="M" style="font-family: Arial,sans-serif; font-size: 28px; text-align: center;display: inline-block; border-width: 0px; color:#ffc836;" /></td><td style="font-size: 0px; text-align: center; margin:none;padding:none;" align="center" valign="top" class="logo"><a href="https://www.mcdonalds.pl" target="_blank" title="McDonald's" style="color: #ffc836; text-decoration: none; margin:none; padding:none;"><img src="https://cdn.mcdonalds.pl/uploads/20210803111525/opt/mcd-logo-token-152x152.png" width="77" height="75" alt="M" style="font-family: Arial,sans-serif; font-size: 28px; text-align: center;display: inline-block; border-width: 0px; color:#ffc836;" /></a></td><td style="font-size: 0px; width: 262px; text-align: right;" align="right" valign="top" width="262" class="logoSide"> </td></tr></table></tr><tr><td style="font-family: Arial;  font-size: 22px; line-height: 26px; color: #000000; text-align: center; -webkit-text-size-adjust: none;" height="100%" class="textTitle"><p style="Margin: 40px 0 20px 0;"><strong>Dziękujemy za złożenie zamówienia. Twoja płatność została przyjęta.</strong><br /></p></td></tr><tr><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust:none;"><p class="appleLinksBlack" style="font-size: 13px; text-align: Center">
+														Cześć <strong>Michał,</strong><br />
+														paragon otrzymasz po odebraniu zamówienia w restauracji. Pamiętaj, by odebrać zamówienie o czasie.
+													</p><br /></td></tr><tr><td style="font-family: Arial; font-size: 14px; line-height: 18px; color: #000000; text-align: center; -webkit-text-size-adjust: none;" height="100%" class="text"><table width="520" cellpadding="0" cellspacing="0" border="0" style="width: 520px; margin: 0 40px 20px 40px;"><tr><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;">
+																	Data:               
+																</p></td><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;">12/12/22 08:03</p></td></tr><tr><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;">
+																	Nazwa restauracji:               
+																</p></td><td align="left" style="font-family: Arial; padding:4px;color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;">Legnica</p></td></tr><tr><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;">
+																	Numer zamówienia:              
+																</p></td><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;">6327</p></td></tr><tr><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;">
+																	Kwota:               
+																</p></td><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;"><b>42.00 PLN
+																		</b></p></td></tr><tr><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;">
+																	Karta:
+																</p></td><td align="left" style="font-family: Arial; padding:4px;color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 13px;">MasterCard
+																 / ************3244</p></td></tr></table></td></tr><tr><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 15px; text-align: Center"><strong><a href="https://dg95h.app.goo.gl/jToi">Jak minęła Twoja wizyta w McDonald`s?  <br /> Wypełnij ankietę Opinia Gościa! </a></strong></p><br /><br /></td></tr><tr><td align="left" style="font-family: Arial; padding:4px; color: #000000; -webkit-text-size-adjust: none;"><p class="appleLinksBlack" style="font-size: 15px; text-align: Center"><strong><a href="https://mcdonalds.pl/regulaminy/">Regulamin świadczenia usług online McDonald`s</a></strong></p><br /><br /></td></tr></table></td></tr><tr><td align="center" style="font-size: 0px; background-color:#434c55; "><table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" style="background-color:#434c55; width: 100%;" class="fullWidth" role="presentation"><tr><td colspan="6" style="font-size: 1px; height: 15px;" height="15" class="divider"> </td></tr><tr><td style="line-height: 19px; text-align: center; padding:0; margin:0;"><a href="https://www.mcdonalds.pl" title="McDonald's" target="_blank" style="color: #ffc736; text-decoration: none"><img src="https://uk-prod01-productimages-bucket.s3.eu-central-1.amazonaws.com/social_01.jpg" width="67" height="46" alt="M" style="display: block; border-width: 0px;" class="social1" /></a></td><td style="line-height: 19px; text-align: center;"><a href="https://www.facebook.com/McDonaldsPolska" title="Facebook" target="_blank" style="color: #ffffff; text-decoration: none"><img src="https://uk-prod01-productimages-bucket.s3.eu-central-1.amazonaws.com/social_02.jpg" width="42" height="46" alt="F" style="display: block; border-width: 0px;" class="social2" /></a></td><td style="line-height: 19px; text-align: center;"><a href="https://instagram.com/mamsmakanamaka/" title="Instagram" target="_blank" style="color: #ffffff; text-decoration: none"><img src="https://uk-prod01-productimages-bucket.s3.eu-central-1.amazonaws.com/social_04.png" width="36" height="46" alt="Y" style="display: block; border-width: 0px;" class="social4" /></a></td><td valign="top" style="font-family: Arial; font-size: 12px; line-height: 15px; color: #ffffff; text-align: right; mso-line-height-rule: exactly; -webkit-text-size-adjust: none;" width="463" height="52" class="socialText"><p style="Margin: 12px 0 0 0"><strong>Znajdź swoją restaurację</strong></p></td><td><a href="https://mcdonalds.pl/restauracje/" title="Znajdź swoją restaurację" target="_blank" style="color: #ffffff; text-decoration: none"><img src="https://uk-prod01-productimages-bucket.s3.eu-central-1.amazonaws.com/social_06.jpg" width="56" height="46" alt="" style="display: block; border-width: 0px;" class="social5" /></a></td></tr><tr><td colspan="6" style="background-color:#ffc836; font-size: 0px; line-height: 4px;" width="500" height="4" class="fullWidth"> </td></tr></table></td></tr></table><table width="600" style="min-width:400px; width: 600px; background-color:#f3f3f3;" border="0" cellpadding="0" cellspacing="0" align="center" class="fullWidth"><tr><td align="center" style="font-size: 0px;"><table width="500" cellpadding="0" cellspacing="0" border="0" class="fullWidth" role="presentation" style="width: 500px; background-color: #f3f3f3;"><tr><td width="30" height="100%" style="font-size: 1px; line-height: 1px;" class="desktop"> </td><td valign="top" width="440" height="100%" style="color: #565555; font-family: Arial; font-size: 11px; mso-line-height-rule: exactly; line-height: 14px; text-align: center; -webkit-text-size-adjust: none; " class="footerText"><span><br />
+														© 2022 <a href="https://www.mcdonalds.pl/" target="_blank" title="McDonald's Polska Sp. z o.o" style="color: #0073e6; text-decoration: underline;">McDonald's Polska Sp. z o.o</a><br /><a href="https://mcdonalds.pl/o-mcdonalds/kontakt/" target="_blank" style="color: #0073e6; text-decoration: underline;" title="Kontakt">Kontakt</a>
+														  •  
+														<a href="https://mcdonalds.pl/ochrona-prywatnosci/" target="_blank" style="color: #0073e6; text-decoration: underline;" title="Polityka prywatności">Polityka prywatności </a><br /><br />
+														ul. Marynarska 15,
+														<br />
+														02‑674 Warszawa,
+														<br />
+														tel. 22 211 58 00,
+														<br />
+														fax 22 211 58 10,
+														<br />
+														(od poniedziałku do piątku w godzinach 09:00–16:00),
+														<br /><br />
+														To wiadomość wysłana automatycznie, nie odpowiadaj na nią.
+														<br /><br /></span></td><td width="30" height="100%" style="font-size: 1px; line-height: 1px;" class="desktop"> </td></tr></table></td></tr></table></td></tr></table></body></html>

@@ -1,0 +1,68 @@
+<style>
+    body{backgroung:#eee; padding:0px; margin:0px;}
+</style>
+<body style="background:#fff;">
+    <div style="font-family:'Open Sans',san-serif; width:600px; margin:20px auto; padding:15px;">
+        <table cellpadding="0" cellspacing="0" style="width:620px; background:#fff; border:1px solid #eee; border-radius:6px; -webkit-border-radius:6px; -moz-border-radius:6px;">
+            <tr width="100%" style="background-image: url('https://www.tutorialspoint.com//market/public/assets/images/welcome-mail-bg-new.jpg'); background-repeat:no-repeat; background-position:center; background-size:cover;">
+                <td colspan="2" style="padding:20px; text-align:center;">
+					<a href="https://www.tutorialspoint.com/market/index.asp" target="_blank" style="margin:0px 0px 15px 0px;"><img src="https://www.tutorialspoint.com//market/public/assets/images/logo-green-white.png?v=0.12" style="height:40px;" alt="tutorialspoint"></a>
+					<p style="color:#fff; font-size:48px; text-align:center; font-style:italic; margin:20px 0; padding-bottom:130px;">Welcome To <span style="color:#40a944;"><b>Our Family</b></span></p>					
+					<p>
+						<a href="https://www.tutorialspoint.com/market/index.asp" target="_blank" style="color:#fff; text-decoration:none; font-size:18px; border:2px solid #40a944; border-radius:4px; padding:2px 8px; cursor:pointer;">Explore Now</a>
+					</p>
+				</td>
+            </tr>
+            <tr>
+                <td colspan="2" style="padding:10px 20px;">
+					<p style="font-size:14px; color:#000; margin:0;">Dear Michał Marczak,</p>
+				</td>
+            </tr>
+            <tr>
+                <td colspan="2" style="padding:10px 20px;">
+					<p style="font-size:14px; color:#000; margin:0;">Thank you for signing up. </p>
+				</td>
+            </tr>
+            <tr>
+                <td colspan="2" style="padding:10px 20px;">
+					<p style="font-size:14px; color:#000; margin:0;">We are glad to have you onboard with us!</p>
+				</td>
+            </tr>
+            <tr>
+                <td colspan="2" style="padding:10px 20px;">
+					<p style="font-size:14px; color:#000; margin:0;">We hope you will excel in the course you have signed up for and also spend time exploring several more!</p>
+				</td>
+            </tr>
+			<tr>
+               <td colspan="2" style="padding:10px 20px;">
+					<p style="font-size:14px; color:#000; margin:0;">We are excited for you to see what we have built for learners like you at Tutorials Point! </p>
+				</td>
+            </tr>
+			<tr>
+                <td colspan="2" style="padding:10px 20px;">
+					<p style="font-size:14px; color:#000; margin:0;">As a thank you, enjoy 8% off on your next purchase.</p>
+				</td>
+            </tr>
+			<tr>
+                <td colspan="2" style="padding:10px 20px;">
+					<p style="font-size:14px; color:#000; margin:0;">To avail of this offer, <b>use coupon code: UPSKILL8 </b></p>
+				</td>
+            </tr>
+			<tr>
+				<td colspan="2" style="padding:10px 20px;">
+					<p style="font-size:14px; color:#000; margin:0;">For further assistance, reach out to us at <a href="mailto:partners@tutorialspoint.com">partners@tutorialspoint.com</a> </p>
+				</td>
+            </tr>
+			
+            <tr>
+                <td colspan="2" style="padding:10px 20px;">
+					<p style="font-size:14px; color:#000; margin:0;">Best Wishes, <br>
+					Team Tutorials Point</p>
+				</td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background:#e4e4e4; text-align:center; padding:10px 10px;">
+                    <p style="color:#333;">© Copyright 2024. All Rights Reserved.</p>
+                </td>
+            </tr>
+        </table>

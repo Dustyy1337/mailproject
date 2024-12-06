@@ -1,0 +1,346 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .ExternalClass * {
+            line-height: 100% !important
+        }
+
+        html {
+            display: table;
+            margin: auto;
+        }
+
+        body {
+            vertical-align: center;
+            margin: auto;
+            display: table-cell;
+            background: #ffffff;
+        }
+
+        .light-grey-bg {
+            background: #eaeaea;
+        }
+
+        .medium-grey-bg {
+            background: #313131;
+        }
+
+        .dark-grey-bg {
+            background: #1f1f1f;
+        }
+
+        .outer-table {
+            padding: 0;
+            border-spacing: 0;
+            width: 600px;
+            min-width: 680px;
+            alignment: center;
+        }
+
+        td {
+            padding: 0;
+        }
+
+        .left-aligned {
+            alignment: left;
+        }
+
+        .inner-table {
+            width: 680px;
+            padding: 0;
+            border-spacing: 0;
+            margin: auto;
+        }
+
+        .borderless {
+            border: 0;
+        }
+
+        .spacer {
+            width: 600px;
+            height: 30px;
+            alignment: left;
+            vertical-align: top
+        }
+
+
+    </style>
+    <meta charset="utf-8" />
+    <title>Activate your Pokémon Trainer Club account</title>
+</head>
+<body>
+
+
+<table class="outer-table borderless">
+
+    <tbody>
+    <tr>
+        <td class="left-aligned header-image-background">
+            <table class="inner-table borderless">
+                <tbody>
+                <tr>
+                    <td style="font-size: 86px; line-height: 86px;">
+                        <a href="http://pokemon.com"><img
+                                src="https://static.prod.pokemon.com/images/pokemon_logo.png"
+                                style="display: block; margin: 0; padding: 0; height:86px;"
+                                height="86"
+                                alt="Pokémon"></a>
+                    </td>
+                    <td style="float: right; width: auto; font-size: 86px; line-height: 86px;">
+                        <img src="https://static.prod.pokemon.com/images/email_pikachu_top.png"
+                             style="float: right; margin: 0; padding: 0; height:86px;"
+                             alt="">
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+
+        </td>
+    </tr>
+
+    <tr class="light-grey-bg">
+        <td style="font-size: 3px; line-height: 4px;">
+            <table class="inner-table borderless">
+                <tbody>
+                <tr>
+                    <td style="float: right; font-size: 3px; line-height: 4px;">
+                        <img src="https://static.prod.pokemon.com/images/email_pikachu_sliver.png"
+                             style="float: right; margin: 0; padding: 0; height:4px !important; line-height: 4px !important; font-size: 4px !important;"
+                             height="4" alt="">
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+
+    <tr class="medium-grey-bg">
+        <td class="left-aligned">
+            <table class="inner-table borderless">
+                <tbody>
+                <tr>
+                    <td style="width: 448px; font-size:23px !important; line-height:1.0; font-weight:400; padding-left: 23px;">
+                        <span style="color: #FFFFFF; font-family: Arial,Helvetica,sans-serif; ">
+                            Activate your Pokémon Trainer Club account
+                        </span>
+                    </td>
+                    <td style="float: right;">
+                        <img src="https://static.prod.pokemon.com/images/email_pikachu_bottom.png"
+                             style="float: right; margin: 0; padding: 0; height:60px; line-height: 60px; font-size: 60px; border: 0"
+                             height="60" alt="">
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+
+    <tr style="line-height: 9px!important; font-size: 9px">
+        <td class="left-aligned">
+            <table class="inner-table">
+                <tbody>
+                <tr>
+                    <td style="width: 600px;">
+                        <table class="inner-table borderless">
+                            <tbody>
+                            <tr style="background: #ffffff">
+                                <td style="height: 9px; line-height: 9px; font-size: 9px;">
+                                    <img src="https://static.prod.pokemon.com/images/email_grey_header_bottom_left.png"
+                                         style="margin: 0; padding: 0; height:9px; line-height: 9px; font-size: 9px;"
+                                         alt="">
+                                </td>
+                                <td style="height: 9px; float: right; line-height: 9px; font-size: 9px;">
+                                    <img src="https://static.prod.pokemon.com/images/email_grey_header_bottom_right.png"
+                                         style="float: right; margin: 0; padding: 0; height:9px; line-height: 9px; font-size: 9px;"
+                                         alt="">
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+
+    <tr>
+        <td style="height: 35px"></td>
+    </tr>
+
+    <tr>
+        <td class="left-aligned">
+            <table class="inner-table borderless">
+                <tbody>
+                <tr>
+                    <td style="width: 11px"><img
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                            width="1"
+                            height="1" alt="" class="borderless"></td>
+                    <td style="width: 250px">
+                        <span style="font-size:16px; line-height:28px; color: #4f4f4f; font-family: Arial,Helvetica,sans-serif; ">
+
+
+                            <p>Welcome to the Pokémon Trainer Club! To complete the verification process, please enter the Activation Code below. 
+
+<br><br><center><h2>363504</h2></center>
+
+<br><br>Once your account is activated, you will be able to access games and apps that require Pokémon Trainer Club access, including Pokémon GO, Pokémon UNITE, and Pokémon Trading Card Game Live. 
+
+<br><br>If you are a parent or guardian, you may also create an account for your child after completing verification and logging in to <a href="https://pokemon.com/us/">Pokemon.com</a>. 
+
+<br><br>In case you need any help getting your account activated, please visit <a href="https://support.pokemon.com/hc/en-us">support.pokemon.com/hc/en-us</a>.</p>
+
+
+                        </span>
+                    </td>
+                    <td style="width: 30px"><img
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                            width="1"
+                            height="1" alt="" class="borderless"></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="spacer">
+            <img style="display:block; border: 0"
+                 src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="1"
+                 height="1" alt="">
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <table class="inner-table borderless">
+                <tbody>
+                <tr>
+                    <td style="width: 11px"><img
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                            width="1"
+                            height="1" alt="" class="borderless"></td>
+                    <td style="width: 250px">
+                        <span style="font-size:16px; line-height:28px; color: #4f4f4f; font-family: Arial,Helvetica,sans-serif; ">
+                            Sincerely,<br />
+                            <strong>The Pokémon Company International</strong>
+                        </span>
+                    </td>
+                    <td style="width: 30px"><img
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                            width="1"
+                            height="1" alt="" class="borderless"></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="spacer">
+            <img style="display:block"
+                 src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" width="1"
+                 height="1" alt="" class="borderless">
+        </td>
+    </tr>
+
+    <tr>
+        <td style="text-align: center">
+            <table class="inner-table borderless">
+                <tbody>
+                <tr>
+                    <td style="width: 11px"><img
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                            width="1"
+                            height="1" alt="" border="0"></td>
+                    <td style="width: 250px"></td>
+                    <td style="width: 30px"><img
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+                            width="1"
+                            height="1" alt="" border="0"></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+
+    <tr>
+        <td style="text-align: center; padding-top: 20px">
+            <img src="https://static.prod.pokemon.com/images/starter_mascots.png"
+                 alt=""
+                 class="borderless">
+        </td>
+    </tr>
+
+    <tr>
+        <td style="text-align: center" class="medium-grey-bg">
+            <table class="inner-table borderless">
+                <tbody>
+                <tr>
+                    <td style="text-align: center">
+                        <img src="https://static.prod.pokemon.com/images/email_grey_footer_top.png"
+                             alt=""
+                             class="borderless">
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="dark-grey-bg" style="height: 80px">
+            <table class="inner-table" style="width: 550px">
+                <tbody>
+                <tr>
+                    <td class="left-aligned dark-grey-bg">
+                        <span style="color: #fff; font-size:18px; font-weight: bold;">The Pokémon Company</span>
+                    </td>
+
+                    <td class="left-aligned dark-grey-bg">
+                        <a href="https://corporate.pokemon.com/en-us/"
+                           face="Arial,Helvetica,sans-serif"
+                           style="color: #5f5f5f; float: left; font-size:13px; font-weight: bold; line-height:20px; margin-top: 6px; text-transform: uppercase; text-decoration: none;"
+                        >About TPCi</a>
+                    </td>
+
+                    <td class="left-aligned dark-grey-bg">
+                        <a href="https://www.pokemon.com/us/terms-of-use/"
+                           face="Arial,Helvetica,sans-serif"
+                           style="color: #5f5f5f; float: left; font-size:13px; font-weight: bold; line-height:20px; margin-top: 6px; text-transform: uppercase; text-decoration: none;"
+                        >Terms of Use</a>
+                    </td>
+                    <td class="left-aligned dark-grey-bg">
+                        <a href="https://www.pokemon.com/us/cookie-page/" id="cookieLink"
+                           face="Arial,Helvetica,sans-serif"
+                           style="color: #5f5f5f; float: left; font-size:13px; font-weight: bold; line-height:20px; margin-top: 6px; text-transform: uppercase; text-decoration: none;"
+                        >Cookie Page</a>
+                    </td>
+                    <td class="left-aligned dark-grey-bg">
+                        <a href="https://www.pokemon.com/us/privacy-notice/"
+                           face="Arial,Helvetica,sans-serif"
+                           style="color: #5f5f5f; float: left; font-size:13px; font-weight: bold; line-height:20px; margin-top: 6px; text-transform: uppercase; text-decoration: none;"
+                        >Privacy Notice</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4" style="color: #fff">
+
+                        10400 NE 4th Street, Suite 2800, Bellevue, WA 98004
+
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+
+    </tbody>
+</table>
+
+</body>
+</html>

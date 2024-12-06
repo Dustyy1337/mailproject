@@ -7,8 +7,8 @@ import java.util.List;
 public class MessageVectorStore {
     private List<MessageVector> messageVectors = new ArrayList<>();
 
-    public void addMessageVector(Message message, float[] vector) {
-        messageVectors.add(new MessageVector(message, vector));
+    public void addMessageVector(Message message, double similarity) {
+        messageVectors.add(new MessageVector(message, similarity));
     }
 
     public List<MessageVector> getMessageVectors() {

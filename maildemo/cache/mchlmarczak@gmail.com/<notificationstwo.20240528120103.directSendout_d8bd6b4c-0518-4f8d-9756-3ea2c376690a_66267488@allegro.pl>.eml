@@ -1,0 +1,574 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html lang="pl" xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type"  content="text/html charset=UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" type="text/css">
+      <title>Allegro</title>
+      <style type="text/css">
+       a {
+          text-decoration:none;
+      }
+       .ReadMsgBody{
+           width: 100%;
+           background-color: #ffffff;
+      }
+       .ExternalClass {
+           width: 100%;
+           background-color: #ffffff;
+           line-height:100% !important;
+      }
+       body {
+           width: 100%;
+           background-color: #ffffff;
+           margin: 0;
+           padding: 0;
+           -webkit-font-smoothing: antialiased;
+      }
+       * {
+          font-family: 'Open Sans', Roboto, sans-serif;
+         line-height: 21px;
+      }
+       table {
+           border-collapse: collapse;
+      }
+       @media only screen and (max-width: 640px) {
+
+           .deviceWidth {
+               width: 440px!important;
+               padding: 0;
+               border-right: none !important;
+          }
+           body[yahoo] .quote {
+               font-size: 22px !important;
+          }
+           body[yahoo] .center {
+               text-align: center!important;
+          }
+      } 
+      </style>
+      <style type="text/css">
+       @media only screen and (max-width: 479px) {
+           table.deviceWidth {
+               min-width:100%
+          }
+           .deviceWidth {
+               width: 100%!important;
+               padding: 0;
+               border-right: none !important;
+          }
+           img.deviceWidth{
+               display: block;
+               max-width: 100% !important;
+               width: 100% !important;
+               height: auto !important;
+          }
+           .deviceWidthImg {
+               height: auto !important;
+               width: auto !important;
+               max-height: 200px;
+               max-width: 200px;
+          }
+           body[yahoo] .quote {
+               font-size: 20px !important;
+          }
+           body[yahoo] .center {
+               text-align: center!important;
+          }
+      }
+     </style>
+     <style type="text/css">
+     @media screen and (max-width: 639px)
+{
+  .mobileShowTd { display:table-cell !important; }
+  .mobileHide { display: none !important; }
+  .fold { display: block !important;  }
+  .fold200 { display: block !important; width: 100% !important;  }
+  .unFold { display: inline !important; }
+  .ph16 { padding-left: 16px !important; padding-right: 16px !important; }
+  .phr16 { padding-right: 16px !important; }
+  .phl16 { padding-left: 16px !important; }
+}
+     </style>
+      <!--[if (gte mso 9)|(IE)]>
+      <style type="text/css">img {display:block; border:0}.fallback-text {font-family: Arial, sans-serif;} .offerImg{width:166px;}</style>
+      <![endif]-->  
+        </head>
+   <body bgcolor="#eceff1" style="background-color: #eceff1">
+     <table cellpadding="0" cellspacing="0" border="0" width="100%">
+       <tr>
+         <td align="center" style="font-size:1px;color:#eceff1;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden;display: none; mso-hide:all;">
+                    </td>
+       </tr>
+     </table>
+	 <img src="https://t.allegro.pl/tr/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488.gif" width="0" height="0" alt="" style="display: block;">      <!---->
+     <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#eceff1">
+         <tr>
+            <td width="100%" align="center">
+               <!---->
+               <table cellpadding="0" cellspacing="0" border="0" width="600" class="deviceWidth">
+                  				                                              <!---->
+                  <tr>
+                     <td align="center" style="padding:8px 0 0;">
+                        <!---->
+                        <table cellpadding="0" cellspacing="0" border="0" width="600" bgcolor="#ffffff" class="deviceWidth">
+							<tr>
+								<td class="deviceWidth" style="padding:16px;" align="left">
+																																																								<a href='https://t.allegro.pl/?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;utm_content=logo&amp;utm_campaign=5a500b88-b819-4765-8a9b-a49128aa9897&amp;tr_n=DF10366buyersTC_generic&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_c=logo&amp;tr_s=8c2NXZOr' target="_blank">
+																			<img border="0" src="https://common.allegrostatic.com/notification-resources/allegro-logo.png" width="80" alt="Allegro" /></a>
+								</td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 23px; font-family: Roboto, sans-serif; color: #222222; text-align: left; padding:0 16px;line-height: 21px;" valign="top" class="mobileFontHeader">
+                                 Dzień dobry Krzysztof Marczak,
+                              </td>
+                           </tr>
+                           <tr>
+                              <td style="font-size: 14px; font-family: 'Open Sans', sans-serif; font-weight: normal; color: #222222; text-align: left;  padding:16px;line-height: 21px;" valign="top" class="mobileFontHeader">
+                                 wysłaliśmy do Ciebie tę wiadomość, aby zgodnie z prawem i naszym regulaminem poinformować Cię o zmianach, które planujemy na czerwiec i lipiec.                               </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                                   <!---->
+                                                 <!---->
+                 <tr>
+                   <td align="center" style="padding: 8px 0 0 0;">
+                     <!---->
+                     <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#ffffff">
+                       <tr>
+                         <td style="padding: 16px; font-size: 16px;line-height: 21px;">
+                           <!---->
+                           
+<center><a href="https://t.allegro.pl/pomoc/aktualnosci/zmiany-i-nowosci-dla-kupujacych-w-czerwcu-i-lipcu-ZMLnX2dPKI7?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;tr_n=Zmiany%20dla%20kupuj%C4%85cych%20w%20czerwcu%20i%20lipcu%202024&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_s=87DrvPXZ"><img src='https://a.allegroimg.com/original/127950/c979115a4d9aa1c0798764b53cf3' width="100%" alt=""/></a></center>
+
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback"></p>
+<h2 style="font: bold 16px/1.3 Roboto, sans-serif;margin:0 0 8px;color:#222222;" class="fallback">Sprawdź ważne informacje dotyczące Allegro Pay</h2>
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback">Od 1 czerwca 2024 zaczną obowiązywać niektóre przepisy <a href="https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=ustawa&amp;url=https://dziennikustaw.gov.pl/D2023000139401.pdf?utm_source%3Dcoma_email%26utm_medium%3Dd8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;s=BW22BCcr" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">ustawy</a>, które zobowiązują nas do weryfikacji, czy kupujący, którzy aktywują Allegro Pay od 1 czerwca 2024, mają zastrzeżony PESEL. </p>
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback">Ustawa nie dotyczy osób, które aktywowały lub aktywują Allegro Pay przed 1 czerwca 2024.</p>
+<h2 style="font: bold 16px/1.3 Roboto, sans-serif;margin:0 0 8px;color:#222222;" class="fallback">Co to dla Ciebie oznacza</h2>
+<ul style="margin:16px 0 16px 32px;padding:0;font:14px/21px 'Open Sans', sans-serif;color:#222222;" class="fallback"><li style="margin:0 0 12px;padding:0">Jeśli masz aktywne Allegro Pay lub aktywujesz je do 31 maja 2024 włącznie – ustawa Cię nie dotyczy i nic dla Ciebie się nie zmieni. <b>Nie będziemy weryfikować, czy Twój PESEL jest zastrzeżony w chwili, gdy będziemy zawierali z Tobą umowę o kredyt konsumencki</b> – czyli w chwili, gdy płacisz za zakupy z Allegro Pay, gdy zawrzesz umowę konsolidującą kilka innych umów lub gdy zmienisz warunki spłaty.</li><li style="margin:0 0 12px;padding:0">Jeśli aktywujesz Allegro Pay po 31 maja 2024 – zgodnie z przepisami sprawdzimy, czy Twój PESEL jest zastrzeżony. Zrobimy to w trakcie aktywacji usługi oraz później – na przykład podczas niektórych zakupów z Allegro Pay. Nie będziemy mogli z Tobą zawrzeć umowy Allegro Pay, jeśli Twój PESEL jest zastrzeżony.</li></ul>
+<h2 style="font: bold 16px/1.3 Roboto, sans-serif;margin:0 0 8px;color:#222222;" class="fallback">Co jeszcze zmienimy w Allegro Pay</h2>
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback">17 czerwca zaktualizujemy regulamin i politykę ochrony prywatności usługi – <a href="https://t.allegro.pl/pomoc/aktualnosci/zmiany-i-nowosci-dla-kupujacych-w-czerwcu-i-lipcu-ZMLnX2dPKI7?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;tr_n=AP-news&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_f=allegro-pay-zaktualizujemy-regulamin-i-polityke-ochrony-prywatnosci&amp;tr_s=fa0DBJKK" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">dowiedz się więcej</a>.</p>
+<h2 style="font: bold 16px/1.3 Roboto, sans-serif;margin:0 0 8px;color:#222222;" class="fallback">Sprawdź także pozostałe zmiany, które wprowadzimy w naszych regulaminach</h2>
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback">Prezentujemy je poniżej w porządku chronologicznym.</p>
+ <table cellpadding="0" cellspacing="0" border="0" width="568" class="deviceWidth" style="border: 1px solid #aaaaaa;border: 1px solid #aaaaaa !important;">
+    <tr>
+      <td bgcolor="#ff9c66" style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-right: 1px solid #aaaaaa; font-weight:bold; text-align:center;">
+        Dla kogo 
+      </td>
+      <td bgcolor="#ff9c66" style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px; font-weight:bold; text-align:center;">
+        Zmiana
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" bgcolor="#aaaaaa" style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px; font-weight:bold; text-align:center;">
+        Od kiedy: 17 czerwca 2024
+      </td>
+    </tr>
+    <tr>
+      <td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-bottom: 1px solid #aaaaaa;border-right: 1px solid #aaaaaa;">
+        Dla wszystkich
+
+      </td>
+      <td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-bottom: 1px solid #aaaaaa;">
+        Zaktualizujemy zapisy dotyczące opinii o produktach. <a href="https://t.allegro.pl/pomoc/aktualnosci/zmiany-i-nowosci-dla-kupujacych-w-czerwcu-i-lipcu-ZMLnX2dPKI7?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;tr_n=bullet1&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_f=zaktualizujemy-zapisy-dotyczace-opinii-o-produktach&amp;tr_s=9TWWOTwu" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">SPRAWDŹ</a>      </td>
+    </tr>
+    <tr>
+      <td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-right: 1px solid #aaaaaa;border-bottom: 1px solid #aaaaaa;">
+Jeśli bierzesz udział w licytacjach 
+      </td>
+<td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-bottom: 1px solid #aaaaaa;">
+     Skrócimy czas na opłacenie wygranej licytacji. <a href="https://t.allegro.pl/pomoc/aktualnosci/zmiany-i-nowosci-dla-kupujacych-w-czerwcu-i-lipcu-ZMLnX2dPKI7?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;tr_n=bullet2&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_f=skrocimy-czas-na-oplacenie-wygranej-licytacji&amp;tr_s=KsRWuTLL" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">SPRAWDŹ</a>      </td>
+    </tr>
+<tr>
+      <td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-right: 1px solid #aaaaaa;border-bottom: 1px solid #aaaaaa;">
+        Jeśli kupujesz na Allegro Lokalnie
+      </td>
+<td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-bottom: 1px solid #aaaaaa;">
+    Usuniemy kategorię Bilety z Allegro Lokalnie.  <a href="https://t.allegro.pl/pomoc/aktualnosci/zmiany-i-nowosci-dla-kupujacych-w-czerwcu-i-lipcu-ZMLnX2dPKI7?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;tr_n=bullet3&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_f=usuniemy-kategorie-bilety-z-allegro-lokalnie&amp;tr_s=QA6E8Zoi" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">SPRAWDŹ</a>      </td>
+    </tr>
+<tr>
+      <td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-right: 1px solid #aaaaaa;border-bottom: 1px solid #aaaaaa;">
+        Dla wszystkich 
+      </td>
+<td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-bottom: 1px solid #aaaaaa;">
+    Usuniemy zapis o akceptacji zmian regulaminu.  <a href="https://t.allegro.pl/pomoc/aktualnosci/zmiany-i-nowosci-dla-kupujacych-w-czerwcu-i-lipcu-ZMLnX2dPKI7?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;tr_n=bullet4&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_f=usuniemy-zapis-o-akceptacji-zmian-regulaminu&amp;tr_s=ABcol4SC" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">SPRAWDŹ</a>      </td>
+    </tr>
+    <tr>
+      <td colspan="2" bgcolor="#aaaaaa" style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px; font-weight:bold; text-align:center;">
+        Od kiedy: 31 lipca 2024
+      </td>
+    </tr>
+<tr>
+      <td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-right: 1px solid #aaaaaa;border-bottom: 1px solid #aaaaaa;">
+        Dla wszystkich 
+      </td>
+<td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-bottom: 1px solid #aaaaaa;">
+    Zmienimy Politykę ochrony prywatności Allegro Finance. <a href="https://t.allegro.pl/pomoc/aktualnosci/zmiany-i-nowosci-dla-kupujacych-w-czerwcu-i-lipcu-ZMLnX2dPKI7?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;tr_n=bullet5&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_f=zmienimy-polityke-ochrony-prywatnosci-allegro-finance&amp;tr_s=q6UTtTVX" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">SPRAWDŹ</a>      </td>
+    </tr>
+<tr>
+      <td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-right: 1px solid #aaaaaa;border-bottom: 1px solid #aaaaaa;">
+        Dla wszystkich 
+      </td>
+<td style="font-size: 14px; line-height: 21px; font-family: Roboto,sans-serif; color: #222222; padding: 8px;border-bottom: 1px solid #aaaaaa;">
+    Kartą zapłacisz także przez Przelewy24. <a href="https://t.allegro.pl/pomoc/aktualnosci/zmiany-i-nowosci-dla-kupujacych-w-czerwcu-i-lipcu-ZMLnX2dPKI7?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;tr_n=bullet6&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_f=karta-zaplacisz-takze-przez-przelewy24&amp;tr_s=0h4v%2BYyI" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">SPRAWDŹ</a>      </td>
+    </tr>
+  </table>
+
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback"></p><h2 style="font: bold 16px/1.3 Roboto, sans-serif;margin:0 0 8px;color:#222222;" class="fallback">Zobacz zmiany w regulaminach</h2>
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback">Udostępniamy je w plikach PDF. Dodane fragmenty zaznaczyliśmy na niebiesko, a usunięte – przekreśliliśmy:</p>
+<table>
+    <tr>
+        <td>
+<img src="https://a.allegroimg.com/s160/121b69/60aad1aa42d097fd7c6c45cd8246" width="80" alt="" />
+        </td>
+        <td>
+<ul style="margin:0 0 0 32px;padding:0;font:14px/21px 'Open Sans', sans-serif;color:#222222;" class="fallback"><li style="margin:0 0 12px;padding:0"><a href="https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=PDF1&amp;url=https://client-allegro.earchiwum.pl/doc/ef46c31f5897f71ec098a4afc7db9233d7b6d5d0bf265822d3cc2e549e41812d?utm_source%3Dcoma_email%26utm_medium%3Dd8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;s=aivcJGZF" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">17 czerwca 2024 – zmiany w Regulaminie Allegro Pay</a></li></ul>
+<ul style="margin:0 0 0 32px;padding:0;font:14px/21px 'Open Sans', sans-serif;color:#222222;" class="fallback"><li style="margin:0 0 12px;padding:0"><a href="https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=PDF2&amp;url=https://client-allegro.earchiwum.pl/doc/894f2f110dd27e72314911ce5b4bbc7044a108c6ee72290be928935640aaf554?utm_source%3Dcoma_email%26utm_medium%3Dd8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;s=a0HWFIJs" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">17 czerwca 2024 – zmiany w Polityce ochrony prywatności Allegro Pay</a></li></ul>
+<ul style="margin:0 0 0 32px;padding:0;font:14px/21px 'Open Sans', sans-serif;color:#222222;" class="fallback"><li style="margin:0 0 12px;padding:0"><a href="https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=PDF3&amp;url=https://client-allegro.earchiwum.pl/doc/cbd621c958db2f200e15da8777d34bd281212981095eef8cbbff0f5fd62c9f2e?utm_source%3Dcoma_email%26utm_medium%3Dd8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;s=a769dDBm" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">17 czerwca 2024 – zmiany w Regulaminie Allegro</a></li></ul>
+<ul style="margin:0 0 0 32px;padding:0;font:14px/21px 'Open Sans', sans-serif;color:#222222;" class="fallback"><li style="margin:0 0 12px;padding:0"><a href="https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=PDF4&amp;url=https://client-allegro.earchiwum.pl/doc/a3969d192c602779550a6ffa79fb479c6472a6879c0c3fa4040657953897f7e3?utm_source%3Dcoma_email%26utm_medium%3Dd8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;s=EvQnJPjK" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">31 lipca 2024 – zmiany w Regulaminie Allegro</a></li></ul>
+<ul style="margin:0 0 0 32px;padding:0;font:14px/21px 'Open Sans', sans-serif;color:#222222;" class="fallback"><li style="margin:0 0 12px;padding:0"><a href="https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=PDF5&amp;url=https://client-allegro.earchiwum.pl/doc/6d177f1396847042ec32ca7cbf5e7f3dda47cb08d58796c03380886fdbcd9328?utm_source%3Dcoma_email%26utm_medium%3Dd8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;s=gB3e96az" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">31 lipca 2024 – zmiany w Polityce ochrony prywatności Allegro Finance</a>.</li></ul>        </td>
+    </tr>
+</table>
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback"></p>
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback">Powyższe pliki umieściliśmy na trwałym nośniku. Dzięki temu masz gwarancję, że pozostaną w niezmienionej postaci przez 10 lat. Pliki możesz sprawdzić na <a href="https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=KIR&amp;url=https://portal.kir.pl/tnverif/?utm_source%3Dcoma_email%26utm_medium%3Dd8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;s=dszLyO50" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">stronie dostawcy tej usługi</a>.</p>
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback">Jeśli masz pytania, <a href="https://t.allegro.pl/pomoc/kontakt?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;tr_n=contact-us&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_s=XaAf5%2BDd" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">skontaktuj się z&nbsp;nami</a>.</p>
+<p style="font:14px/21px 'Open Sans', sans-serif;color:#222222;margin:0 0 16px;" class="fallback">Pozdrawiamy <br >Zespół Allegro</p> 
+                         </td>
+                       </tr>
+					                                               </table>
+                     <!---->
+                   </td>
+                 </tr>
+                 <!---->
+                                											<tr>
+  <td align="center" style="padding: 0">
+  
+        <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#ffffff">
+      <tr>
+        <td style="padding: 0 8px 16px 16px; box-sizing:border-box;" width="40" align="center">
+                    
+            <img width="16" src="https://a.allegroimg.com/s80/129cce/1ff48f7749a6a9042523f0037969" alt="" border="0" style="display: block; margin: 0 auto;" />
+          
+        </td>
+        <td style="padding: 0 16px 16px 8px; color: #767676; font-family: Open Sans, sans-serif; font-size:12px;line-height: 16px; text-align: left;">
+          Wiadomość wysłana przez Allegro do <b>Krzysztof Marczak (Client:66267488)</b>.
+        </td>
+      </tr>
+    </table>
+      
+  </td>
+</tr>
+ 
+									                <!---->
+                           
+
+<tr>
+  <td align="center" style="padding:8px 0 0;">
+    <table bgcolor="#ffffff" style="margin: 0px auto;" cellspacing="0" cellpadding="0" width="600" align="center" border="0" class="deviceWidth">
+	        <tr>
+         <td bgcolor="#ffffff" style="font-family: Roboto, sans-serif; font-size: 19px;line-height: 21px; padding: 16px; text-align: left;" align="center" class="ph16">
+           <h2 style="font: bold 16px/1.3 Roboto, sans-serif;margin:0 0 8px;color:#222222;" class="fallback">Jak oceniasz te zmiany/nowości?
+</h2>         </td>
+      </tr>
+	              <tr>
+       <td>
+         <table cellpadding="0" cellspacing="0" border="0" width="100%">
+           <tr>
+             <td style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: left; padding: 0 8px 0 40px;" class="phl16">
+              0 - Porażka             </td>
+             <td style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: right; padding: 0 40px 0 8px;" class="phr16">
+              10 - Rewelacja             </td>
+           </tr>
+         </table>
+       </td>
+      </tr>
+            <tr>
+       <td style=" padding: 0 12px 8px;">
+         <table cellpadding="0" cellspacing="0" border="0" width="100%">
+           <tr>
+                          <td width="100%" style="font-size: 0;" align="center">
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40" class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=0" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                      <span>0</span>
+                                             </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40"class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=1" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                       <span>1</span>
+                                           </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40"class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=2" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                       <span>2</span>
+                                            </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40"class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=3" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                     <span>3</span>
+                                            </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40"class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=4" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                     <span>4</span>
+                                            </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40"class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=5" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                    <span>5</span>
+                                            </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40"class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=6" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                     <span>6</span>
+                                            </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40"class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=7" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                    <span>7</span>
+                                             </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40"class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=8" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                     <span>8</span>
+                                            </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40"class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=9" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                    <span>9</span>
+                                             </a>
+                   </td>
+                                    </tr>
+               </table>
+             <!--[if (gte mso 9)|(IE)]>
+             </td>
+             <td style="padding: 8px 4px 0;">
+             <![endif]-->
+               <table cellpadding="0" cellspacing="0" border="0" width="40" height="40" class="200" style="box-sizing: border-box; border: 1px solid #aaaaaa;text-align: center; border-radius: 2px; display: inline-block; margin: 8px 4px 0;">
+                 <tr>
+                   <td width="38" height="38" style="font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222; text-align: center;" valign="middle">
+                     <a href="https://allegro.pl/ankiety/informacja-zwrotna/1cc4a30e-e2cd-44d7-ac1f-6fc13add3467?id=zmiany-kupujacy-17-czerwca-10366&amp;type=mail&amp;lang=pl-PL&amp;_score=10" class="no-tracking-link no-utm-link" style="text-decoration: none;font-family: 'Open Sans',sans-serif; font-size: 14px; line-height: 21px; color: #222222;" width="38" height="38">
+                       <span>10</span>
+                                            </a>
+                   </td>
+                                   </tr>
+               </table>
+             </td>
+                        </tr>
+         </table>
+       </td>
+      </tr>
+    </table>  		   
+  </td>
+</tr>
+				 <!---->
+				                  <!---->
+                                  <!---->
+                                  <!---->
+                                  <!---->
+                                  <tr>
+                   <td align="center" style="padding: 8px 0 0 0;">
+                     <!---->
+                     <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#3A4E58">
+                       <tr>
+                         <td style="padding: 16px;">
+                           <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+                             <tr>
+                               <td style="color: #ffffff; font-family: Open Sans, sans-serif; font-size:14px; text-align: left;line-height: 21px;">
+                                																																																																			
+									
+																			Masz pytania? <a href="https://t.allegro.pl/pomoc/kontakt?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;utm_content=help-center&amp;utm_campaign=5a500b88-b819-4765-8a9b-a49128aa9897&amp;tr_n=DF10366buyersTC_generic&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_c=help-center&amp;tr_s=3Ne%2BbAoF" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">Skorzystaj z&nbsp;Pomocy&nbsp;Allegro</a> 
+																	
+                               </td>
+                             </tr>
+                           </table>
+                         </td>
+                       </tr>
+                     </table>
+                     <!---->
+                   </td>
+                 </tr>
+                 <!---->
+                                                   <!---->
+                 <tr>
+                   <td align="center" style="padding: 8px 0 0 0;">
+                     <!---->
+                     <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#edeef2">
+                      <!---->
+                                             <tr>
+                         <td style="padding: 7px 16px 16px 7px;">
+                           <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+                            																																																										<tr>
+  <td align="left">
+    <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td style="padding: 0 0 0 8px;color: #767676; font-family: Open Sans, sans-serif; font-size:14px;line-height: 21px; text-align: left;" class="fallback-text">
+          Pobierz aplikację Allegro, kupuj gdziekolwiek jesteś        </td>
+      </tr>
+      <tr>
+        <td>
+          <table cellpadding="0" cellspacing="0" border="0">
+            <tr>
+              <td style="padding: 8px;">
+				<a href="https://t.allegro.pl/app?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;utm_content=appStore&amp;utm_campaign=5a500b88-b819-4765-8a9b-a49128aa9897&amp;tr_n=app-store&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_c=app&amp;tr_s=tB1xpXIA" style="display:inline-block; margin: 8px 16px 16px 0;height:40px"><img src="https://common.allegrostatic.com/notification-resources/app-store-pl_PL.png" alt="App Store" border="0" width="135" height="40" style="max-width:135px;max-height:40px;" /></a>
+				<a href="https://t.allegro.pl/app?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;utm_content=google-play&amp;utm_campaign=5a500b88-b819-4765-8a9b-a49128aa9897&amp;tr_n=google-play&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_c=app&amp;tr_s=vcW4Mq0Z" style="display:inline-block;margin: 8px 16px 16px 0;height:40px"><img src="https://common.allegrostatic.com/notification-resources/google-play-pl_PL.png" alt="Google Play" border="0" width="135" height="40" style="max-width:135px;max-height:40px;" /></a>
+				<a href="https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=huawei-gallery&amp;url=https://appgallery.huawei.com/%23/app/C100506481&amp;cat=app&amp;s=g9pRY5RD" style="display:inline-block;margin: 8px 0 16px 0;height:40px"><img src="https://a.allegroimg.com/original/123b11/2e9e2efb4aeab0961f79c4e296c6" alt="Huawei" border="0" width="133" height="40" style="max-width:133px;max-height:40px;" /></a>              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+																											                            														                             <tr>
+                               <td style="color: #767676; font-family: Open Sans, sans-serif; font-size:14px; text-align: left; padding: 0 0 8px 8px;line-height: 21px;">
+                                Polub nas na social media i bądź na bieżąco z najlepszymi ofertami                               </td>
+                             </tr>
+                             <tr>
+                               <td align="left" style="color: #767676; font-family: Open Sans, sans-serif; font-size:14px; text-align: left;">
+                                 <table cellpadding="0" cellspacing="0" border="0" align="left">
+                                   <tr>
+                                     <td align="center" style="padding: 8px;">
+                                       <a href='https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=DF10366buyersTC_generic&amp;url=https://pl-pl.facebook.com/allegro&amp;cat=facebook&amp;s=CTuk3pHc' class="no-utm-link" target="_blank">
+                                         <img width="25" src="https://a.allegroimg.com/s80/12a87a/162e614647208d6475eb688659d2" alt="facebook" border="0" style="display: block;" />
+                                       </a>
+                                     </td>
+                                     <td align="center" style="padding: 8px;">
+                                       <a href='https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=DF10366buyersTC_generic&amp;url=https://www.linkedin.com/company/allegro-pl&amp;cat=linkedin&amp;s=tg4Io1Ed' class="no-utm-link" target="_blank">
+                                         <img width="25" src="https://a.allegroimg.com/s80/121e31/5789b0304a858493c1a8c612babf" alt="LinkedIn" border="0" style="display: block;" />
+                                       </a>
+                                     </td>
+                                     <td align="center" style="padding: 8px;">
+                                       <a href='https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=DF10366buyersTC_generic&amp;url=https://www.instagram.com/allegropl/?hl%3Den&amp;cat=instagram&amp;s=ldLLeuh5' class="no-utm-link" target="_blank">
+                                         <img width="25" src="https://a.allegroimg.com/s80/12134d/d7a3a1e6488baa393d42d2ca0120" alt="instargram" border="0" style="display: block;" />
+                                       </a>
+                                     </td>
+                                     <td align="center" style="padding: 8px;">
+                                       <a href='https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=DF10366buyersTC_generic&amp;url=https://www.pinterest.com/allegropl/&amp;cat=pinterest&amp;s=GKNAI0c2' class="no-utm-link" target="_blank">
+                                         <img width="25" src="https://a.allegroimg.com/s80/12c962/5bb9557a4d5cb51924dad5e5bbf6" alt="Pinterest" border="0" style="display: block;" />
+                                       </a>
+                                     </td>
+                                     <td align="center" style="padding: 8px;">
+                                       <a href='https://t.allegro.pl/rd/directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488?name=DF10366buyersTC_generic&amp;url=https://www.youtube.com/channel/UCKI3iYa4A86oD2R01Njr4oA&amp;cat=youtube&amp;s=EY1/H4mo' class="no-utm-link" target="_blank">
+                                         <img width="37" src="https://a.allegroimg.com/s80/123e0f/78042a5c4de588825ad13b121b19" alt="YT" border="0" style="display: block;" />
+                                       </a>
+                                     </td>
+                                   </tr>
+                                 </table>
+                               </td>
+                             </tr>
+							 							                             <tr>
+                               <td style="color: #767676; font-family: Open Sans, sans-serif; font-size:14px;line-height: 21px; text-align: left; padding: 8px;">
+                                																																																																	<p style="margin:8px 0 0; padding:0;font-size:14px; line-height: 21px; font-family: 'Open Sans', sans-serif; color:#767676;" class="fallback">
+										 <!---->
+										
+										
+																												
+																												
+																																																 
+																			Każdy e-mail od Allegro zawiera Twoje imię, nazwisko i login (jeśli masz je w swoim koncie). Jeśli podejrzewasz, że e-mail jest fałszywy, <a href="https://t.allegro.pl/pomoc/kontakt?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;utm_content=security-contact-us-link&amp;utm_campaign=5a500b88-b819-4765-8a9b-a49128aa9897&amp;tr_n=DF10366buyersTC_generic&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_c=contact-us&amp;tr_s=tIBJemAu" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">skontaktuj się z nami</a>. Więcej informacji znajdziesz w <a href="https://t.allegro.pl/bezpieczenstwo/centrum-bezpieczenstwa/bezpieczne-konto?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;utm_content=security-center&amp;utm_campaign=5a500b88-b819-4765-8a9b-a49128aa9897&amp;tr_n=DF10366buyersTC_generic&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=dlakupujacych.allegro.pl&amp;tr_c=email-security-center&amp;tr_s=4sSihdR/" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">centrum bezpieczeństwa Allegro</a>. 
+																		</p>
+                                								
+                                                                								
+                                																																														
+									<p style="margin:8px 0 0; padding:0;font-size:14px; line-height: 21px; font-family: 'Open Sans', sans-serif; color:#767676;" class="fallback">
+										
+																																														Wiadomość została wysłana automatycznie, dlatego na nią nie odpowiadaj. Jeśli chcesz z nami porozmawiać, skorzystaj ze <a href="https://t.allegro.pl/pomoc/kontakt?utm_source=coma_email&amp;utm_medium=d8bd6b4c-0518-4f8d-9756-3ea2c376690a&amp;utm_content=contact-us-autosend&amp;utm_campaign=5a500b88-b819-4765-8a9b-a49128aa9897&amp;tr_n=DF10366buyersTC_generic&amp;tr_id=directSendout_d8bd6b4c-0518-4f8d-9756-3ea2c376690a_66267488&amp;tr_d=allegro.pl&amp;tr_c=contact-us&amp;tr_s=tIBJemAu" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#00a790;text-decoration:none;" target="_blank" class="mLink">strony kontaktowej</a>.									</p>
+                                								
+                                								
+                                                                   <p style="margin:8px 0 0; padding:0;font-size:14px; line-height: 21px; font-family: 'Open Sans', sans-serif; color:#767676;" class="fallback">     
+                                     Allegro sp. z o.o. z siedzibą w Poznaniu, przy ul. Wierzbięcice 1B, 61-569 Poznań, wpisana do rejestru przedsiębiorców prowadzonego przez Sąd Rejonowy Poznań - Nowe Miasto i Wilda w Poznaniu, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem KRS: 0000635012, kapitał zakładowy: 40 000 000 złotych, posiadająca numer identyfikacji podatkowej NIP 525-26-74-798, REGON 365331553 
+                                   </p>
+                                								
+							     
+							                                   </td>
+                             </tr>
+                           </table>
+                         </td>
+                       </tr>
+                     </table>
+                   </td>
+                 </tr>
+				 <!--  -->
+                                </table>
+            </td>
+        </tr>
+      </table>
+   </body>
+</html>

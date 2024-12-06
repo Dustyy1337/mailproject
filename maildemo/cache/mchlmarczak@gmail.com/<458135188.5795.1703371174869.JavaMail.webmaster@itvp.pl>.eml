@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Rejestracja</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato:100,400,700" rel="stylesheet">
+</head>
+
+<body>
+  <table class="body" width="600" style="margin:0 auto; font-family: Lato,sans-serif; font-weight:400;" border="0">
+    <thead>
+      <td>
+        <img src="http://s.tvp.pl/files/user.tvp.pl/mailing/img/header-registation.png" border="0" width="600px"/>
+      </td>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <p style="margin: 15px 50px 10px;font-size:14px;line-height:16px;color:#494949;text-align:left;">
+          Witaj,<br/> W celu potwierdzenia adresu e-mail i ukończenia procesu rejestracji kliknij w poniższy link:
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="100%">
+          <p style="margin: 0 50px 15px;word-break:break-all;text-align:left;">
+            <a href="https://user.tvp.pl/register.php?action=postregister&amp;h=MTRhYjMyZjIwY2UxMGEzYmFhNDU2NTljYmRjZThhNWQzOTg2NTg3NjFhNmMzYzMxNC4zMzQyNTQ1MzkwNzY1ODc2MWE2YzNjMzQ1LjYwNTkyMjUx&amp;ref=L29hdXRoL2F1dGhfY29kZS5waHA/bW9kZT1kYXJrJmNsaWVudF9pZD10dnAtc3NvJnJlZGlyZWN0X3VyaT1odHRwcyUzQSUyRiUyRnZvZC50dnAucGwlMkZtb2plLWtvbnRvJTJGbG9nb3dhbmllJTJGdHZwJnNjb3BlPWJhc2ljJnJlc3BvbnNlX3R5cGU9Y29kZQ==&amp;mode=dark" style="text-decoration:none;font-size:14px;line-height:16px;background-color:#448bd6;text-align:left;display:inline-block;padding: 12px 0px 12px 23px;color:#fff;width: 184px;text-align:center;">Potwierdź adres e-mail <img src="http://s.tvp.pl/files/user.tvp.pl/mailing/img/arrow.png" alt="arrow" style="float:  right;padding-right: 10px;padding-top: 1px;"/></a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p style="margin: 15px 50px;font-size:14px;line-height:16px;color:#494949;text-align:left;display:block;">
+            Link będzie ważny przez 24h.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="100%">
+            <p style="margin: 15px 50px;font-size:14px;line-height:16px;color:#494949;text-align:left;display:block;">
+              Jeżeli po kliknięciu nie otwiera się strona potwierdzająca rejestrację, prosimy o skopiowanie poniższego linku w całości do paska adresu przeglądarki i zatwierdzenie klawiszem „enter":
+            </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="100%">
+          <p style="margin: 15px 50px;word-break:break-all;text-align:left;">
+            <a href="https://user.tvp.pl/register.php?action=postregister&amp;h=MTRhYjMyZjIwY2UxMGEzYmFhNDU2NTljYmRjZThhNWQzOTg2NTg3NjFhNmMzYzMxNC4zMzQyNTQ1MzkwNzY1ODc2MWE2YzNjMzQ1LjYwNTkyMjUx&amp;ref=L29hdXRoL2F1dGhfY29kZS5waHA/bW9kZT1kYXJrJmNsaWVudF9pZD10dnAtc3NvJnJlZGlyZWN0X3VyaT1odHRwcyUzQSUyRiUyRnZvZC50dnAucGwlMkZtb2plLWtvbnRvJTJGbG9nb3dhbmllJTJGdHZwJnNjb3BlPWJhc2ljJnJlc3BvbnNlX3R5cGU9Y29kZQ==&amp;mode=dark" style="font-size:12px;line-height:16px;color:#448bd6;text-align:left;display:block; text-decoration:none;">
+                https://user.tvp.pl/register.php?action=postregister&amp;h=MTRhYjMyZjIwY2UxMGEzYmFhNDU2NTljYmRjZThhNWQzOTg2NTg3NjFhNmMzYzMxNC4zMzQyNTQ1MzkwNzY1ODc2MWE2YzNjMzQ1LjYwNTkyMjUx&amp;ref=L29hdXRoL2F1dGhfY29kZS5waHA/bW9kZT1kYXJrJmNsaWVudF9pZD10dnAtc3NvJnJlZGlyZWN0X3VyaT1odHRwcyUzQSUyRiUyRnZvZC50dnAucGwlMkZtb2plLWtvbnRvJTJGbG9nb3dhbmllJTJGdHZwJnNjb3BlPWJhc2ljJnJlc3BvbnNlX3R5cGU9Y29kZQ==&amp;mode=dark
+            </a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+         <td width="100%">
+           <hr style="margin: 0 50px;color:#979797; border: none; border-top: 1px solid #979797;">
+         </td>
+      </tr>
+    </tbody>
+  </table>
+  <table class="body" width="500" style="margin:0 auto; font-family: Lato,sans-serif; font-weight:400;" border="0">
+    <tr>
+      <td width="250px" style="width: 300px;">
+        <div style="word-wrap: break-word;text-align: left;">
+          <p style="font-size:14px;color:#494949;line-height: 16px;">Pozdrawiamy,<br /> zespół portalu <a href="https://www.tvp.pl" style="color:#3b7adb; text-decoration:none;">tvp.pl</a>
+        </div>
+      </td>
+      <td width="250px" style="width: 300px;">
+          <div width="200px" style="width: 200px;text-align:right;float:right;">
+              <a href="https://www.youtube.com/user/itvp/" style="display: inline-block;"><img src="http://s.tvp.pl/files/user.tvp.pl/mailing/img/icon/icon-yt.png" alt=""></a>
+              <a href="https://www.facebook.com/tvpvod/" style="display: inline-block;"><img src="http://s.tvp.pl/files/user.tvp.pl/mailing/img/icon/icon-fb.png" alt=""></a>
+              <!--
+              <a href="#" style="display: inline-block;"><img src="http://s.tvp.pl/files/user.tvp.pl/mailing/img/icon/icon-pinterest.png" alt=""></a>
+              <a href="#" style="display: inline-block;"><img src="http://s.tvp.pl/files/user.tvp.pl/mailing/img/icon/icon-rss.png" alt=""></a>
+              -->
+              <a href="https://twitter.com/TVP" style="display: inline-block;"><img src="http://s.tvp.pl/files/user.tvp.pl/mailing/img/icon/icon-twitter.png" alt=""></a>
+          </div>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>

@@ -1,0 +1,526 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="pl">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500,600,700&display=swap&subset=latin-ext"
+        rel="stylesheet">
+
+    <title>InPost - Potwierdzenie nadania przesyłki</title>
+
+    <!--[if mso]>
+    <style>
+        span, td, table, div {
+            font-family: Helvetica, Arial, sans-serif !important;
+        }
+    </style>
+  <![endif]-->
+
+
+    <style type="text/css">
+        html,
+        body {
+            margin: 0 !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+        }
+
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        div[style*="margin: 16px 0"] {
+            margin: 0 !important;
+        }
+
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+            color: #3c3c3c;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        @media screen and (max-width: 375px) {
+            .parcel-number {
+                font-size: 12px !important;
+            }
+        }
+
+        @media screen and (max-width: 360px) {
+            .smaller {
+                font-size: 8px !important;
+            }
+
+            .small-padding {
+                padding: 0 7px !important;
+            }
+        }
+    </style>
+</head>
+
+<body style="margin:0; padding:0 !important; background-color:#ffffff;mso-line-height-rule: exactly;" width="100%">
+    <center style="width: 100%; background-color: #ffffff;">
+        <div style="max-width: 600px; margin: 0 auto;">
+            <!--[if mso]>
+        <table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="max-width: 600px; margin: auto; border-spacing: 0 !important; border-collapse: collapse !important; table-layout: fixed !important;">
+        <![endif]-->
+            <table border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff"
+                style="max-width: 600px; margin: auto; border-spacing: 0 !important; border-collapse: collapse !important; table-layout: fixed !important;">
+                <tr>
+                    <!-- HEAD -->
+                    <td align="right" valign="top" style="padding: 10px 0;">
+                        <img src="https://static.inpost.pl/images/mailing2/logo.png" alt="InPost - Out of the Box"
+                            style="padding-right: 20px;" width="123" height="75" border="0">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="top">
+                        <table width="100%" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td width="52" align="right" valign="bottom">
+                                    <img src="https://static.inpost.pl/images/mailing2/Mat_00024.png" alt="InPost"
+                                        style="padding-top: 15px;" width="52" height="52" border="0">
+                                </td>
+                                <td>
+                                    <table cellpadding="0" cellspacing="0" border="0" align="left">
+                                        <tr>
+                                            <td bgcolor="#3c3c3c" height="50"
+                                                style="font-family: 'Montserrat', Helvetica, Arial; padding: 0px 20px;">
+                                                <span style="font-family: 'Montserrat', Helvetica, Arial; font-weight: 700; color: white; font-size: 29px;
+                                            padding: 10px 0px; display: block;">Poszło!</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="10">
+                                                <!--[if mso]>
+                                          <v:shape path="m,l1000,0 0,1000xe" style="width:10px;height:10px;" fillcolor="#3c3c3c" stroked="f"><o:lock selection="t"/></v:shape>
+                                        <![endif]-->
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span
+                                                    style="width: 0; height: 0; border-top: 10px solid #3c3c3c; border-right: 10px solid transparent;"></span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td width="52"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr> <!-- /HEAD -->
+                <tr>
+                    <!-- NAGLOWEK -->
+                    <td>
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                            <tr>
+                                <td width="52"></td>
+                                <td
+                                    style="padding: 10px 0; font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 24px;">
+                                    Twoja paczka kurierska od:
+                                    <br><b>MODIVO S.A.</b><br> wyruszyła w drogę i nie ogląda się za siebie.
+                                    Przewidujemy, że trafi do Ciebie w kolejnym dniu roboczym.
+
+
+                                    <br><br> Kurier InPost podejmie 2 próby doręczenia paczki. Jeśli przesyłka nie
+                                    zostanie odebrana, zostanie zwrócona do Nadawcy.<br /><br />
+
+                                    Możesz nie mieć jak jej odebrać? <b>Przekieruj ją bezpłatnie</a> do pobliskiego
+                                        Paczkomatu, Punktu Obsługi Paczek lub na dowolny adres przy pierwotnie wybranej
+                                        przez siebie ulicy.</b></td>
+                                <td width="52"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr> <!-- /NAGLOWEK -->
+                <tr>
+                    <!-- PRZEKIEROWANIE -->
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td colspan="3" height="20"></td>
+                            </tr>
+                            <tr>
+                                <td width="52"></td>
+                                <td>
+                                    <a href="https://rd.inpost.pl/rpn.aspx?t=k5n4hr675" target="_blank"
+                                        style="color: #3c3c3c; text-decoration: none;">
+                                        <table bgcolor="#FFCB04" border="0" cellpadding="0" cellspacing="0"
+                                            role="presentation"
+                                            style="font-family: Montserrat, Arial, sans-serif;width: 100%; background-color: #FFCB04;"
+                                            width="100%">
+                                            <tr>
+                                                <td height="28"
+                                                    style="height: 28px; color: #3c3c3c; font-weight: bold; padding: 15px 0 15px 20px;">
+                                                    <a href="https://rd.inpost.pl/rpn.aspx?t=k5n4hr675" target="_blank"
+                                                        style="color: #3c3c3c; text-decoration: none;">Przekieruj
+                                                        paczkę</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </a>
+                                </td>
+                                <td width="52"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3" height="20"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr> <!-- /PRZEKIEROWANIE -->
+                <tr>
+                    <!-- SPACER -->
+                    <td>
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                            <tr>
+                                <td height="20" colspan="3"></td>
+                            </tr>
+                            <tr>
+                                <td width="52"></td>
+                                <td bgcolor="#d8d8d8" height="1"></td>
+                                <td width="52"></td>
+                            </tr>
+                            <tr>
+                                <td height="20" colspan="3"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr> <!-- /SPACER -->
+                <tr>
+                    <!-- SLEDZ PACZKE -->
+                    <td>
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                            <tr>
+                                <td height="20" colspan="3"></td>
+                            </tr>
+                            <tr>
+                                <td width="52"></td>
+                                <td>
+                                    <a href="https://inpost.pl/pl/pomoc/znajdz-przesylke?parcel=521000014358173032373280"
+                                        target="_blank" style="color: #3c3c3c; text-decoration: none;">
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+                                            width="100%"
+                                            style="font-family: Montserrat, Arial, sans-serif; width: 100%; background-color: #FFCB04;"
+                                            bgcolor="#FFCB04">
+                                            <tr>
+                                                <td height="28"
+                                                    style="height: 28px; color: #3c3c3c; font-weight: bold; padding: 15px 0 15px 20px;">
+                                                    <a href="https://inpost.pl/pl/pomoc/znajdz-przesylke?parcel=521000014358173032373280"
+                                                        target="_blank"
+                                                        style="color: #3c3c3c; text-decoration: none;">Śledź paczkę</a>
+                                                </td>
+
+                                            </tr>
+                                        </table>
+                                    </a>
+                                </td>
+                                <td width="52"></td>
+                            </tr>
+                            <tr>
+                                <td height="20" colspan="3"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                            <tr>
+                                <td width="52"></td>
+                                <td
+                                    style="padding: 10px 0; font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 24px; font-weight: bold;">
+                                    <a href="http://m.me/335107452998?ref=%7B%22parcelnumber%22:%22{NUMER%20PRZESY%C5%81KI}%22,%22target%22:%22O%22%7D"
+                                        target="_blank"
+                                        style="border-bottom: 2px solid #ffcb04; text-decoration: none; color: #3c3c3c;"><img
+                                            src="https://static.inpost.pl/images/mailing2/ikona-messenger.png"
+                                            alt="InPost"> &nbsp;Śledź paczkę z chatbotem</a></td>
+                                <td width="52"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <!-- /SLEDZ PACZKE -->
+
+                <tr>
+                    <!-- NUMER PACZKI -->
+                    <td>
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                            <tr>
+                                <td height="20" colspan="3"></td>
+                            </tr>
+                            <tr>
+                                <td width="52"></td>
+                                <td>
+                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td
+                                                style="font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 24px; font-weight: 700;">
+                                                Numer paczki:
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="parcel-number"
+                                                style="font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 24px;">
+                                                521000014358173032373280
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+
+                                <td width="52"></td>
+                            </tr>
+                            <tr>
+                                <td height="20" colspan="3"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr> <!-- /NUMER PACZKI -->
+                <tr>
+                    <!-- ECO -->
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                            <tr>
+                                <td style="max-width: 52px;" valign="bottom" width="52">
+                                    <img alt="InPost" border="0"
+                                        src="https://static.inpost.pl/images/mailing2/mat-eko.png"
+                                        style="padding-top: 15px; display: block;" width="52">
+                                </td>
+                                <td>
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td style="padding: 0px 20px;" bgcolor="#98c93c" height="50">
+                                                <span class="smaller"
+                                                    style="font-family: 'Montserrat', Helvetica, Arial; font-weight: 700; color: white; font-size: 16px; display: block; text-align: center;">Oszczędź
+                                                    CO<sub>2</sub>
+                                                    światu, zamawiaj do Paczkomatu</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="10">
+                                                <!--[if mso]>
+                                              <v:shape path="m,l1000,0 0,1000xe" style="width:10px;height:10px;" fillcolor="#98c93c" stroked="f"><o:lock selection="t"/></v:shape>
+                                            <![endif]-->
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span
+                                                    style="width: 0; height: 0; border-top: 10px solid #98c93c; border-right: 10px solid transparent;"></span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td width="52"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr><!-- /ECO -->
+                <tr>
+                    <!-- ODBIERAJ WYGODNIEJ -->
+                    <td>
+                        <table bgcolor="#efefef" border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td colspan="3" height="20"></td>
+                            </tr>
+                            <tr>
+                                <td width="52"></td>
+                                <td style="max-width: 212px;">
+                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                        <tr>
+                                            <td
+                                                style="font-family: 'Montserrat', sans-serif; font-size: 16px; line-height: 24px;">
+                                                <b>Odbieraj paczki wygodniej</b> za pomocą aplikacji InPost
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="20"></td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td align="center">
+                                                            <a href="https://play.google.com/store/apps/details?id=pl.inpost.inmobile&referrer=utm_source%3Dmail-statusowy%26utm_campaign%3Dmail-statusowy"
+                                                                target="_blank"><img alt="Google Play" border="0"
+                                                                    height="50"
+                                                                    src="https://static.inpost.pl/images/mailing2/btn-googleplay.png"
+                                                                    style="display: block; max-width: 169px; width: 100%;"
+                                                                    width="105"></a>
+                                                        </td>
+                                                        <td align="center">
+                                                            <a href="https://itunes.apple.com/pl/app/apple-store/id1437787639?pt=119319011&ct=mail-statusowy&mt=8"
+                                                                target="_blank"><img alt="App Store" border="0"
+                                                                    height="50"
+                                                                    src="https://static.inpost.pl/images/mailing2/btn-appstore.png"
+                                                                    style="display: block; max-width: 144px; width: 100%;"
+                                                                    width="93"></a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="10"></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td width="52"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr> <!-- /ODBIERAJ WYGODNIEJ -->
+                <tr>
+                    <!-- FOOTER -->
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                            <tr bgcolor="#3c3c3c">
+                                <td width="52"></td>
+                                <td style="padding: 0 10px 0 0;" valign="top">
+                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                        <tr>
+                                            <td height="20"></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="font-family: 'Montserrat', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;">
+                                                <span style="color: #ffcb04;">Masz pytania?</span><br>Śmiało!</td>
+                                        </tr>
+                                        <tr>
+                                            <td height="20"></td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table cellpadding="0" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td></td>
+                                                        <td height="10"></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center"><img border="0" height="21"
+                                                                src="https://static.inpost.pl/images/mailing2/mail.png"
+                                                                width="20"></td>
+                                                        <td width="5"></td>
+                                                        <td
+                                                            style="font-family: 'Montserrat', Helvetica, Arial; color: #ffffff; font-size: 16px; line-height: 24px;">
+                                                            <a href="https://inpost.pl/kontakt"
+                                                                style="color: #ffffff; text-decoration: none;"
+                                                                target="_blank">Napisz
+                                                                wiadomość</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td></td>
+                                                        <td height="10"></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center"><img border="0" height="20"
+                                                                src="https://static.inpost.pl/images/mailing2/cellphone.png"
+                                                                width="12">
+                                                        </td>
+                                                        <td width="5"></td>
+                                                        <td
+                                                            style="font-family: 'Montserrat', Helvetica, Arial; color: #ffffff; font-size: 16px; line-height: 24px;">
+                                                            722 444 000</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td></td>
+                                                        <td height="10"></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center"><img border="0" height="21"
+                                                                src="https://static.inpost.pl/images/mailing2/telephone.png"
+                                                                width="20">
+                                                        </td>
+                                                        <td width="5"></td>
+                                                        <td
+                                                            style="font-family: 'Montserrat', Helvetica, Arial; color: #ffffff; font-size: 16px; line-height: 24px;">
+                                                            74 660 00 00</td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="20"></td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table cellpadding="0" cellspacing="0" style="max-width: 200px;"
+                                                    width="100%">
+                                                    <tr>
+                                                        <td width="200">
+                                                            <table cellpadding="0" cellspacing="0"
+                                                                style="max-width: 200px;" width="100%">
+                                                                <tr>
+                                                                    <td align="center" valign="middle">
+                                                                        <a href="https://www.facebook.com/paczkomaty"
+                                                                            target="_blank"><img border="0" height="20"
+                                                                                src="https://static.inpost.pl/images/mailing2/facebook.png"
+                                                                                width="20"></a>
+                                                                    </td>
+                                                                    <td width="5"></td>
+                                                                    <td align="center" valign="middle">
+                                                                        <a href="https://twitter.com/paczkomatypl"
+                                                                            target="_blank"><img border="0" height="19"
+                                                                                src="https://static.inpost.pl/images/mailing2/twitter.png"
+                                                                                width="23"></a>
+                                                                    </td>
+                                                                    <td width="5"></td>
+                                                                    <td align="center" valign="middle">
+                                                                        <a href="https://www.linkedin.com/company/inpost/"
+                                                                            target="_blank"><img border="0" height="20"
+                                                                                src="https://static.inpost.pl/images/mailing2/linkedin.png"
+                                                                                width="21"></a>
+                                                                    </td>
+                                                                    <td width="5"></td>
+                                                                    <td align="center" valign="middle">
+                                                                        <a href="https://www.youtube.com/c/InpostPl-twoj-inpost"
+                                                                            target="_blank"><img border="0" height="17"
+                                                                                src="https://static.inpost.pl/images/mailing2/yt.png"
+                                                                                width="24"></a>
+                                                                    </td>
+                                                                    <td width="5"></td>
+                                                                    <td align="center" valign="middle">
+                                                                        <a href="https://www.instagram.com/inpostpl/"
+                                                                            target="_blank"><img border="0" height="20"
+                                                                                src="https://static.inpost.pl/images/mailing2/insta.png"
+                                                                                width="20"></a>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table bgcolor="#3c3c3c" border="0" cellpadding="0" cellspacing="0"
+                                                    width="100%">
+                                                    <tr>
+                                                        <td height="20"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td bgcolor="#6f6e6e" height="1"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td height="20"></td>
+                                                    </tr>
+                                                </table>
+                               

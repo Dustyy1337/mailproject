@@ -5,11 +5,13 @@ public class MessageView {
     public String header;
     public String sender;
     public int messageIndex;
-    public MessageView(String timeDate, String header, String sender, int messageIndex) {
+    public double similarity;
+    public MessageView(String timeDate, String header, String sender, int messageIndex, double similarity) {
         this.timeDate = timeDate;
         this.header = header;
         this.sender = sender;
         this.messageIndex = messageIndex;
+        this.similarity=similarity;
     }
 
     public String getHeader() {

@@ -1,0 +1,128 @@
+*ICYMI, last week we announced that both Codewars and Qualified.io joined forces with Andela. We are incredibly grateful for all the energy you've dedicated to building Codewars into a community 3.8 million strong! Don't worry, nothing about Codewars changes. Read the full story*[*here*](https://www.codewars.com/post/andela-and-codewars-join-forces)*. *
+
+*Welcome to Basic Training.*
+
+**In partnership with Fullstack Academy*
+
+From the Codewars Blog
+----------------------
+
+How To Incorporate Coding Practice into a Daily Routine
+
+The alarm goes off and maybe you hit snooze or maybe you spring out of bed ready for the day. Either way, once you're awake, a routine kicks into gear. Stumble into the kitchen, make coffee, feed the pet, brush your teeth, check email, etc. Basic tasks like these are like switching on autopilot.
+
+ 
+
+Routines are unique to each person: A rigid checklist that demands completion or else the day is lost. A ritualistic pattern that brings the comfort of familiarity. A nearly impossible concept that erratically changes from day to day. A customizable tool that helps achieve personal and professional goals. They look and feel different for everyone.
+
+ 
+
+Routines are proven to benefit nearly every part of life, even if your routine isn't identical day after day. I could go on and on about the mental, emotional, and health betterments that routines offer, but that's not today's point. As a coder, consistent routines are your strongest asset.
+
+ 
+
+This is old news, but you've chosen a career that requires a commitment to lifelong study. The best way to stay sharp and keep learning is to make coding a daily habit. If you struggle to form new habits or get routines to stick, here are 6 tips to keep you on track.
+
+[Keep reading 📖](https://www.codewars.com/post/how-to-incorporate-coding-practice-into-a-daily-routine)
+
+Resources and Reads
+-------------------
+
+###[Silicon Valley Bank: Regulators take over as failure raises fears](https://www.bbc.com/news/business-64915616)
+
+The FDIC took control of Silicon Valley Bank last week, marking the biggest bank crash since 2008. Referred to as the bank of start-ups, the rippling severity of the failed bank run is still unclear.
+
+###[Learn How to Setup a CI/CD Pipeline from Scratch](https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69)
+
+This tutorial discusses creating a CI/CD pipeline for Go applications, utilizing powerful concurrency features, high performance, and open-source nature.
+
+###[Blog from Andela CEO, Jeremy Johnson](https://andela.com/insights/andelas-evolution-continues-welcome-qualified-and-codewars/?utm_medium=email&utm_source=newsletter&utm_campaign=brand-GLOBAL-march13-codewars-beginner-newsletter&utm_content=jeremy-blog&utm_term=)
+
+Andela CEO Jeremy Johnson discusses the excitement and opportunities around bringing Qualified and Codewars into the Andela family.
+
+[About Fullstack Academy](https://www.fullstackacademy.com/landing/codewars?utm_source=codewars&utm_medium=paid&utm_campaign=codewars_nl_3.23)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Fullstack Academy is a trusted trailblazer in tech education—offering comprehensive, live online career training bootcamps in coding, data analytics, cybersecurity, and product management.* 
+
+[Explore the Beginner-Friendly Web Development Immersive](https://www.fullstackacademy.com/landing/codewars?utm_source=codewars&utm_medium=paid&utm_campaign=codewars_nl_3.23)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Take your career to the next level with the Beginner Web Development Immersive, which supports all starting skill levels to develop professional coding skills to build a thriving career in 17-28 weeks.*
+
+In 2014 Andela was founded on the premise that brilliance is evenly distributed but opportunity is not. To address the disparity head on, Andela tirelessly worked to match thousands of global engineers to Enterprise clients, revolutionizing the approach to remote hiring.
+
+ 
+
+Almost ten years later, Andela's mission hasn't changed: to connect brilliance with opportunity, irrespective of race, gender, and geography. 
+
+ 
+
+The Andela Learning Community provides access to in-demand technology courses from Andela's learning partners to build skills and grow careers. 
+
+ 
+
+[Join](https://andela.com/learning-community/?utm_medium=email&utm_source=newsletter&utm_campaign=talent-GLOBAL-march13-codewars-beginner-newsletter&utm_content=ALC-landing-page&utm_term=) the thousands of software engineers advancing their careers through the Andela Learning Community.
+
+Time to Train
+-------------
+
+ 
+
+###[Find out whether the shape is a cube](https://www.codewars.com/kata/58d248c7012397a81800005c?utm_source=newsletter)
+
+To find the volume (centimeters cubed) of a cuboid you use the formula:
+
+volume = Length * Width * Height
+
+But someone forgot to use proper record keeping, so we only have the volume, and the length of a single side!
+
+It's up to you to find out whether the cuboid has equal sides (= is a cube).
+
+Return true if the cuboid could have equal sides, return false otherwise.
+
+Return false for invalid numbers too (e.g volume or side is less than or equal to 0).
+
+Note: side will be an integer
+
+[Thomas_J](https://www.codewars.com/users/Thomas_J?utm_source=newsletter)
+
+ 
+
+###[The Bee](https://www.codewars.com/kata/6408ba54babb196a61d66a65?utm_source=newsletter)
+
+Imagine a honeycomb - a field of hexagonal cells with side N. There is a bee in the top left cell A. In one move it can crawl one cell down, one cell down-right or one cell up-right (the bee does not crawl up or left).
+
+Write a function that outputs the number of ways the bee can crawl from cell A to the opposite cell B.
+
+**Input data:**
+
+*The function receives a single number N - the size of the hexagonal field 2 ≤ N ≤ 200.*
+
+**Output data:**
+
+*The function should output a single integer - the number of ways.*
+
+**Example:**
+
+the_bee(2) --> 11 the_bee(3) --> 291 the_bee(5) --> 259123**Code length limit:**
+
+*To prevent hardcoding, your code cannot exceed 1 000 characters.*
+
+If you have the desire and time, I would be very grateful if you can help in the development of this kata, to translate, or whatever else. I can be contacted via [Telegram](https://t.me/Egor_Arhipovm).
+
+If you want to solve our problems, they are here: [From Singularity Hub Community](https://www.codewars.com/collections/from-singularity-hub-community)
+
+[EgorArh](https://www.codewars.com/users/EgorArh?utm_source=newsletter)
+
+**Andela**
+
+580 5th Ave Suite 820 New York, NY 10036
+
+This email was sent to mchlmarczak@gmail.com
+
+You've received this email because you've subscribed to our newsletter.
+
+[Unsubscribe](http://r.news.codewars.com/mk/un/v2/X8Ncg7JBdCGQ0JJU4ie1-B0NK1sKAFCl80-CVW9u108t-OEFpQ91oX8cqEijLT0ry9QaBliAScQk0jitLcLwDy_dafCq2MYzerFG-38hBPb3ofr8QxPQWZJNzvTC_xzfUtByE_KmvY5eGVMLxO08ZNFugs0xtYLx4ZAdeQX1)
+
+Have you heard the news? The latest Codewars updates, resources, kata and more ICYMI, last week we announced that both Codewars and Qualified.io joined forces with Andela. We are incredibly grateful for all the energy you've dedicated to building Codewars into a community 3.8 million strong! Don't worry, nothing about Codewars changes. Read the full story here. Welcome to Basic Training. *In partnership with Fullstack Academy From the Codewars Blog How To Incorporate Coding Practice into a Daily Routine The alarm goes off and maybe you hit snooze or maybe you spring out of bed ready for the day. Either way, once you're awake, a routine kicks into gear. Stumble into the kitchen, make coffee, feed the pet, brush your teeth, check email, etc. Basic tasks like these are like switching on autopilot. Routines are unique to each person: A rigid checklist that demands completion or else the day is lost. A ritualistic pattern that brings the comfort of familiarity. A nearly impossible concept that erratically changes from day to day. A customizable tool that helps achieve personal and professional goals. They look and feel different for everyone. Routines are proven to benefit nearly every part of life, even if your routine isn't identical day after day. I could go on and on about the mental, emotional, and health betterments that routines offer, but that's not today's point. As a coder, consistent routines are your strongest asset. This is old news, but you've chosen a career that requires a commitment to lifelong study. The best way to stay sharp and keep learning is to make coding a daily habit. If you struggle to form new habits or get routines to stick, here are 6 tips to keep you on track. Keep reading 📖 Resources and Reads Silicon Valley Bank: Regulators take over as failure raises fears The FDIC took control of Silicon Valley Bank last week, marking the biggest bank crash since 2008. Referred to as the bank of start-ups, the rippling severity of the failed bank run is still unclear. Learn How to Setup a CI/CD Pipeline from Scratch This tutorial discusses creating a CI/CD pipeline for Go applications, utilizing powerful concurrency features, high performance, and open-source nature. Blog from Andela CEO, Jeremy Johnson Andela CEO Jeremy Johnson discusses the excitement and opportunities around bringing Qualified and Codewars into the Andela family. About Fullstack Academy Fullstack Academy is a trusted trailblazer in tech education—offering comprehensive, live online career training bootcamps in coding, data analytics, cybersecurity, and product management.* Explore the Beginner-Friendly Web Development Immersive Take your career to the next level with the Beginner Web Development Immersive, which supports all starting skill levels to develop professional coding skills to build a thriving career in 17-28 weeks.* In 2014 Andela was founded on the premise that brilliance is evenly distributed but opportunity is not. To address the disparity head on, Andela tirelessly worked to match thousands of global engineers to Enterprise clients, revolutionizing the approach to remote hiring. Almost ten years later, Andela's mission hasn't changed: to connect brilliance with opportunity, irrespective of race, gender, and geography. The Andela Learning Community provides access to in-demand technology courses from Andela's learning partners to build skills and grow careers. Join the thousands of software engineers advancing their careers through the Andela Learning Community. Time to Train Find out whether the shape is a cube To find the volume (centimeters cubed) of a cuboid you use the formula: volume = Length * Width * Height But someone forgot to use proper record keeping, so we only have the volume, and the length of a single side! It's up to you to find out whether the cuboid has equal sides (= is a cube). Return true if the cuboid could have equal sides, return false otherwise. Return false for invalid numbers too (e.g volume or side is less than or equal to 0). Note: side will be an integer Thomas_J The Bee Imagine a honeycomb - a field of hexagonal cells with side N. There is a bee in the top left cell A. In one move it can crawl one cell down, one cell down-right or one cell up-right (the bee does not crawl up or left). Write a function that outputs the number of ways the bee can crawl from cell A to the opposite cell B. Input data: The function receives a single number N - the size of the hexagonal field 2 ≤ N ≤ 200. Output data: The function should output a single integer - the number of ways. Example: the_bee(2) --> 11 the_bee(3) --> 291 the_bee(5) --> 259123 Code length limit: To prevent hardcoding, your code cannot exceed 1 000 characters. If you have the desire and time, I would be very grateful if you can help in the development of this kata, to translate, or whatever else. I can be contacted via Telegram. If you want to solve our problems, they are here: From Singularity Hub Community EgorArh Andela 580 5th Ave Suite 820 New York, NY 10036 This email was sent to mchlmarczak@gmail.com You've received this email because you've subscribed to our newsletter. Unsubscribe

@@ -1,0 +1,70 @@
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body style="margin:0;padding:0;">
+    <div
+      style="width: 600px;margin: 0 auto;font-family:OpenSans,Arial;color:#00344a;border-left:solid 1px #d5c8b3; border-right:solid 1px #d5c8b3; border-top:solid 1px #d5c8b3;"
+    >
+      <div style="background-color:#ffffff;">
+        <div
+          style="text-align:center;margin:0 0 30px 0;"
+        >
+          <img
+            alt="GeoGuessr"
+            style="width: 100%;"
+            src="https://geoguessr-images.s3-eu-west-1.amazonaws.com/prod/quiz/658cfeed0ec0883bb82ea88c7a018c4f.png"
+          />
+        </div>
+
+        <h1
+          style="margin-top:75px; text-align:center;font-size: 28px;line-height:36px;font-weight: bold;padding: 0 30px;margin-bottom: 10px;"
+        >New Quiz!
+        </h1>
+
+        <div style="padding:0 40px">
+          <p style="text-align:center;font-size:18px;line-height:28px;color:#000000;margin-bottom:15px;margin-top:0">
+Are you a Eurovision fan? Have you been tuning in year after year, cheering on your favorite acts, and getting lost in the fantastic spectacle of performances? If so, we have an exciting challenge for you!<br><br>We're hyped to announce our Eurovision Quiz, a celebration of all things Eurovision! <br><br> <b>Click down below!</b> <br><br>New quizzes  every week!
+          </p>
+        </div>
+
+        <div style="text-align: center; margin-top: 30px;">
+          <a
+            href="http://url3138.geoguessr.com/ls/click?upn=eX6TIsSZcM-2FANSAQ5y53ukQTNLC55qi6ZQH6hH6nVc4sTSvj1WpY3hTsJ3E8QJqJRZL9CBm7hO1YqfC9B9v10ndl3Uf232kWzs-2FcJ3dultEXuK8R3B3knc4T6hAXJkBaX6UPS1BLNHwuf8bzCG4hvJeEV853r5WLc4vNoDfdxLnkr1xuq1zcNun97CQaG7o9xMWigsj9UzoZKKvHj48NT-2Fj-2BKDDS5Mb8JTU-2FYE8UIfDIbN4ewE4gydVjitRyi4KEC-2BCvJSP8UB2LDJCHrxBRTXPyoKCVg34MX-2FkVSy-2BiOmPQM-2FGcKsSAk9nRSMs5A-2FFmD0zDyUAnAFlSbg90r8ghaRYviN9rkoK8Eez5ibC2ZnkE08HObgp2PI5-2BBGkqU4PCnrJ-2BXgdepMfvCCdz5YyBXA-3D-3DmU-i_FMy6RltYXLvrm98HWTF6xwEsvIGxLF82VGSrbPwYzROnqjSoxXM4yK5nZP0pIluE-2F1Fmww6uApNbA-2Bcx9gIuvZ-2Bnnp9ORSoS-2FG51EY5u7Wv2H-2BJOxEYmWkCytjIte83-2Fq5Kq2pod6xoWDcJGwjMp8-2BnrUcpSbhPGyvm1noUIEHlgiTa2B4uFnATgsSYihvUaC8Hn7UzfHKw2hCU4vZrCqRlHN5PgQPgBv8nF68CaFIT-2BWxq6cB-2Fo6fnZI-2BCeWofXxt9ewEXZ80mfN2qTV7nkLQUub1w-2B-2B0ynK7Z1xCIYUT1aJhwk05p-2Br-2BYCkIqQ8qwi"
+            style="font-size: 18px;color:#000000;display: inline-block;margin-bottom: 40px;color: #ffffff;background-color: #7fb432;text-transform: uppercase;text-decoration: none;border-radius: 30px;font-weight: 700;padding: 10px 40px;font-se: 1;"
+            target="_blank"
+          >
+            Click to play
+          </a>
+        </div>
+
+        <div
+          style="margin-top: 50px;background-color:#1a1a1a;padding: 30px 40px;text-align: center;"
+        >
+          <img
+            alt="GeoGuessr small"
+src="https://geoguessr.com/static/logo-small.png" style="width:170px;height:35px"
+          />
+          <p
+            style="font-size:18px;color:#ffffff;line-height:28px;margin-bottom:10px;"
+          >
+            Find us at
+            <a href="http://url3138.geoguessr.com/ls/click?upn=eX6TIsSZcM-2FANSAQ5y53up1YRbvBWwgRWJQoidZZNiw-3D0mLQ_FMy6RltYXLvrm98HWTF6xwEsvIGxLF82VGSrbPwYzROnqjSoxXM4yK5nZP0pIluE-2FC3ktZYgUbVv3rp-2BaAuaW8nEExO0YpdvDjwhrx9Gcl5CUZgYKLC5AA4z3LDQQfaCJilLF5gcSqRti1TIAZkuNc6jX-2B5fhCzLcTb-2Fp8tOPDK8hXNkkFnN4ZbsW5ZLSw0RzRFwJrWRWESwH-2Fc8k4cb1z91khg-2B2YZFOKIpX81KWTUIyhCHriCF7TdngQPei4dwHo4GElw9g4k-2FFHmDK5sByuow3FdQL-2FuyHBuExOi8r6gnKakhSWgHtbeVzNYuHKr0" style="color: #ffffff;"
+              >GeoGuessr.com</a
+            >
+          
+            and follow us on
+            <a href="http://url3138.geoguessr.com/ls/click?upn=eX6TIsSZcM-2FANSAQ5y53unf07gHO4nXge-2FEhz6r72CO3JpwxI6LZZP2-2B-2B1cuD1SovOLN_FMy6RltYXLvrm98HWTF6xwEsvIGxLF82VGSrbPwYzROnqjSoxXM4yK5nZP0pIluElyqQFs-2BsK3byopnAvIzmRo811620DdvdI-2BPaRqeDxVWAOwqydnf0TkCjGIsHBLjDyR-2FiC7tg62ZZGSZyhylxL8l1TJTOZvFJR2oNCZnGo7HlAGrmXdwfMnlrHZoK9K-2FqWVsLdOAsrNPdlQ-2B4LT1K26SaIMnwY5wx4p6hmFn6rz8y4Yrvhug74kumjCsy0TcQ2k5ox2HhO3of6mnycGEaQgJoQ-2Brk5zt-2BZxeqqdDx-2Fc9fwItiU5zlykPFJYUWfCh4" style="color: #ffffff;">Twitter,</a>
+            <a href="http://url3138.geoguessr.com/ls/click?upn=eX6TIsSZcM-2FANSAQ5y53uowsdeopLLKyZg5X2y1NNaLxXcTrHfI57gINwCNr8Um4racqrYHnu5Aah5qbDTMjUg-3D-3DOjPQ_FMy6RltYXLvrm98HWTF6xwEsvIGxLF82VGSrbPwYzROnqjSoxXM4yK5nZP0pIluEoP5O2VCfzZQoZfztCEKKze5Q8CAoARWbbEhAKpvCyLL8zYHKOyyQQeBnibz5l8-2FHkAXMJnuN-2F6TUTOTh4LyCugGH9HpeeKwbT0AurtHKIIECbiHSD1Yy1GgRttMOqqMkIDkpo1TFXkEAUnM8mOTxeA4k2Tr-2FVzUEDgGtso3jXthdkelI3FHvd-2BykJ9oB8ocvX-2F3RVMRHqA2F0kHVfA1zCtgYSgi0GCrAIXomww-2F5KLugrNsMHPyV5dBTPC2fxeD9" style="color: #ffffff;">Facebook</a>
+            &nbsp;and <a href="http://url3138.geoguessr.com/ls/click?upn=eX6TIsSZcM-2FANSAQ5y53us-2BwUWdNRkGt65vzDIt-2BNPDN-2FKUx1eW2xamu5CZ8sMQTE91I_FMy6RltYXLvrm98HWTF6xwEsvIGxLF82VGSrbPwYzROnqjSoxXM4yK5nZP0pIluEpMjPuqWJTJNZi7qhzHzmgKb6tU4QAr-2FaosTFGJYxKeudkBmGhT09cmunZDpDKsJS1-2FlWSn-2Bd73qcs915mnv5IbHyh7BcrM8JnooEJIPIo4zIz3j-2FGqeVKOwvzuW9H-2BAUfjkNTTdcNggDA4lvQ-2BLJAXYhtSam82Js1V135Xj9JySFyIM7sIGr88MxXA-2F4JmSUrm0JjTbjSoiQoOD6OLJMiTUIbpuOoihc3LMRJpatjmzc7Fj-2BsqckBiNI7H1LHnFg" style="color: #ffffff;">Instagram</a>.
+          </p>
+
+          <p style="font-size:18px;color:#ffffff;line-height:28px;margin-bottom:30px;margin-top: 10px;">
+                    Not interested in emails from us? Click
+                    <a href="http://url3138.geoguessr.com/ls/click?upn=eX6TIsSZcM-2FANSAQ5y53ukQTNLC55qi6ZQH6hH6nVc6ccrS6HEYAJZvxETiRnMpIbTv3BW0-2BrmPx4bPkLwsi0viJf4wsWmKSGvUyQi-2BG3H8-3DjxQb_FMy6RltYXLvrm98HWTF6xwEsvIGxLF82VGSrbPwYzROnqjSoxXM4yK5nZP0pIluEv3xDL6ByyQbHlpF76B0oJFzEXEtH6LKmD2-2FZKxM4I0UtsYK-2Bmlu7kWaTcvQchvwMM3YX2GJswgFRz-2FOus0IueQqAId2-2FPRO19c-2FVJNDWv5NWDptHoCl0beZwvRtaMlLIaYYbjr4Dkm9NA8mwmthHfES51B-2FjtTqvo8iQEk4tTO5Nj2-2F0cUVGDXf6G8lq8w0zkCQ5z3LBJzMcrsUPJT6h4KbIEMMTnx-2BoqZwX2yKdk9kdpRlsjgv85vNe2gOs30Lv" style="color: #ffffff;">here.</a>
+                </p>
+        </div>
+      </div>
+    </div>
+  <img src="http://url3138.geoguessr.com/wf/open?upn=glrJy36zQc5Gdbn-2FRa3GE7vdHP0GMb-2BbF1vd7GnFR86SYhFsmai1AZ5j94habLktC5MA0okn-2BmldWFz2MWlNlkId4T6a8T3YF2j5d7xly68a88-2Br-2FC8eLCvED8sAoD-2FVEaNvQHJtmfT6xb1j14phv87xhK-2F4dwyE9arr9h1iaMwDzy3wPdo9Ah-2B2oirX8Vbiq7Q0FYqb-2FY04e-2FIBkBIqLevOYQknN4pr3x2zTtGpWCtyWaDYWMxFm3YXMlV-2F4RR6iC20hfLiIdasBC-2BfRXFyE2RPxl04iB-2Fjl31UPCVy-2BL3d0dCn55ICy-2FGoAdLDVlml" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>

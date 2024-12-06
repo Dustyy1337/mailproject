@@ -1,0 +1,513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o=
+"urn:schemas-microsoft-com:office:office" xmlns:v=
+"urn:schemas-microsoft-com:vml">
+<head>
+<title>eKomi</title>
+<!--[if !mso]><!-->
+<link href=
+"https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700"
+rel="stylesheet" type="text/css" /><!--<![endif]-->
+<meta http-equiv="Content-Type" content=
+"text/html; charset=UTF-8" />
+<meta name="viewport" content=
+"width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--fixes for new Outlook.com that stops it wraping a div around unlinked images and putting space around them-->
+
+<style type="text/css">
+/*<![CDATA[*/
+        button { display: block !important }
+        /*]]>*/
+</style>
+
+<style type="text/css">
+/*<![CDATA[*/
+        /* CLIENT-SPECIFIC STYLES */
+        body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { -ms-interpolation-mode: bicubic; }
+
+        /* RESET STYLES */
+        img { border: 0; outline: none; text-decoration: none; }
+        table { border-collapse: collapse !important; }
+        body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+        /* iOS BLUE LINKS */
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        .nolinkcolor a{color:inherit !important;text-decoration:none !important;}
+
+        /* ANDROID CENTER FIX */
+        div[style*="margin: 16px 0;"] { margin: 0 !important; }
+        input { display:none; }
+
+        /* MEDIA QUERIES */
+        @media screen and (max-width:480px){
+
+            .mobilecontent{
+                display: block !important;
+                max-height: none !important;
+            }
+
+            .copy-padding{
+                padding-top:150px !important;
+            }
+
+            .logo{
+                width:68px !important;
+                height:auto !important;
+            }
+            .wrapper{ width:100% !important; padding: 0 !important; }
+
+            .emailwrapto320{
+                width:320px !important;
+                height:auto !important;
+            }
+
+            .column{
+                max-width: 95% !important;
+                width: 95% !important;
+            }
+
+            .emailwrapto100pc{
+                width:100% !important;
+                height:auto !important;
+
+            }
+
+            .emailwrapto95pc{
+                width:95% !important;
+                height:auto !important;
+            }
+
+            .emailwrapto93pc{
+                width:93% !important;
+                height:auto !important;
+            }
+
+            .emailwrapto90pc{
+                width:90% !important;
+                height:auto !important;
+            }
+
+            .emailwrapto90pc-h400{
+                width:90% !important;
+
+                max-height:400px !important;
+
+                position:relative;
+            }
+
+            .emailwrapto80pc{
+                width:80% !important;
+                height:auto !important;
+            }
+
+            .emailwrapto60pc{
+                width: 65% !important;
+                height: auto!important;
+            }
+
+            .emailwrapto50pc{
+                width:50% !important;
+                height:auto !important;
+            }
+
+            .emailwrapto47pc{
+                width:47% !important;
+                height:auto !important;
+            }
+
+            .emailwrapto6pc{
+                width:6% !important;
+                height:auto !important;
+            }
+
+            .headline-padding{
+                padding-top: 30px !important;
+            }
+
+            .head{
+                display:block !important;
+                display:table-header-group!important;
+                width:100%!important;
+                max-width:100% !important;
+            }
+
+            .foot{
+                display:table-footer-group!important;
+                width:100%!important;
+            }
+
+            .emailwrapto85pc{
+                width:85% !important;
+                height:auto !important;
+            }
+
+            tbody tr { width:100% !important; display:table!important; }
+
+            .emailnomob{
+                display:none !important;
+            }
+
+            .headline-mob{
+                font-size:40px !important;
+                line-height:46px !important;
+            }
+
+            .large-subheadline-mob{
+                font-size:30px !important;
+                line-height:36px !important;
+
+            }
+
+            .subheadline-border{
+                font-size:34px !important;
+                line-height:40px !important;
+
+            }
+
+            .border{
+                width:6px !important;
+            }
+
+            .subheadline-mob{
+                font-size:24px !important;
+                line-height:30px !important;
+            }
+
+            .mirror{font-size:8px !important;}
+
+            .body-mob{
+                font-size:18px !important;
+                line-height:24px !important;
+            }
+
+            .footer{
+                font-size:14px !important;
+                line-height:20px !important;
+            }
+
+            .terms{
+                font-size:12px !important;
+                line-height:18px !important;
+            }
+
+            .nopadding{
+                padding: 0 !important;
+            }
+
+            .headline-font{
+                font-size: 32px !important;
+                line-height: 38px !important;
+            }
+
+            .f14{
+                font-size:14px !important;
+                line-height:18px !important;
+                text-align:center !important;
+            }
+
+            .f16{
+                font-size: 16px !important;
+                line-height: 22px !important;
+            }
+
+            .mobiletext{
+                text-align: center !important;
+            }
+
+            .mobile{
+                padding-top: 15px !important;
+            }
+
+            .fullwidth {
+                width:100% !important;
+                margin-left:0;
+                margin-right:0;
+                padding-left:0;
+                padding-right:0;
+                display:block !important;
+                text-align:center; /*This will result in centering the link text, which is probably what you want -brianjohnsondesign.com*/
+            }
+        }
+        /*]]>*/
+</style>
+<!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+</head>
+<body style=
+"-webkit-text-size-adjust:none; -ms-text-size-adjust:100%;-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; margin:0; padding:0; background-color:#f9f9f9;">
+
+<!--[if mso]>
+<style type="text/css">
+    body, table, td, span, a {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]--><!--Pre Header-->
+<div style=
+"display:none;font-size:1px;color:#f9f9f9;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+⭐ Oceń Twoje zamówienie na e-Clarena.eu ⭐</div>
+<!--/pre header-->
+<center>
+<table bgcolor="#F9F9F9" border="0" cellpadding="0" cellspacing="0"
+class="wrapper" width="100%">
+<tbody>
+<tr>
+<td align="center" valign="top"><!--container-->
+<table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0"
+cellspacing="0" class="emailwrapto100pc" style="width:600px;"
+width="600">
+<tbody>
+<tr>
+<td align="center" bgcolor="#F9F9F9" valign="top">
+<!--start prview text and read online-->
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+class="emailwrapto90pc" style="width:560px;" width="560">
+<tbody>
+<tr>
+<td align="left" style="padding-top:0px;" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0"
+class="emailwrapto100pc">
+<tbody>
+<tr>
+<td align="center" style=
+"padding:10px 0px 10px 0px; color:#63666a; font-family:'Source Sans Pro', Arial, sans-serif; font-size:12px; font-weight:400; line-height:16px;"
+valign="top"><a href="https://srr.ekomi.com/view-email-in-browser?recipient_id=119331289&email_type=feedback&campaign_id=291911" style=
+"color:#63666a; text-decoration:underline;" target="_blank" rel="notrack">Podgląd
+wiadomości</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--end prview text and read online--></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFFFFF" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+class="emailwrapto90pc" style="width:560px;" width="560">
+<tbody>
+<tr>
+<td align="center" style="padding-top: 10px; padding-bottom: 10px"
+valign="top"><a href="" target="_blank" rel="notrack"><img alt="Logo" src=
+"https://ekomi-srr.s3.eu-central-1.amazonaws.com/production/assets/uploads/ckeditor_images/logo_clarena-677785-1650872401.png"
+style=
+"display: block; height: 44px; border-width: 0px; border-style: solid; margin-top: 5px; margin-bottom: 5px; width: 208px;" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--/desktop header background image-->
+<!--Start Mobile header background image-->
+<tr>
+<td align="center" class="mobilecontent" valign="top">
+<!--[if !mso]><!-->
+<div class="mobilecontent" style=
+"mso-hide:all;display:none;max-height:0px;overflow:hidden;">
+<table bgcolor="#F9F9F9" border="0" cellpadding="0" cellspacing="0"
+width="100%">
+<tbody>
+<tr>
+<td align="center" style="padding-bottom:0px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="90%">
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--<![endif]--></td>
+</tr>
+<!--/mobile header background image-->
+<!--Hello Greeting plus Intro-->
+<tr>
+<td align="center" style="padding: 20px 0px 20px 0px;" valign=
+"top">
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+class="emailwrapto90pc" style="width:560px;" width="560">
+<tbody>
+<tr>
+<td align="left" style=
+"color:#444444; font-family:'Source Sans Pro', Arial, sans-serif; font-size:20px; font-weight:600; line-height:24px; padding-bottom:20px;"
+valign="top">Drogi/a Michał Marczak,</td>
+</tr>
+<tr>
+<td align="left" style=
+"color:#444444; font-family:'Source Sans Pro', Arial, sans-serif; font-size:16px; font-weight:400; line-height:22px; padding-bottom:0px;"
+valign="top">
+<p>Dziękujemy za zrealizowane w ostatnim czasie zamówienie
+na&nbsp;<a data-saferedirecturl=
+"https://www.google.com/url?q=http://e-clarena.eu/&amp;source=gmail&amp;ust=1652248694150000&amp;usg=AOvVaw0oTk9dBRYpTf32U7ecitHf"
+href="http://e-clarena.eu/" rel="noopener noreferrer" target=
+"_blank" rel="notrack">e-clarena.eu</a>.</p>
+<p>W Clarena od ponad 25 lat produkujemy kosmetyki, które
+dostarczają radość<br />
+i uczucie piękna tysiącom kobiet w Polsce i w Europie.</p>
+<p>Pomóż nam dalej rozwijać naszą ofertę i usługi w branży Health
+and Beauty<br />
+i oceń zamówione u nas produkty.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- /hello greeting plus intro --><!--Your review -->
+<tr>
+<td align="center" style="padding: 0px 0px 0px 0px;" valign=
+"middle">
+<table align="center" bgcolor="#C3004A" border="0" cellpadding="0"
+cellspacing="0" class="emailwrapto100pc" style="width:600px;"
+width="600">
+<tbody>
+<tr>
+<td align="left" class="f16" style=
+"padding: 20px 0px 20px 0px; font-family:'Source Sans Pro', Arial, sans-serif; font-size:20px; font-weight:400; color: #FFFFFF; text-decoration:none; line-height:28px; text-align:center"
+valign="middle">Kliknij liczbę gwiazdek, które chcesz
+przyznać.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--/your review --><!--Your review -->
+<tr>
+<td align="center" style="padding: 0px 0px 0px 0px;" valign=
+"middle">
+<table align="center" bgcolor="#fff" border="0" cellpadding="0"
+cellspacing="0" class="emailwrapto100pc" style=
+"width:600px;border-bottom: 1px solid #CCCCCC" width="600">
+<tbody>
+<tr>
+<td align="center" class="f16" style=
+"padding: 30px 0px 30px 0px; font-family:'Source Sans Pro', Arial, sans-serif; font-size:20px; font-weight:400; color: #000; text-decoration:none; line-height:28px;"
+valign="middle">
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+class="emailwrapto60pc">
+<tbody>
+<tr>
+<td align="center" style="padding-right:5px;" valign="top">
+<table width="250" border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+    <tr>
+                                <td align="center" width="40">
+                <a href="https://srr.ekomi.com/update-click-rate?reviewUrl=https%3A%2F%2Fsmartforms.ekomi.com%2Freview%2F150624%2F912d560a231176361a305e800424bb60%3Fproducts%3DYToyOntpOjIyMzk7aToxO3M6NzoiWlMgMDExMCI7aToxO30%3D%26fid%3D405453%26star_rating%3D1&amp;recipientId=119331289&amp;version=new&amp;campaignId=291911&amp;abTestingId=0" style="text-decoration: none; display: inline-block;">
+                    <img alt="1 Star" title="1 Star" src="https://srr.ekomi.com/images/star.png" border="0" width="50" style="display: block;" />
+                </a>
+            </td>
+                                <td align="center" width="40">
+                <a href="https://srr.ekomi.com/update-click-rate?reviewUrl=https%3A%2F%2Fsmartforms.ekomi.com%2Freview%2F150624%2F912d560a231176361a305e800424bb60%3Fproducts%3DYToyOntpOjIyMzk7aToxO3M6NzoiWlMgMDExMCI7aToxO30%3D%26fid%3D405453%26star_rating%3D2&amp;recipientId=119331289&amp;version=new&amp;campaignId=291911&amp;abTestingId=0" style="text-decoration: none; display: inline-block;">
+                    <img alt="2 Stars" title="2 Stars" src="https://srr.ekomi.com/images/star.png" border="0" width="50" style="display: block;" />
+                </a>
+            </td>
+                                <td align="center" width="40">
+                <a href="https://srr.ekomi.com/update-click-rate?reviewUrl=https%3A%2F%2Fsmartforms.ekomi.com%2Freview%2F150624%2F912d560a231176361a305e800424bb60%3Fproducts%3DYToyOntpOjIyMzk7aToxO3M6NzoiWlMgMDExMCI7aToxO30%3D%26fid%3D405453%26star_rating%3D3&amp;recipientId=119331289&amp;version=new&amp;campaignId=291911&amp;abTestingId=0" style="text-decoration: none; display: inline-block;">
+                    <img alt="3 Stars" title="3 Stars" src="https://srr.ekomi.com/images/star.png" border="0" width="50" style="display: block;" />
+                </a>
+            </td>
+                                <td align="center" width="40">
+                <a href="https://srr.ekomi.com/update-click-rate?reviewUrl=https%3A%2F%2Fsmartforms.ekomi.com%2Freview%2F150624%2F912d560a231176361a305e800424bb60%3Fproducts%3DYToyOntpOjIyMzk7aToxO3M6NzoiWlMgMDExMCI7aToxO30%3D%26fid%3D405453%26star_rating%3D4&amp;recipientId=119331289&amp;version=new&amp;campaignId=291911&amp;abTestingId=0" style="text-decoration: none; display: inline-block;">
+                    <img alt="4 Stars" title="4 Stars" src="https://srr.ekomi.com/images/star.png" border="0" width="50" style="display: block;" />
+                </a>
+            </td>
+                                <td align="center" width="40">
+                <a href="https://srr.ekomi.com/update-click-rate?reviewUrl=https%3A%2F%2Fsmartforms.ekomi.com%2Freview%2F150624%2F912d560a231176361a305e800424bb60%3Fproducts%3DYToyOntpOjIyMzk7aToxO3M6NzoiWlMgMDExMCI7aToxO30%3D%26fid%3D405453%26star_rating%3D5&amp;recipientId=119331289&amp;version=new&amp;campaignId=291911&amp;abTestingId=0" style="text-decoration: none; display: inline-block;">
+                    <img alt="5 Stars" title="5 Stars" src="https://srr.ekomi.com/images/star.png" border="0" width="50" style="display: block;" />
+                </a>
+            </td>
+            </tr>
+    </tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding-bottom: 30px" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class=
+"emailwrapto90pc">
+<tbody>
+<tr>
+<td align="center" bgcolor="#C3004A" height="50" style=
+"border-radius: 4px;"><a href="https://srr.ekomi.com/update-click-rate?reviewUrl=https%3A%2F%2Fsmartforms.ekomi.com%2Freview%2F150624%2F912d560a231176361a305e800424bb60%3Fproducts%3DYToyOntpOjIyMzk7aToxO3M6NzoiWlMgMDExMCI7aToxO30%3D%26fid%3D405453&recipientId=119331289&version=new&campaignId=291911&abTestingId=0" style=
+"font-size: 16px; font-family:'Source Sans Pro', Arial, sans-serif; font-weight:700; color: #004fb6; text-decoration: none;border-radius: 4px; padding: 12px 30px; border: 1px solid #C3004A; display: block;"
+target="_blank" rel="notrack"><span style="color:#FFFFFF;">
+<!--[if mso]>  <![endif]-->Przekaż opinię 
+<!--[if mso]>  <![endif]--></span></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--/your review --><!--The Ekomi Team-->
+<tr>
+<td align="center" style="padding: 0px 0px 0px 0px;" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+class="emailwrapto90pc" style="width:560px;" width="560">
+<tbody>
+<tr>
+<td align="left" style=
+"color:#444444; font-family:'Source Sans Pro', Arial, sans-serif; font-size:16px; font-weight:400; line-height:22px; padding-bottom:20px; padding-top: 20px"
+valign="top">
+<p>Z pozdrowieniami,</p>
+<p><strong>Zespół e-clarena.eu</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- /the ekomi team --><!--Ekomi Logo --><!--start footer-->
+<tr>
+<td align="center" bgcolor="#EEEEEE" style="padding-top: 20px;"
+valign="top">
+<table borer="0" cellpadding="0" cellspacing="0" class=
+"emailwrapto90pc" style="width:560px;" width="560">
+<tbody>
+<tr>
+<td align="left" style=
+"color:#444444; font-family:'Source Sans Pro', Arial, sans-serif; font-size:10px; font-weight:400; line-height:13px; padding-bottom: 40px;"
+valign="top">Subskrybujesz powiadomienia e-mail. Aby przestać
+otrzymywać te e-maile, możesz zrezygnować z <strong><a href=
+"https://srr.ekomi.com/unsubscribe-recipient/119331289-new/pl" style=
+"font-family: Arial, sans-serif; color: #555555; text-decoration: underline;" rel="notrack">
+subskrypcji teraz</a></strong>.</td>
+<!--container--></tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</body>
+</html><table align='right'><tr><td align='right'>
+                        <img src='https://srr.ekomi.com/update-open-rate/119331289/new/291911' alt='' /></td></tr></table>

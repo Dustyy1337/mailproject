@@ -1,0 +1,830 @@
+Dear MICHAL MARCZAK: Thank you for licensing your Xilinx design tool or IP core product. This email includes the certificate license file to enable your product. The license file can also be obtained by returning to the Xilinx Product Licensing Site: http://www.xilinx.com/getlicense For complete instructions on installing this license file, see the Vivado Design Suite User Guide: Release Notes, Installation, and Licensing (UG973) document on the Xilinx website. Quick-Start License Installation Instructions Node-locked License Installation Instructions These steps will copy your license file to the appropriate default directory (under %APPDATA%XilinxLicense for Windows and .Xilinx under $HOME for Linux). 1. Save the attached license file (.lic) to your desktop or some other folder on your computer 2. Run the Vivado License Manager (For Windows: Run | Manage Xilinx Licenses, from underneath your Version group of the Xilinx Design Tools program group, For Linux: Type "vlm" in a command-line window) Windows: Run ?Manage Xilinx Licenses? from underneath your Version group of the Xilinx Design Tools program group Linux: Select the "Load License" screen and click on the "Copy License" button. 3. Select the ?Load License? screen and click on the ?Copy License?? button 4. Browse to the downloaded license file and click ?Open? Note: IP licenses generated from the Xilinx Product Licensing Site are designed to be used with IP released against Vivado Design Suite (all versions) and 11.2 and later versions of ISE Design Suite IP. If this is an IP license to be used with a 10.1 or earlier ISE Design Suite design tool installation, the license file should be copied to .XilinxCoregenCoreLicenses instead of %APPDATA%Xilinx for Windows or $HOME/.Xilinx for Linux. Floating License Installation Instructions: If you have an existing FLEXnet floating license server, it may be easiest to simply copy the license keys in the attached file into the license file you are already using with your license server. Note: Please restart your floating license server to allow the changes to take effect. If you are setting up a FLEXnet floating license server for the first time, please see the Vivado Design Suite User Guide: Release Notes, Installation, and Licensing (UG973) document on the Xilinx website for more detailed directions. Support page for licensing and installation http://www.xilinx.com/support.html How do I get more help? http://www.xilinx.com/support.html Regards, Xilinx Customer Service © 2022 Advanced Micro Devices, Inc. All rights reserved. Xilinx is now part of AMD. Xilinx, the Xilinx logo, AMD, the AMD Arrow logo, Alveo, Artix, Kintex, Kria, Spartan, Versal, Vitis, Virtex, Vivado, Zynq, and other designated brands included herein are trademarks of Advanced Micro Devices, Inc. Other product names used in this publication are for identification purposes only and may be trademarks of their respective companies. This email is a notification-only address that cannot accept incoming email. Replies to this message will not be read. AMD | Copyright | Privacy | Cookie Policy | Trademarks | Contact Advanced Micro Devices, Inc., 2485 Augustine Drive, Santa Clara, CA 95054 USA# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Sat Nov 04 12:27:45 UTC 2023.
+#
+# This is license NODELOCKED to HOSTID=38f3abad9d3d;
+# there is no need to run lmgrd for this license.
+#
+#
+#  This license is valid for evaluation ( 30 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT VIVADO_HLS xilinxd 2024.11 05-dec-2023 uncounted \
+D9403D995D7B \
+VENDOR_STRING=mchlmarczak@gmail.com,VIVADO_HLS,software,evaluation,_212888041_0_0_745 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT MEbuild xilinxd 2024.11 permanent uncounted 6C5AFF8F189B \
+VENDOR_STRING=mchlmarczak@gmail.com,MEbuild,software,permanent,_212888041_0_0_046 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT MEsim xilinxd 2024.11 permanent uncounted 42191AF780C1 \
+VENDOR_STRING=mchlmarczak@gmail.com,MEsim,software,permanent,_212888041_0_0_565 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT AIEsim xilinxd 2024.11 permanent uncounted 64FBA0C5D976 \
+VENDOR_STRING=mchlmarczak@gmail.com,AIEsim,software,permanent,_212888041_0_0_909 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT AIEbuild xilinxd 2024.11 permanent uncounted 6A845C9DF02D \
+VENDOR_STRING=mchlmarczak@gmail.com,AIEbuild,software,permanent,_212888041_0_0_702 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT AIE2sim xilinxd 2024.11 permanent uncounted 59D332F465B2 \
+VENDOR_STRING=mchlmarczak@gmail.com,AIE2sim,software,permanent,_212888041_0_0_100 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT AIE2build xilinxd 2024.11 permanent uncounted E434AC67FDFA \
+VENDOR_STRING=mchlmarczak@gmail.com,AIE2build,software,permanent,_212888041_0_0_565 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 365 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT PetaLinux_NoSuport_Eval xilinxd 2024.11 04-nov-2024 \
+uncounted 723AA01C4BDB \
+VENDOR_STRING=mchlmarczak@gmail.com,PetaLinux_NoSuport_Eval,software,evaluation,_212888041_0_0_762 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT SDSoC_Tools xilinxd 2024.11 04-jan-2024 uncounted \
+855C1B2C2076 \
+VENDOR_STRING=mchlmarczak@gmail.com,SDSoC_Tools,software,evaluation,_212888041_0_0_828 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT ap_sdsoc xilinxd 2024.11 04-jan-2024 uncounted 3AEEC91CEA12 \
+VENDOR_STRING=mchlmarczak@gmail.com,ap_sdsoc,software,evaluation,_212888041_0_0_802 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT ap_cc xilinxd 2024.11 04-jan-2024 uncounted 89E57BED0F2D \
+VENDOR_STRING=mchlmarczak@gmail.com,ap_cc,software,evaluation,_212888041_0_0_846 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_cresample xilinxd 2024.11 04-jan-2024 uncounted \
+343665371662 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_cresample,ip,evaluation,_212888041_0_0_345 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_cresample
+FEATURE v_cresample xilinxd 1.0 04-jan-2024 uncounted 697F7E60E7AF \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_osd xilinxd 2024.11 04-jan-2024 uncounted 646D9C366D77 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_osd,ip,evaluation,_212888041_0_0_202 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_osd
+FEATURE v_osd xilinxd 1.0 04-jan-2024 uncounted 89BB4B2C0B3A \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# Licenses for v_osd_v1_0
+FEATURE v_osd_v1_0 xilinxd 1.0 04-jan-2024 uncounted 7BD52BA84620 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_rgb2ycrcd xilinxd 2024.11 04-jan-2024 uncounted \
+6B4E4005E808 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_rgb2ycrcd,ip,evaluation,_212888041_0_0_505 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_rgb2ycrcb
+FEATURE v_rgb2ycrcb xilinxd 1.0 04-jan-2024 uncounted 871E4B752D72 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# Licenses for v_rgb2ycrcb_v2
+FEATURE v_rgb2ycrcb_v2 xilinxd 1.0 04-jan-2024 uncounted 13A45B938D28 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_tc xilinxd 2024.11 04-jan-2024 uncounted 22172EA6D132 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_tc,ip,evaluation,_212888041_0_0_327 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_tc
+FEATURE v_tc xilinxd 1.0 04-jan-2024 uncounted DA789D804657 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_tpg xilinxd 2024.11 04-jan-2024 uncounted A810CAD1ACBA \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_tpg,ip,evaluation,_212888041_0_0_848 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_tpg
+FEATURE v_tpg xilinxd 1.0 04-jan-2024 uncounted 30E5E56BBC30 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_ycrcb2rgb_v2 xilinxd 2024.11 04-jan-2024 uncounted \
+5DD9A6EDDB30 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_ycrcb2rgb_v2,ip,evaluation,_212888041_0_0_901 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_ycrcb2rgb_v2
+FEATURE v_ycrcb2rgb_v2 xilinxd 1.0 04-jan-2024 uncounted 3088AD521F82 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_ycrcb2rgb xilinxd 2024.11 04-jan-2024 uncounted \
+DED438BEDCBB \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_ycrcb2rgb,ip,evaluation,_212888041_0_0_742 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_ycrcb2rgb
+FEATURE v_ycrcb2rgb xilinxd 1.0 04-jan-2024 uncounted CA6C8BEC7FC4 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_rgb2ycrcb_v2 xilinxd 2024.11 04-jan-2024 uncounted \
+0090311D0123 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_rgb2ycrcb_v2,ip,evaluation,_212888041_0_0_205 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU9EG-ES1_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+A98B9B1BCD71 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU9EG-ES1_bitgen,software,evaluation,_212888041_0_0_967 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu9eg-es1 xilinxd 2024.11 04-jan-2024 uncounted \
+FDC78FC68476 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu9eg-es1,software,evaluation,_212888041_0_0_704 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU9EG-ES2_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+0CCD7C0B2E48 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU9EG-ES2_bitgen,software,evaluation,_212888041_0_0_745 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU3EG-ES1_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+E31692B9D798 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU3EG-ES1_bitgen,software,evaluation,_212888041_0_0_660 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu3eg-es1 xilinxd 2024.11 04-jan-2024 uncounted \
+E792D87593EE \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu3eg-es1,software,evaluation,_212888041_0_0_149 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU15EG-ES1_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+A893947CEB7B \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU15EG-ES1_bitgen,software,evaluation,_212888041_0_0_208 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU15EG-ES1 xilinxd 2024.11 04-jan-2024 uncounted \
+8ED4B28F7A22 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU15EG-ES1,software,evaluation,_212888041_0_0_043 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU19EG-ES2_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+44E13849E3B5 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU19EG-ES2_bitgen,software,evaluation,_212888041_0_0_749 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU19EG-ES2 xilinxd 2024.11 04-jan-2024 uncounted \
+E0E9E87C6BA8 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU19EG-ES2,software,evaluation,_212888041_0_0_501 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU9EG-ES2 xilinxd 2024.11 04-jan-2024 uncounted \
+816AC28D05A5 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU9EG-ES2,software,evaluation,_212888041_0_0_968 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_proc_ss xilinxd 2024.11 04-jan-2024 uncounted \
+963FDB6ABE66 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_proc_ss,ip,evaluation,_212888041_0_0_368 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_proc_ss
+FEATURE v_proc_ss xilinxd 1.0 04-jan-2024 uncounted BC93A9B74B2C \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_mix xilinxd 2024.11 04-jan-2024 uncounted 11D446316F38 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_mix,ip,evaluation,_212888041_0_0_647 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_mix
+FEATURE v_mix xilinxd 1.0 04-jan-2024 uncounted 3EC0D38A837C \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT mipi_csi2_rx_ctrl xilinxd 2024.11 04-jan-2024 uncounted \
+588972B1F0D6 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,mipi_csi2_rx_ctrl,ip,evaluation,_212888041_0_0_925 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for mipi_csi2_rx_ctrl
+FEATURE mipi_csi2_rx_ctrl xilinxd 1.0 04-jan-2024 uncounted \
+772C952236EB VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT v_hdmi xilinxd 2024.11 04-jan-2024 uncounted C8295FC28BFF \
+VENDOR_STRING=License_Type:Hardware_Evaluation;mchlmarczak@gmail.com,v_hdmi,ip,evaluation,_212888041_0_0_845 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for mchlmarczak@gmail.com on \
+11/05/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=04-Nov-2023 \
+TS_OK
+#
+# Licenses for v_hdmi
+FEATURE v_hdmi xilinxd 1.0 04-jan-2024 uncounted 1FE3D6637EEF \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=38f3abad9d3d ISSUER=Xilinx NOTICE="The license for this \
+core was generated for mchlmarczak@gmail.com on 11/05/2023It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU9EG xilinxd 2024.11 04-jan-2024 uncounted 52C97B506F06 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU9EG,software,evaluation,_212888041_0_0_102 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xazu2eg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+F486C0D579E7 \
+VENDOR_STRING=mchlmarczak@gmail.com,xazu2eg_bitgen,software,evaluation,_212888041_0_0_964 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU2EG-EVAL xilinxd 2024.11 04-jan-2024 uncounted \
+0ED06ABED59F \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU2EG-EVAL,software,evaluation,_212888041_0_0_963 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU4EV-EVAL xilinxd 2024.11 04-jan-2024 uncounted \
+999E2E49AAF3 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU4EV-EVAL,software,evaluation,_212888041_0_0_623 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu4ev xilinxd 2024.11 04-jan-2024 uncounted 415ADADBCE5C \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu4ev,software,evaluation,_212888041_0_0_463 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu5ev xilinxd 2024.11 04-jan-2024 uncounted 631B760B5427 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu5ev,software,evaluation,_212888041_0_0_606 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU5EV-EVAL xilinxd 2024.11 04-jan-2024 uncounted \
+81C3E6CFE044 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU5EV-EVAL,software,evaluation,_212888041_0_0_247 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu7ev xilinxd 2024.11 04-jan-2024 uncounted 65C566C7FA05 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu7ev,software,evaluation,_212888041_0_0_622 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu7ev_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+CFE329E9FECA \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu7ev_bitgen,software,evaluation,_212888041_0_0_222 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU11EG-EVAL xilinxd 2024.11 04-jan-2024 uncounted \
+78B485C5943B \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU11EG-EVAL,software,evaluation,_212888041_0_0_828 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu2cg xilinxd 2024.11 04-jan-2024 uncounted 2DC22ABCE6C7 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu2cg,software,evaluation,_212888041_0_0_060 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu2cg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+BA97206ECD8F \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu2cg_bitgen,software,evaluation,_212888041_0_0_763 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu3cg xilinxd 2024.11 04-jan-2024 uncounted EE1B1FA0656A \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu3cg,software,evaluation,_212888041_0_0_500 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu3cg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+686429B3C135 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu3cg_bitgen,software,evaluation,_212888041_0_0_846 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu4ev_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+08ECD48CFAAC \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu4ev_bitgen,software,evaluation,_212888041_0_0_725 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu2eg xilinxd 2024.11 04-jan-2024 uncounted D9EFFCDB7E05 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu2eg,software,evaluation,_212888041_0_0_108 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu2eg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+AAF43499B729 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu2eg_bitgen,software,evaluation,_212888041_0_0_946 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu3eg xilinxd 2024.11 04-jan-2024 uncounted D5072F793510 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu3eg,software,evaluation,_212888041_0_0_644 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu3eg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+192F9D249F23 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu3eg_bitgen,software,evaluation,_212888041_0_0_265 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu4eg xilinxd 2024.11 04-jan-2024 uncounted 9D8EC773E16D \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu4eg,software,evaluation,_212888041_0_0_425 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu4eg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+FCE52C315BBB \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu4eg_bitgen,software,evaluation,_212888041_0_0_944 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu4cg xilinxd 2024.11 04-jan-2024 uncounted 32C35972795F \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu4cg,software,evaluation,_212888041_0_0_141 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu4cg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+065ABA9E09BF \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu4cg_bitgen,software,evaluation,_212888041_0_0_743 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu5eg xilinxd 2024.11 04-jan-2024 uncounted FCF6EED13840 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu5eg,software,evaluation,_212888041_0_0_529 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu5eg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+8AF9D17EE355 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu5eg_bitgen,software,evaluation,_212888041_0_0_045 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu5cg xilinxd 2024.11 04-jan-2024 uncounted D1077363A9C0 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu5cg,software,evaluation,_212888041_0_0_064 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu5cg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+D8F404751FFA \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu5cg_bitgen,software,evaluation,_212888041_0_0_341 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu7eg xilinxd 2024.11 04-jan-2024 uncounted D0C6715F09C8 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu7eg,software,evaluation,_212888041_0_0_664 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu7eg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+94E59C0323BE \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu7eg_bitgen,software,evaluation,_212888041_0_0_769 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu7cg xilinxd 2024.11 04-jan-2024 uncounted 34E73E924C20 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu7cg,software,evaluation,_212888041_0_0_623 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu7cg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+96FF8266157E \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu7cg_bitgen,software,evaluation,_212888041_0_0_528 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU6EG-EVAL xilinxd 2024.11 04-jan-2024 uncounted \
+8252A4500589 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU6EG-EVAL,software,evaluation,_212888041_0_0_761 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu6eg xilinxd 2024.11 04-jan-2024 uncounted C8BED27014E1 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu6eg,software,evaluation,_212888041_0_0_024 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu6eg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+45D182B081CF \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu6eg_bitgen,software,evaluation,_212888041_0_0_907 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu6cg xilinxd 2024.11 04-jan-2024 uncounted BA723BDC5FE9 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu6cg,software,evaluation,_212888041_0_0_149 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu6cg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+A946579B61EE \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu6cg_bitgen,software,evaluation,_212888041_0_0_625 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu9cg xilinxd 2024.11 04-jan-2024 uncounted 4E1FC3411160 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu9cg,software,evaluation,_212888041_0_0_264 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu9cg_bitgen xilinxd 2024.11 04-jan-2024 uncounted \
+99FD4AF1BB34 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu9cg_bitgen,software,evaluation,_212888041_0_0_363 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu11eg xilinxd 2024.11 04-jan-2024 uncounted 8A1192269160 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu11eg,software,evaluation,_212888041_0_0_869 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu15eg xilinxd 2024.11 04-jan-2024 uncounted FD4C03EFEF21 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu15eg,software,evaluation,_212888041_0_0_166 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU17EG-EVAL xilinxd 2024.11 04-jan-2024 uncounted \
+307EF9F7918D \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU17EG-EVAL,software,evaluation,_212888041_0_0_329 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT xczu17eg xilinxd 2024.11 04-jan-2024 uncounted 9F53F656B946 \
+VENDOR_STRING=mchlmarczak@gmail.com,xczu17eg,software,evaluation,_212888041_0_0_421 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT XCZU19EG xilinxd 2024.11 04-jan-2024 uncounted 3DD3A4F29DB0 \
+VENDOR_STRING=mchlmarczak@gmail.com,XCZU19EG,software,evaluation,_212888041_0_0_807 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT Vitis_HLS xilinxd 2024.11 permanent uncounted 54A0FDF9442C \
+VENDOR_STRING=mchlmarczak@gmail.com,Vitis_HLS,software,permanent,_212888041_0_0_807 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT ISE_Embedded_Edition xilinxd 2024.11 05-dec-2023 uncounted \
+7F861094E0FA \
+VENDOR_STRING=mchlmarczak@gmail.com,ISE_Embedded_Edition,software,evaluation,_212888041_0_0_725 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT Vivado_ML_Enterprise_Edition xilinxd 2024.11 05-dec-2023 \
+uncounted 27D3F556EAB1 \
+VENDOR_STRING=mchlmarczak@gmail.com,Vivado_ML_Enterprise_Edition,software,evaluation,_212888041_0_0_841 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 90 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT ModelComposer xilinxd 2024.11 03-feb-2024 uncounted \
+F0498058AC8C \
+VENDOR_STRING=mchlmarczak@gmail.com,ModelComposer,software,evaluation,_212888041_0_0_043 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 90 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT SysGen xilinxd 2024.11 03-feb-2024 uncounted B05BFBE7614C \
+VENDOR_STRING=mchlmarczak@gmail.com,SysGen,software,evaluation,_212888041_0_0_000 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Sat Nov 04 12:27:45 UTC 2023
+INCREMENT SDAccel xilinxd 2024.11 05-dec-2023 uncounted 2C4C5D2222C8 \
+VENDOR_STRING=mchlmarczak@gmail.com,SDAccel,software,evaluation,_212888041_0_0_763 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT SDK xilinxd 2024.11 permanent uncounted FBB924C3AF29 \
+VENDOR_STRING=mchlmarczak@gmail.com,SDK,software,permanent,_212888041_0_0_026 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=04-Nov-2023 TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT V_WebPACK xilinxd 2024.11 permanent uncounted F3EE6EF10DC6 \
+VENDOR_STRING=mchlmarczak@gmail.com,V_WebPACK,software,permanent,_212888041_0_0_863 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=04-Nov-2023 TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT Analyzer xilinxd 2024.11 permanent uncounted 29BDFA667814 \
+VENDOR_STRING=mchlmarczak@gmail.com,Analyzer,software,permanent,_212888041_0_0_162 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=04-Nov-2023 TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT HLS xilinxd 2024.11 permanent uncounted 86DD1FBC140D \
+VENDOR_STRING=mchlmarczak@gmail.com,HLS,software,permanent,_212888041_0_0_442 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=04-Nov-2023 TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT Embedded_SDK xilinxd 2024.11 permanent uncounted \
+D7FC1E2C5C61 \
+VENDOR_STRING=mchlmarczak@gmail.com,Embedded_SDK,software,permanent,_212888041_0_0_123 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT ISE_Embedded_Edition xilinxd 2024.11 permanent uncounted \
+2917957A7AAE \
+VENDOR_STRING=mchlmarczak@gmail.com,ISE_Embedded_Edition,software,permanent,_212888041_0_0_169 \
+HOSTID=38f3abad9d3d ISSUER="Xilinx Inc" START=04-Nov-2023 \
+TS_OK
+#
+# This is a permanent license generated on Sat Nov 04 12:27:45 UTC 2023
+INCREMENT ISE_WebPACK xilinxd 2024.11 permanent uncounted \
+359CA1BE8F3C \
+VENDOR_STRING=mchlmarczak@gmail.com,ISE_WebPACK,software,permanent,_212888041_0_0_478 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=04-Nov-2023 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE PetaLinux_NoSuport_Eval xilinxd 2024.11 74EC63E284BA \
+COMPONENTS="petalinux_arch_microblaze petalinux_arch_ppc \
+petalinux_arch_zynq" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE SDSoC_Tools xilinxd 2024.11 342422FDEFC0 COMPONENTS="ap_cc \
+Simulation Analyzer SDK ap_sdsoc XC7Z020 XC7Z045 XC7Z030 \
+XC7Z010 XC7Z100 xc7z015 xc7z035" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_Embedded_Edition xilinxd 2024.11 C8459FC4726B \
+COMPONENTS="ChipScopePro_SIOTK ChipscopePro ISE XPS ISIM \
+PlanAhead SDK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Vivado_ML_Enterprise_Edition xilinxd 2024.11 681894032B6B \
+COMPONENTS="Analyzer HLS Implementation PartialReconfiguration \
+SDK Simulation Synthesis" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE SDAccel xilinxd 2024.11 29CC11CE4DCA COMPONENTS="ap_opencl \
+Analyzer Synthesis Simulation Implementation HLS \
+PartialReconfiguration" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Embedded_SDK xilinxd 2024.11 937ACD7BEACF COMPONENTS=SDK \
+OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_Embedded_Edition xilinxd 2024.11 C8459FC4726B \
+COMPONENTS="ChipScopePro_SIOTK ChipscopePro ISE XPS ISIM \
+PlanAhead SDK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2024.11 7D546645323E COMPONENTS="SDK \
+WebPACK XC7Z010 XC7Z030 xps_tdp XC7Z020 PlanAhead ChipscopePro \
+ChipScopePro_SIOTK HLS" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------

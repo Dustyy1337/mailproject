@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+  <title>Snap</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0 " />
+  <meta name="format-detection" content="telephone=no address=no" />
+  <meta name="color-scheme" content="light dark">
+  <meta name="supported-color-schemes" content="light dark">
+  <style type="text/css">
+    body {
+      margin: 0 auto;
+      padding: 0;
+      -webkit-text-size-adjust: 100% !important;
+      -ms-text-size-adjust: 100% !important;
+      -webkit-font-smoothing: antialiased !important;
+    }
+    img {
+      border: 0 !important;
+      outline: none !important;
+    }
+    p {
+      Margin: 0px !important;
+      Padding: 0px !important;
+    }
+    table {
+      border-collapse: collapse;
+      mso-table-lspace: 0px;
+      mso-table-rspace: 0px;
+    }
+    .addressLink {
+      text-decoration: none !important;
+    }
+    td, a, span {
+      border-collapse: collapse;
+      mso-line-height-rule: exactly;
+    }
+    .ExternalClass * {
+      line-height: 100%;
+    }
+    .em_defaultlink a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .em_defaultlink2 a {
+      color: inherit;
+      text-decoration: underline;
+    }
+    .em_g_img+div {
+      display: none;
+    }
+    a[x-apple-data-detectors], u+.em_body a, #MessageViewBody a {
+      color: inherit;
+      text-decoration: none;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+    .em_hide_desk {
+      display: none !important;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .yellowBG {
+        background-color: #fffc00 !important;
+      }
+      .blackBG {
+        background-color: #1f1f1f !important;
+      }
+      .greyBG {
+        background-color: #2C2C2C !important;
+      }
+      .btnCTA {
+        background-color: #1f1f1f !important;
+        color: #fffc00 !important;
+      }
+      .fontDark {
+        color: #ffffff !important;
+      }
+      .CTAfontDark {
+        color: #000000 !important;
+      }
+      .fontLight {
+        color: #000000 !important;
+      }
+      .fontFooter {
+        color: #535353 !important;
+      }
+    }
+    [data-ogsc] .yellowBG {
+      background-color: #fffc00 !important;
+    }
+    [data-ogsc] .blackBG {
+      background-color: #1f1f1f !important;
+    }
+    [data-ogsc] .greyBG {
+      background-color: #535353 !important;
+    }
+    [data-ogsc] .btnCTA {
+      background-color: #1f1f1f !important;
+      color: #fffc00 !important;
+    }
+    [data-ogsc] .fontDark {
+      color: #ffffff !important;
+    }
+    [data-ogsc] .fontLight {
+      color: #ffffff !important;
+    }
+    :root {
+      color-scheme: light dark;
+      supported-color-schemes: light dark;
+    }
+    .
+  </style>
+  <style>
+    @font-face {
+      font-family: 'Graphik-Regular';
+      src: url('https://images.emailaptitude.com/Snapchat/Fonts/Graphik-Regular.otf');
+      font-weight: normal !important;
+      font-style: normal !important;
+      mso-font-alt: 'Arial'
+    }
+  </style>
+</head>
+
+<body class="em_body" style="margin:0px auto; padding:0px;" bgcolor="#ffffff">
+
+<!-- == preview text == -->
+<div dir="ltr" style="display: none; max-height: 0px; overflow: hidden;">
+  Masz nieprzeczytane wiadomości czekające na Snapchacie.
+</div>
+
+<!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+<div style="display: none; max-height: 0px; overflow: hidden;"> &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; </div>
+
+<!-- == Header Section == -->
+
+<table align="center" width="600" border="0" cellspacing="0" cellpadding="0" style="width:600px;">
+  <tr>
+    <td align="center" valign="top"><table align="center" width="600" border="0" cellspacing="0" cellpadding="0" style="width:600px; ">
+      <tr>
+        <td class="mobile_hide" align="center" valign="top" dir="ltr" style=""><img class="em_full_image" src="https://cf-st.sc-cdn.net/d/cTpNdvCPJ0JO2m6GiLwy6?bo=Eg0aABoAMgEESAJQCGAB&uc=8" width="600" border="0" style="display:block; max-width:600px; " alt="ghost icon" /></td>
+      </tr>
+      <tr>
+        <td class="mobile_show" align="center" valign="top" dir="ltr" style="mso-hide:all;display:none;max-height:0px;overflow:hidden;">
+          <img class="em_full_image " src="https://cf-st.sc-cdn.net/d/yyGnKeC6xQuAKZXBkA09C?bo=Eg0aABoAMgEESAJQCGAB&uc=8" width="600" border="0" style="display:block; max-width:600px; " alt="ghost icon" />
+        </td>
+      </tr>
+      <tr>
+        <td style="height:10px;line-height:0px;font-size:0px;" class="blackBG" height="50"></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top">
+          <table class="blackBG" bgcolor="#ffffff" width="500" border="0" cellspacing="0" cellpadding="0" align="center">
+            <tr>
+              <td><div>
+                <table border="0" cellspacing="0" cellpadding="0" align="center">
+                  <tr>
+                    <td dir="ltr" align="center" valign="top" class="fontDark" style="font-family:'AvenirLTPro-Heavy', Helvetica, Roboto, Arial, sans-serif; font-size:38px; line-height:48px; color: #000000; font-weight:500; padding-top: 35px;padding-bottom: 5px; padding-left: 45px; padding-right: 45px;">Masz nieprzeczytane wiadomości czekające na Snapchacie.</td>
+                  </tr>
+                </table>
+              </div></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" valign="middle" align="center" height="80" style="padding: 20px">
+          <a class="CTAfontDark" style="cursor: pointer !important; border: 0; background-color: #000000 !important; padding: 14px 32px; font-size:14px; font-weight:600; border-radius:50px; font-family:'Avenir', Helvetica, Roboto, Arial, sans-serif; color: #F6F6F6 !important; text-decoration: none" href="https://click.snapchat.com/aVHG?ref=unread_messages_reminder_v&af_dp=https%3A%2F%2Flink.snapchat.com%2Ffeed%2F&af_web_dp=https%3A%2F%2Fweb.snapchat.com%2F">Wyświetl teraz</a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" valign="top" align="center" style="padding: 0 5%">
+          <table width="100%" border="1px solid black" cellspacing="0" cellpadding="0" class="em_btn_w btnCTA" style="padding: 2% 0">
+              <!--
+  Template for each friend row rendered in unread messages reminder emails. We have this outside of the main template
+  because the number of rows that we show in the email template are dynamic.
+ -->
+<tr style="border: none; height: 80px">
+  <td style="border: none" align="center" width="33%">
+    <img src="https://images.bitmoji.com/render/panel/10226843-314517530_66-s5-v1.png?transparent=1&palette=1" width="45" border="0" style="display:block; max-width:45px; height: auto;" alt="" />
+  </td>
+  <td style="border: none"  dir="ltr" align="center" width="33%">
+    <a style="cursor: pointer; border: none; font-size: 16px !important; text-decoration: none" href="https://click.snapchat.com/aVHG?ref=unread_messages_reminder_v&af_dp=https%3A%2F%2Flink.snapchat.com%2Ffeed%2F&af_web_dp=https%3A%2F%2Fweb.snapchat.com%2F5701119d-8abc-5f58-849b-28fa718f49cc">Smuda</a>
+  </td>
+  <td style="border: none" dir="ltr" align="center" width="33%">
+    <a
+        class="CTAfontDark"
+        style="
+        border: 0;
+        background-color: #fffc00 !important;
+        padding: 10px;
+        font-size: 12px;
+        font-weight:900;
+        min-width: 95px;
+        display: table-cell;
+        cursor:pointer !important;
+        border-radius:50px;
+        font-family:'Avenir', Helvetica, Roboto, Arial, sans-serif;
+        color: #000000;
+        vertical-align: middle;
+        text-decoration: none"
+            href="https://click.snapchat.com/aVHG?ref=unread_messages_reminder_v&af_dp=https%3A%2F%2Flink.snapchat.com%2Ffeed%2F&af_web_dp=https%3A%2F%2Fweb.snapchat.com%2F5701119d-8abc-5f58-849b-28fa718f49cc"
+    >
+      WYŚWIETL CZAT
+    </a>
+  </td>
+</tr>
+<!--
+  Template for each friend row rendered in unread messages reminder emails. We have this outside of the main template
+  because the number of rows that we show in the email template are dynamic.
+ -->
+<tr style="border: none; height: 80px">
+  <td style="border: none" align="center" width="33%">
+    <img src="https://images.bitmoji.com/render/panel/10226843-524283645_108-s5-v1.png?transparent=1&palette=1" width="45" border="0" style="display:block; max-width:45px; height: auto;" alt="" />
+  </td>
+  <td style="border: none"  dir="ltr" align="center" width="33%">
+    <a style="cursor: pointer; border: none; font-size: 16px !important; text-decoration: none" href="https://click.snapchat.com/aVHG?ref=unread_messages_reminder_v&af_dp=https%3A%2F%2Flink.snapchat.com%2Ffeed%2F&af_web_dp=https%3A%2F%2Fweb.snapchat.com%2F2344387a-b2c4-5f26-a00f-33d901dda7e9">jula</a>
+  </td>
+  <td style="border: none" dir="ltr" align="center" width="33%">
+    <a
+        class="CTAfontDark"
+        style="
+        border: 0;
+        background-color: #fffc00 !important;
+        padding: 10px;
+        font-size: 12px;
+        font-weight:900;
+        min-width: 95px;
+        display: table-cell;
+        cursor:pointer !important;
+        border-radius:50px;
+        font-family:'Avenir', Helvetica, Roboto, Arial, sans-serif;
+        color: #000000;
+        vertical-align: middle;
+        text-decoration: none"
+            href="https://click.snapchat.com/aVHG?ref=unread_messages_reminder_v&af_dp=https%3A%2F%2Flink.snapchat.com%2Ffeed%2F&af_web_dp=https%3A%2F%2Fweb.snapchat.com%2F2344387a-b2c4-5f26-a00f-33d901dda7e9"
+    >
+      WYŚWIETL CZAT
+    </a>
+  </td>
+</tr>
+<!--
+  Template for each friend row rendered in unread messages reminder emails. We have this outside of the main template
+  because the number of rows that we show in the email template are dynamic.
+ -->
+<tr style="border: none; height: 80px">
+  <td style="border: none" align="center" width="33%">
+    <img src="https://images.bitmoji.com/render/panel/10226460-385440596_36-s5-v1.png?transparent=1&palette=1" width="45" border="0" style="display:block; max-width:45px; height: auto;" alt="" />
+  </td>
+  <td style="border: none"  dir="ltr" align="center" width="33%">
+    <a style="cursor: pointer; border: none; font-size: 16px !important; text-decoration: none" href="https://click.snapchat.com/aVHG?ref=unread_messages_reminder_v&af_dp=https%3A%2F%2Flink.snapchat.com%2Ffeed%2F&af_web_dp=https%3A%2F%2Fweb.snapchat.com%2F7392095e-092b-581d-b436-810da67a6d5a">Monika 🌸</a>
+  </td>
+  <td style="border: none" dir="ltr" align="center" width="33%">
+    <a
+        class="CTAfontDark"
+        style="
+        border: 0;
+        background-color: #fffc00 !important;
+        padding: 10px;
+        font-size: 12px;
+        font-weight:900;
+        min-width: 95px;
+        display: table-cell;
+        cursor:pointer !important;
+        border-radius:50px;
+        font-family:'Avenir', Helvetica, Roboto, Arial, sans-serif;
+        color: #000000;
+        vertical-align: middle;
+        text-decoration: none"
+            href="https://click.snapchat.com/aVHG?ref=unread_messages_reminder_v&af_dp=https%3A%2F%2Flink.snapchat.com%2Ffeed%2F&af_web_dp=https%3A%2F%2Fweb.snapchat.com%2F7392095e-092b-581d-b436-810da67a6d5a"
+    >
+      WYŚWIETL CZAT
+    </a>
+  </td>
+</tr>
+
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" valign="middle" align="center" height="40" style="padding-top: 10px; font-size: 14px">
+          <span style="color: #000000 !important;">…i nie tylko!</span>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" valign="middle" align="center" height="80">
+          <a class="CTAfontDark" style="cursor: pointer !important; border: 0; background-color: #000000 !important; padding: 14px 32px; font-size:14px; font-weight:600; border-radius:50px; font-family:'Avenir', Helvetica, Roboto, Arial, sans-serif; color: #F6F6F6 !important; text-decoration: none" href="https://click.snapchat.com/aVHG?ref=unread_messages_reminder_v&af_dp=https%3A%2F%2Flink.snapchat.com%2Ffeed%2F&af_web_dp=https%3A%2F%2Fweb.snapchat.com%2F">Wyświetl wszystkie</a>
+        </td>
+      </tr>
+      <!-- == Footer Section == -->
+      <td align="center" valign="top" style="padding: 50px 0">
+        <table align="center" width="600" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:600px; ">
+          <tr>
+            <td dir="ltr" width="600" class="blackBG fontDark em_main_table" align="center" valign="top" style="font-family:'Graphik-Regular', Arial, sans-serif; font-size:16px;line-height:18px;color:#000000;font-weight:400;"><img style="display:inline-block;vertical-align:text-bottom;max-width:18px; font-size:18px;line-height:20px;" src="https://cf-st.sc-cdn.net/d/dcOe6HaqRhpMpKoDbuADM?bo=Eg0aABoAMgEESAJQCGAB&uc=8" width="18" height="18" alt="heart icon" border="0" />&nbsp;Team Snapchat </td>
+          </tr>
+        </table>
+      </td>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table align="center" width="600" border="0" cellspacing="0" cellpadding="0" class="em_main_table greyBG" style="width:600px; " bgcolor="#F6F6F6">
+      <tr>
+        <td align="center" valign="top"><table align="center" width="600" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:600px; ">
+          <tr>
+            <td style="height:40px;line-height:0px;font-size:0px;" height="40"></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="em_aside15"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tr>
+                <td class="em_defaultlink2 fontFooter" align="center" valign="top" style="font-family:'Graphik-Regular', Arial,  sans-serif;font-size:14px;line-height:24px;color:#535353;font-weight:500;">&copy; Snap Inc. 2023 <br />
+                  <a href="https://www.snap.com/terms/" style="color:#535353;text-decoration:underline;" target="_blank">Regulamin</a> | <a href="https://www.snap.com/privacy/privacy-policy" style="color:#535353;text-decoration:underline;" target="_blank">Polityka prywatności</a> | <a href="https://support.snapchat.com/" style="color:#535353;text-decoration:underline;" target="_blank">Wsparcie</a> <br />
+                  <span class="addressLink" style="text-decoration:none;">3000 31st Street, Santa Monica, CA 90405</span> <br />
+                  <a href="https://subscriptions.snapchat.com/manage?id=9487d7fe-cf85-49cd-9a5a-a542cfdde0fd&incremental=true" style="color:#535353;text-decoration:underline;" target="_blank"> Anuluj subskrypcję </a></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td class="em_hide" style="line-height:1px;min-width:612px;"><img alt="spacer" src="https://bolt-gcdn.sc-cdn.net/3/04shUvScqa6szDovgKKKb?bo=Eg0aABoAMgF9SAJQCGAB&uc=8" height="1" width="612" style="max-height:1px; min-height:1px; display:block; width:612px; min-width:612px;" border="0" /></td>
+          </tr>
+          <tr>
+            <td style="height:40px;line-height:0px;font-size:0px;" height="40"></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<!-- == //Header Section == -->
+
+<img src="https://u5086036.ct.sendgrid.net/wf/open?upn=glrJy36zQc5Gdbn-2FRa3GE7vdHP0GMb-2BbF1vd7GnFR858u48XAWmyJ8F0CO1VWIGHtnftS7K4V-2BK2dgWEsoIR3QbPtcMIbiHtKVu2s8-2FR-2FdGmaA34-2F8FToW5GFBaVI8-2B0-2BiKAVVLQcp2JpOxOkXPWqZQJKbN-2FLMEfRlbexPhSm8p0uRCL4kwyITHkOr9P-2BloRpci-2BIC2Y0Cvn-2FGpVrdG6OzfzLANCTDK4KrqQPOKa94xLu7CQ1L0jWEK4kIuX-2F0-2BVmB2ZE4cIwyyEZAR2ykYY9d1fA8bAfy6LBei38JvYmH2lggZRR29igJGoyWxbPW9iEEiBU4ANl43laFkPthWyCVvEsZO8TAas-2FiIms-2BtCVj51Ebs-2FuTQLVoKs5jRNERnvs3OYUYApQOguwX5-2B4o2JMBCrVYfM8uvGTMr5-2FwBdgTI-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>
