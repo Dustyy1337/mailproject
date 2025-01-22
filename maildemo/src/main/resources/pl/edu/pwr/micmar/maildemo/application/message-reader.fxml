@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.web.WebView?>
 
@@ -8,5 +9,6 @@
    <children>
       <Button mnemonicParsing="false" text="Back" />
       <WebView fx:id="messageViewer" prefHeight="-1.0" prefWidth="-1.0" />
+      <HBox fx:id="attachmentBox" alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" />
    </children>
 </VBox>

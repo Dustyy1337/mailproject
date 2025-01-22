@@ -14,6 +14,8 @@ module pl.edu.pwr.micmar.maildemo {
     requires ai.djl.tokenizers;
     requires javax.mail.api;
     requires org.jsoup;
+    requires java.sql;
+    requires java.desktop;
 
 
     exports pl.edu.pwr.micmar.maildemo.application;

@@ -10,24 +10,28 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
+import javafx.scene.control.TextField;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.Stage;
+import org.jsoup.Jsoup;
+import pl.edu.pwr.micmar.maildemo.db.SQLiteConnection;
 import pl.edu.pwr.micmar.maildemo.mail.MessageVectorStore;
 import pl.edu.pwr.micmar.maildemo.mail.MimeMessageReader;
 import pl.edu.pwr.micmar.maildemo.mail.SessionCollector;
 
 import javax.mail.*;
 import javax.mail.internet.MimeMessage;
+import java.awt.*;
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.HashMap;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.*;
 import java.util.List;
-import java.util.Map;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -42,14 +46,18 @@ public class MessageListController {
     TextField searchBar;
     @FXML
     TreeView<String> inboxNames;
+    @FXML
+    ChoiceBox<String> selectUser;
+    Thread embedding = new Thread();
 
     Predictor<String, float[]> predictor;
 
     ObservableList<MessageView> messageList = FXCollections.observableArrayList();
 
+    private int currentUserId;
+
     protected Store store;
     protected MessageVectorStore messageVectorStore = new MessageVectorStore();
-    protected Map<String, MessageVectorStore> embeddedStores = new HashMap<>();
 
     void changePage() throws MessagingException {
         int beginIndex = messageVectorStore.getMessageVectors().size() - 1 - (20 * messagePaginator.getCurrentPageIndex());
@@ -57,7 +65,7 @@ public class MessageListController {
         messageList.clear();
         for (int i = beginIndex; i >= endIndex; i--) {
             Message message = messageVectorStore.getMessageVectors().get(i).getMessage();
-            messageList.add(new MessageView(message.getReceivedDate().toString(), message.getSubject(), message.getFrom()[0].toString(), message.getMessageNumber(), 0));
+            messageList.add(new MessageView(message.getReceivedDate().toString(), message.getSubject(), message.getFrom()[0].toString(), message.getMessageNumber(), 0, message));
         }
     }
     private static double cosineSimilarity(float[] vectorA, float[] vectorB) {
@@ -74,48 +82,86 @@ public class MessageListController {
         return dotProduct / (Math.sqrt(normA) * Math.sqrt(normB));
     }
     @FXML
-    void search() {
-        new Thread(new EmbeddClass()).start();
-    }
+    void search() throws MessagingException {
+        if(embedding.isAlive()) {
+            embedding.interrupt();
+        }
+        embedding = new Thread(new EmbeddClass(currentUserId, store.getFolder("INBOX")));
+        embedding.start();
 
+        messagePaginator.setVisible(false);
+    }
+    private void addTreeItem(TreeItem<String> root, Folder folder) {
+        TreeItem<String> folderRoot;
+        if(folder.getName().isEmpty()) folderRoot = root;
+        else{
+            folderRoot = new TreeItem<>(folder.getName());
+            root.getChildren().add(folderRoot);
+        }
+        try {
+            Folder[] subfolders = folder.list();
+            for (Folder subfolder : subfolders) {
+                addTreeItem(folderRoot, subfolder);
+            }
+        } catch (MessagingException e) {
+            throw new RuntimeException(e);
+        }
+    }
+    private Folder getSelectedFolder(TreeItem<String> node) throws MessagingException {
+        if (node.getParent() == null || Objects.equals(node.getParent().getValue(), "Messages")) {
+            return store.getFolder(node.getValue());
+        } else {
+            return getSelectedFolder(node.getParent()).getFolder(node.getValue());
+        }
+    }
+    @FXML
+    protected void addNewUser() throws IOException {
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("login-view.fxml"));
+        Stage loginStage = new Stage();
+        loginStage.setTitle("Login");
+        loginStage.setScene(new Scene(fxmlLoader.load()));
+        loginStage.show();
+    }
+    private void loadNewUser() throws MessagingException {
+        currentUserId = selectUser.getSelectionModel().getSelectedIndex();
+        store = SessionCollector.sessions.get(currentUserId).imapStore;
+        TreeItem<String> rootItem = new TreeItem<>("Messages");
+        addTreeItem(rootItem, store.getDefaultFolder());
+        inboxNames.setRoot(rootItem);
+        if(embedding.isAlive()) embedding.interrupt();
+        messageTable.getItems().clear();
+    }
+    public void initiateNewUser() throws MessagingException {
+        selectUser.getSelectionModel().select(selectUser.getItems().size()-1);
+        loadNewUser();
+        new CachingClass(store.getFolder("INBOX"), currentUserId).run();
+    }
     @FXML
     void initialize() throws MessagingException, IOException {
+        currentUserId = 0;
+        selectUser.getItems().add(SessionCollector.sessions.get(currentUserId).username);
+        selectUser.getSelectionModel().select(0);
         predictor = Application.model.newPredictor();
         dateColumn.maxWidthProperty().bind(messageTable.widthProperty().multiply(0.2));
         headerColumn.maxWidthProperty().bind(messageTable.widthProperty().multiply(0.6));
         senderColumn.maxWidthProperty().bind(messageTable.widthProperty().multiply(0.2));
-        store = SessionCollector.sessions.get(0).getStore("imap");
-        Folder[] folders = store.getDefaultFolder().list();
+        store = SessionCollector.sessions.get(currentUserId).imapStore;
         TreeItem<String> rootItem = new TreeItem<>("Messages");
-        if (folders.length == 1) {
-            rootItem = new TreeItem<>("INBOX");
-        } else {
-            List<TreeItem<String>> mainFolders = new ArrayList<>();
-            for (Folder folder : folders) {
-                if (!folder.getName().equals("INBOX")) {
-                    TreeItem<String> folderRoot = new TreeItem<>(folder.getName());
-                    Folder[] subfolders = folder.list();
-                    for (Folder subfolder : subfolders) {
-                        folderRoot.getChildren().add(new TreeItem<>(subfolder.getName()));
-                    }
-                    mainFolders.add(folderRoot);
-                }
-            }
-            rootItem.getChildren().addAll(mainFolders);
-        }
+        addTreeItem(rootItem, store.getDefaultFolder());
         inboxNames.setRoot(rootItem);
-        //new Thread(new CachingClass(store.getFolder("INBOX"))).start();
+        new Thread(new CachingClass(store.getFolder("INBOX"), currentUserId)).start();
         dateColumn.setCellValueFactory(new PropertyValueFactory<>("timeDate"));
         headerColumn.setCellValueFactory(new PropertyValueFactory<>("header"));
         senderColumn.setCellValueFactory(new PropertyValueFactory<>("sender"));
         inboxNames.getSelectionModel().selectedItemProperty().addListener((observable, oldValue, newValue) -> {
             if (newValue != null && newValue.getChildren().isEmpty()) {
                 Folder selectedFolder;
+                if(embedding.isAlive()) embedding.interrupt();
                 try {
-                    if (newValue.getParent() == null) selectedFolder = store.getFolder(newValue.getValue());
-                    else selectedFolder = store.getFolder(newValue.getParent().getValue()).getFolder(newValue.getValue());
+                    selectedFolder = getSelectedFolder(newValue);
                     selectedFolder.open(Folder.READ_ONLY);
                     setMessageList(selectedFolder);
+                    messagePaginator.setVisible(true);
                 } catch (MessagingException e) {
                     throw new RuntimeException(e);
                 }
@@ -135,13 +181,23 @@ public class MessageListController {
                 FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("message-reader.fxml"));
                 Parent root = fxmlLoader.load();
                 MessageReaderController controller = fxmlLoader.getController();
-                controller.messageViewer.getEngine().loadContent(MimeMessageReader.getTextFromMessage(messageVectorStore.getMessageVectors().get(newSelection.getMessageIndex() - 1).getMessage(), true), "text/html");
+                var content = MimeMessageReader.getTextFromMessage(newSelection.message, true);
+                System.out.println(content);
+                controller.messageViewer.getEngine().loadContent(content, "text/html");
+                controller.getAttachments(MimeMessageReader.getAttachments(newSelection.message));
                 Stage stage = new Stage();
                 stage.setTitle("Second Window");
                 stage.setScene(new Scene(root));
                 stage.show();
             } catch (IOException | MessagingException e) {
                 e.printStackTrace();
+            }
+        });
+        selectUser.getSelectionModel().selectedItemProperty().addListener((obs, oldSelection, newSelection) -> {
+            try {
+                loadNewUser();
+            } catch (MessagingException e) {
+                throw new RuntimeException(e);
             }
         });
     }
@@ -154,20 +210,29 @@ public class MessageListController {
         fetchProfile.add(FetchProfile.Item.CONTENT_INFO);
         selectedFolder.fetch(messages, fetchProfile);
         for (Message message : messages) {
-            messageVectorStore.addMessageVector(message, 0); // Assuming vector is null for now
+            messageVectorStore.addMessageVector(message, 0);
         }
         int pages = messages.length / 20;
         messagePaginator.setPageCount(pages);
         messagePaginator.setCurrentPageIndex(0);
         for (int i = messages.length - 1; i >= messages.length - 20; i--) {
-            messageList.add(new MessageView(messages[i].getReceivedDate().toString(), messages[i].getSubject(), messages[i].getFrom()[0].toString(), messages[i].getMessageNumber(), 0));
+            if(i<0) break;
+            messageList.add(new MessageView(messages[i].getReceivedDate().toString(), messages[i].getSubject(), messages[i].getFrom()[0].toString(), messages[i].getMessageNumber(), 0, messages[i]));
         }
         messageTable.setItems(messageList);
     }
     class EmbeddClass implements Runnable {
+        int userId;
+        Folder folder;
+        EmbeddClass(int userId, Folder folder) {
+            this.userId = userId;
+            this.folder = folder;
+        }
         @Override
         public void run() {
             messageList.clear();
+            messageVectorStore = new MessageVectorStore();
+            Message[] messages;
             String searchQuery = searchBar.getText();
             float[] searchEmbedding;
             try {
@@ -177,107 +242,91 @@ public class MessageListController {
                 throw new RuntimeException(e);
             }
             try {
-                Folder folder = store.getFolder("INBOX");
                 folder.open(Folder.READ_ONLY);
-                Message[] messages = folder.getMessages();
-                System.out.println("Number of messages in INBOX: " + messages.length);
-                File directory = new File("cache/" + SessionCollector.sessions.get(0).username);
-                if (directory.exists() && directory.isDirectory()) {
-                    File[] files = directory.listFiles();
-                    if (files != null) {
-                        System.out.println("Number of files in cache: " + files.length);
-                        for (File file : files) {
-                            String messageId = file.getName();
-                            for (Message message : messages) {
-                                if (message instanceof MimeMessage && ((MimeMessage) message).getMessageID().replaceAll("/", "_").equals(messageId)) {
-                                    String fileContent = Files.readString(Paths.get(file.getPath()));
-                                    float[] embedding = predictor.predict(fileContent);
-                                    double similarity = cosineSimilarity(searchEmbedding, embedding);
-                                    // Add the message to the message list or perform any other required action
-                                    messageList.add(new MessageView(
-                                            message.getReceivedDate().toString(),
-                                            message.getSubject(),
-                                            message.getFrom()[0].toString(),
-                                            message.getMessageNumber(),
-                                            similarity
-                                    ));
-                                    FXCollections.sort(messageList, (m1, m2) -> Double.compare(m2.similarity, m1.similarity));
-                                    messageTable.setItems(messageList);
-                                    System.out.println("Message embedded");
-                                }
-                                else System.out.println("Message not embedded");
+                messages = folder.getMessages();
+            } catch (MessagingException e) {
+                throw new RuntimeException(e);
+            }
+            String sql = "SELECT mimeID, content FROM messages WHERE username = ?";
+            try (PreparedStatement preparedStatement = SQLiteConnection.connection.prepareStatement(sql)) {
+                preparedStatement.setString(1, SessionCollector.sessions.get(userId).username);
+                var resultSet = preparedStatement.executeQuery();
+                while (resultSet.next()) {
+                    String mimeID = resultSet.getString("mimeID");
+                    String content = resultSet.getString("content");
+                    float[] messageEmbedding = predictor.predict(content);
+                    double similarity = content.isEmpty() ? 0 : cosineSimilarity(searchEmbedding, messageEmbedding);
+                    if (similarity >= 0.3){
+                        for (Message message : messages) {
+                            if (((MimeMessage) message).getMessageID().equals(mimeID) && !Thread.currentThread().isInterrupted()) {
+                                messageVectorStore.addMessageVector(message, similarity);
+                                messageVectorStore.getMessageVectors().sort((o1, o2) -> Double.compare(o2.getSimilarity(), o1.getSimilarity()));
+                                messageList.add(new MessageView(message.getReceivedDate().toString(), message.getSubject(), message.getFrom()[0].toString(), message.getMessageNumber(), similarity, message));
+                                messageList.sort((o1, o2) -> Double.compare(o2.similarity, o1.similarity));
+                                break;
                             }
                         }
-                    } else {
-                        System.out.println("No files found in cache directory.");
-                    }
-                } else {
-                    System.out.println("Cache directory does not exist or is not a directory.");
                 }
-            } catch (MessagingException | IOException | TranslateException e) {
+                }
+            } catch (SQLException | TranslateException | MessagingException e) {
                 throw new RuntimeException(e);
             }
         }
     }
-    class CachingClass implements Runnable {
+    static class CachingClass implements Runnable {
         private final Folder folder;
+        int userId;
 
-        CachingClass(Folder folder) {
+        CachingClass(Folder folder, int userId) {
             this.folder = folder;
+            this.userId = userId;
         }
 
         @Override
         public void run() {
-            ExecutorService executor = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
             try {
+                int i=0;
                 folder.open(Folder.READ_ONLY);
                 Message[] messages = folder.getMessages();
-                List<Future<Void>> futures = new ArrayList<>();
-                int totalMessages = messages.length;
-                AtomicInteger processedMessages = new AtomicInteger(0);
-
-                for (Message message : messages) {
-                    futures.add(executor.submit(new MessageDownloader((MimeMessage) message, processedMessages, totalMessages)));
-                }
-
-                for (Future<Void> future : futures) {
-                    future.get(); // Wait for all tasks to complete
-                }
-
-                System.out.println("All messages downloaded from " + folder.getName());
-            } catch (MessagingException | InterruptedException | ExecutionException e) {
-                throw new RuntimeException(e);
-            } finally {
-                executor.shutdown();
-            }
-        }
-
-        class MessageDownloader implements Callable<Void> {
-            private final MimeMessage mimeMessage;
-            private final AtomicInteger processedMessages;
-            private final int totalMessages;
-
-            MessageDownloader(MimeMessage mimeMessage, AtomicInteger processedMessages, int totalMessages) {
-                this.mimeMessage = mimeMessage;
-                this.processedMessages = processedMessages;
-                this.totalMessages = totalMessages;
-            }
-
-            @Override
-            public Void call() throws Exception {
-                File directory = new File("cache/" + SessionCollector.sessions.get(0).username);
-                if (!directory.exists()) directory.mkdirs();
-                String messageId = mimeMessage.getMessageID().replaceAll("/", "_");
-                File messageFile = new File(directory, messageId + ".eml");
-                if (!messageFile.exists()) {
-                    try (BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream(messageFile))) {
-                        String messageContent = MimeMessageReader.getTextFromMessage(mimeMessage, false);
-                        bos.write(messageContent.getBytes());
+                List<String> mimeIDs = new ArrayList<>();
+                String username = SessionCollector.sessions.get(userId).username;
+                String sql = "SELECT mimeID FROM messages WHERE username = ?";
+                try(PreparedStatement preparedStatement = SQLiteConnection.connection.prepareStatement(sql)) {
+                    preparedStatement.setString(1, username);
+                    var resultSet = preparedStatement.executeQuery();
+                    while (resultSet.next()) {
+                        mimeIDs.add(resultSet.getString("mimeID"));
                     }
+                } catch (SQLException e) {
+                    e.printStackTrace();
                 }
-                int processed = processedMessages.incrementAndGet();
-                System.out.println("Processed messages: " + processed + "/" + totalMessages);
-                return null;
+                for (Message message : messages) {
+
+                    String mimeID = ((MimeMessage) message).getMessageID();
+                    if(mimeIDs.contains(mimeID)) {
+                        i++;
+                        System.out.println("Message already cached: " + i + "/" + messages.length);
+                        continue;
+                    }
+
+                    String content = Jsoup.parse(MimeMessageReader.getTextFromMessage(message, false)).text();
+                    if(!content.isEmpty()) content = message.getSubject() + "\n" + content;
+
+                            // Assuming you have a method to get a database connection
+                    sql = "INSERT INTO messages (username, mimeID, content) VALUES (?, ?, ?)";
+                    try (PreparedStatement preparedStatement = SQLiteConnection.connection.prepareStatement(sql)) {
+                        preparedStatement.setString(1, username);
+                        preparedStatement.setString(2, mimeID);
+                        preparedStatement.setString(3, content);
+                        preparedStatement.executeUpdate();
+                    } catch (SQLException e) {
+                        e.printStackTrace();
+                    }
+                    i++;
+                    System.out.println("Message cached: " + i + "/" + messages.length);
+                }
+            } catch (MessagingException | IOException e) {
+                throw new RuntimeException(e);
             }
         }
     }

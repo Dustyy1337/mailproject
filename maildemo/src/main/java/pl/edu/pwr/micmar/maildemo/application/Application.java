@@ -9,17 +9,22 @@ import ai.djl.ndarray.NDManager;
 import ai.djl.repository.zoo.Criteria;
 import ai.djl.repository.zoo.ModelNotFoundException;
 import ai.djl.repository.zoo.ZooModel;
-import ai.djl.training.util.ProgressBar;
 import ai.djl.translate.TranslateException;
 import ai.djl.translate.Translator;
 import ai.djl.translate.TranslatorContext;
+import javafx.application.Platform;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import ai.djl.training.util.ProgressBar;
+import pl.edu.pwr.micmar.maildemo.db.SQLiteConnection;
 
 import java.io.IOException;
 
 public class Application extends javafx.application.Application {
+    public static FXMLLoader mainController;
+    //public static ProgressBar progressBar;
+    public static ProgressBar progressBar = new ProgressBar();
     public static ZooModel<String, float[]> model;
     @Override
     public void start(Stage stage) throws IOException {
@@ -82,21 +87,19 @@ class SBERTTranslator implements Translator<String, float[]> {
 class DownloadLLM implements Runnable {
     @Override
     public void run() {
+        SQLiteConnection.connect();
         Criteria<String, float[]> criteria= Criteria.builder()
                 .setTypes(String.class, float[].class)
                 .optModelUrls("djl://ai.djl.huggingface.pytorch/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
                 .optTranslator(new SBERTTranslator())  // Ustawienie niestandardowego tłumacza
-                .optProgress(new ProgressBar())
+                .optProgress(Application.progressBar)
                 .optEngine("PyTorch")
-                .optDevice(Device.gpu())
+                .optDevice(Device.cpu())
                 .build();
         try {
             Application.model = criteria.loadModel();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        } catch (ModelNotFoundException e) {
-            throw new RuntimeException(e);
-        } catch (MalformedModelException e) {
+            Application.progressBar.
+        } catch (IOException | ModelNotFoundException | MalformedModelException e) {
             throw new RuntimeException(e);
         }
     }
