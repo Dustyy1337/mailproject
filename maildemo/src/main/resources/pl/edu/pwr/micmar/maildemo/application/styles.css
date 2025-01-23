@@ -1,0 +1,64 @@
+/* styles.css */
+
+/* Styl dla głównego okna */
+.root {
+    -fx-font-family: "Arial";
+    -fx-padding: 10;
+}
+
+/* Styl dla przycisków */
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 10 20;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+/* Styl dla pól tekstowych */
+.text-field {
+    -fx-padding: 5;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+/* Styl dla etykiet */
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333;
+}
+
+/* Styl dla VBox i HBox */
+.vbox, .hbox {
+    -fx-spacing: 10;
+}
+
+/* Styl dla tabeli */
+.table-view {
+    -fx-border-color: #ddd;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.table-column {
+    -fx-alignment: CENTER-LEFT;
+}
+
+/* Styl dla TreeView */
+.tree-view {
+    -fx-border-color: #ddd;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+/* Styl dla WebView */
+.web-view {
+    -fx-border-color: #ddd;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}

@@ -12,7 +12,6 @@ import ai.djl.repository.zoo.ZooModel;
 import ai.djl.translate.TranslateException;
 import ai.djl.translate.Translator;
 import ai.djl.translate.TranslatorContext;
-import javafx.application.Platform;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
@@ -23,8 +22,6 @@ import java.io.IOException;
 
 public class Application extends javafx.application.Application {
     public static FXMLLoader mainController;
-    //public static ProgressBar progressBar;
-    public static ProgressBar progressBar = new ProgressBar();
     public static ZooModel<String, float[]> model;
     @Override
     public void start(Stage stage) throws IOException {
@@ -92,13 +89,12 @@ class DownloadLLM implements Runnable {
                 .setTypes(String.class, float[].class)
                 .optModelUrls("djl://ai.djl.huggingface.pytorch/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
                 .optTranslator(new SBERTTranslator())  // Ustawienie niestandardowego tłumacza
-                .optProgress(Application.progressBar)
+                .optProgress(new ProgressBar())
                 .optEngine("PyTorch")
                 .optDevice(Device.cpu())
                 .build();
         try {
             Application.model = criteria.loadModel();
-            Application.progressBar.
         } catch (IOException | ModelNotFoundException | MalformedModelException e) {
             throw new RuntimeException(e);
         }

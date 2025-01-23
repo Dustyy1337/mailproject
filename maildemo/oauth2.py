@@ -77,6 +77,7 @@ import urllib.request
 import http.server
 import socketserver
 import webbrowser
+import signal
 
 
 class OAuthHandler(http.server.SimpleHTTPRequestHandler):
@@ -95,9 +96,25 @@ class OAuthHandler(http.server.SimpleHTTPRequestHandler):
             self.wfile.write(b'Missing authorization code.')
 
 def StartLocalServer():
-    with socketserver.TCPServer(("localhost", 8080), OAuthHandler) as httpd:
-            print("Serving at port 8080")
-            httpd.handle_request()  # Handle only one request
+    class SingleRequestTCPServer(socketserver.TCPServer):
+        allow_reuse_address = True
+
+    httpd = SingleRequestTCPServer(("localhost", 8080), OAuthHandler)
+    print("Serving at port 8080")
+
+    def shutdown_server(signal_num, frame):
+        print("Shutting down server...")
+        httpd.server_close()
+
+    signal.signal(signal.SIGINT, shutdown_server)  # Obsługa Ctrl+C
+
+    try:
+        httpd.handle_request()  # Obsłuż pierwsze żądanie
+    except Exception as e:
+        print(f"Error: {e}")
+    finally:
+        httpd.server_close()
+        print("Server has been shut down.")
 
 
 def SetupOptionParser():

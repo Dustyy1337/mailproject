@@ -50,7 +50,7 @@ public class GmailOauth2 {
                     expiration = System.currentTimeMillis() + (time * 1000);
                 }
                 if(i == 3) {
-                    EmailReader.connectToMail("imap.gmail.com", "mchlmarczak@gmail.com", GmailOauth2.accessToken, GmailOauth2.refreshToken, GmailOauth2.expiration);
+                    EmailReader.connectToMail("imap.gmail.com", "smtp.gmail.com", 993, 587, true, true, false, false, email, GmailOauth2.accessToken, GmailOauth2.refreshToken, GmailOauth2.expiration);
                     process.destroy();
                     System.out.println("Process destroyed");
                     break;

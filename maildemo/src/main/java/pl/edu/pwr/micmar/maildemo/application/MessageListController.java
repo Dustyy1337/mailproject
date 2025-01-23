@@ -122,6 +122,19 @@ public class MessageListController {
         loginStage.setScene(new Scene(fxmlLoader.load()));
         loginStage.show();
     }
+    @FXML
+    protected void writeMail() {
+        try {
+            FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("message-writer.fxml"));
+            Parent root = fxmlLoader.load();
+            Stage stage = new Stage();
+            stage.setTitle("Write mail");
+            stage.setScene(new Scene(root));
+            stage.show();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
     private void loadNewUser() throws MessagingException {
         currentUserId = selectUser.getSelectionModel().getSelectedIndex();
         store = SessionCollector.sessions.get(currentUserId).imapStore;
@@ -134,7 +147,7 @@ public class MessageListController {
     public void initiateNewUser() throws MessagingException {
         selectUser.getSelectionModel().select(selectUser.getItems().size()-1);
         loadNewUser();
-        new CachingClass(store.getFolder("INBOX"), currentUserId).run();
+        new Thread(new CachingClass(store.getFolder("INBOX"), currentUserId)).start();
     }
     @FXML
     void initialize() throws MessagingException, IOException {

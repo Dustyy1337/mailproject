@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 
-<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edu.pwr.micmar.maildemo.application.MessageListController">
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edu.pwr.micmar.maildemo.application.MessageListController">
    <children>
       <HBox prefHeight="50.0" prefWidth="200.0" spacing="30.0">
          <children>
@@ -26,6 +26,7 @@
          <children>
             <ChoiceBox fx:id="selectUser" prefWidth="150.0" />
             <Button mnemonicParsing="false" onAction="#addNewUser" text="Add user" />
+            <Button mnemonicParsing="false" onAction="#writeMail" text="Write mail" />
          </children>
          <VBox.margin>
             <Insets bottom="10.0" left="10.0" />

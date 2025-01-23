@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 
-<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edu.pwr.micmar.maildemo.application.LoginController">
+<VBox alignment="CENTER" spacing="20.0" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.edu.pwr.micmar.maildemo.application.LoginController">
     <padding>
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
     </padding>
@@ -20,6 +20,11 @@
          <children>
             <Button fx:id="backButton" cancelButton="true" mnemonicParsing="false" onAction="#goBack" text="Back" visible="false" />
             <Button fx:id="loginButton" defaultButton="true" mnemonicParsing="false" onAction="#loginAuth" text="Next" />
+         </children>
+      </HBox>
+      <HBox alignment="BOTTOM_RIGHT" prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#configureServers" text="Server Config" />
          </children>
       </HBox>
    </children>
