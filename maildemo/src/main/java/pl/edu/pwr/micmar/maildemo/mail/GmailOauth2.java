@@ -21,10 +21,10 @@ public class GmailOauth2 {
         );
     }
     public static void getAccessToken(String email) throws URISyntaxException {
-        String scriptURI = Application.getJARpath() + "/oauth2.py";
+        String scriptURI = Application.getJARpath() + "/oauth2/oauth2";         //  końcówka exe dla windowsa
         try {
             ProcessBuilder pb = new ProcessBuilder(
-                    "python3", scriptURI,
+                    scriptURI,
                     "--generate_oauth2_token",
                     "--quiet",
                     "--client_id=285985730433-9v3aq615noh748trg4fq68opiqljugqu.apps.googleusercontent.com",
