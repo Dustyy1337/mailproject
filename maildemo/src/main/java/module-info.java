@@ -12,7 +12,7 @@ module pl.edu.pwr.micmar.maildemo {
     requires java.net.http;
     requires ai.djl.api;
     requires ai.djl.tokenizers;
-    requires javax.mail.api;
+    requires javax.mail;
     requires org.jsoup;
     requires java.sql;
     requires java.desktop;

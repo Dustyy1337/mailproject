@@ -18,13 +18,21 @@ import javafx.stage.Stage;
 import ai.djl.training.util.ProgressBar;
 import pl.edu.pwr.micmar.maildemo.db.SQLiteConnection;
 
+import java.io.File;
 import java.io.IOException;
+import java.net.URISyntaxException;
+import java.security.CodeSource;
 
 public class Application extends javafx.application.Application {
+    public static String getJARpath() throws URISyntaxException {
+        String jarPath = Application.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath();
+        return new File(jarPath).getAbsoluteFile().getParent();
+    }
     public static FXMLLoader mainController;
     public static ZooModel<String, float[]> model;
     @Override
-    public void start(Stage stage) throws IOException {
+    public void start(Stage stage) throws IOException, URISyntaxException {
+        System.out.println(getJARpath());
         Thread thread = new Thread(new DownloadLLM());
         thread.start();
         FXMLLoader fxmlLoader = new FXMLLoader(Application.class.getResource("login-view.fxml"));

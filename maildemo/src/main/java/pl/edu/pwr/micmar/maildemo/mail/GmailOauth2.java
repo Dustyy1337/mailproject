@@ -1,8 +1,12 @@
 package pl.edu.pwr.micmar.maildemo.mail;
+import pl.edu.pwr.micmar.maildemo.application.Application;
+
 import javax.mail.Message;
 import javax.mail.Session;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.net.URISyntaxException;
+
 public class GmailOauth2 {
     public static String accessToken = "";
     public static String refreshToken = "";
@@ -16,10 +20,11 @@ public class GmailOauth2 {
                 "--refresh_token="+session.refreshToken
         );
     }
-    public static void getAccessToken(String email) {
+    public static void getAccessToken(String email) throws URISyntaxException {
+        String scriptURI = Application.getJARpath() + "/oauth2.py";
         try {
             ProcessBuilder pb = new ProcessBuilder(
-                    "python3", "oauth2.py",
+                    "python3", scriptURI,
                     "--generate_oauth2_token",
                     "--quiet",
                     "--client_id=285985730433-9v3aq615noh748trg4fq68opiqljugqu.apps.googleusercontent.com",
