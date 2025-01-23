@@ -21,7 +21,7 @@ public class GmailOauth2 {
         );
     }
     public static void getAccessToken(String email) throws URISyntaxException {
-        String scriptURI = Application.getJARpath() + "/oauth2/oauth2";         //  końcówka exe dla windowsa
+        String scriptURI = Application.getJARpath() + "/oauth2/oauth2.exe";         //  końcówka exe dla windowsa
         try {
             ProcessBuilder pb = new ProcessBuilder(
                     scriptURI,
