@@ -42,8 +42,6 @@ public class GmailOauth2 {
                 if (line.startsWith("Access Token:")) {
                     i++;
                     accessToken = line.split(": ")[1].trim();
-                    //Message[] messages = EmailReader.fetchMessages(imapSession.getStore("imap"));
-                    //for(int i = 0; i<10; i++) System.out.println(messages[i].getSubject());
                 }
                 if(line.startsWith("Refresh Token:")) {
                     i++;
