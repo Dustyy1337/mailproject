@@ -82,10 +82,8 @@ class SBERTTranslator implements Translator<String, float[]> {
             throw new TranslateException("Expected at least one output tensor.");
         }
 
-        // Assuming the first output is the one we want (this is common for BERT-like models)
         NDArray outputArray = list.get(0);
 
-        // Convert the output to float array
         return outputArray.toFloatArray();
     }
 }
