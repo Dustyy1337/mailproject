@@ -106,10 +106,10 @@ def StartLocalServer():
         print("Shutting down server...")
         httpd.server_close()
 
-    signal.signal(signal.SIGINT, shutdown_server)  # Obsługa Ctrl+C
+    signal.signal(signal.SIGINT, shutdown_server) 
 
     try:
-        httpd.handle_request()  # Obsłuż pierwsze żądanie
+        httpd.handle_request()  
     except Exception as e:
         print(f"Error: {e}")
     finally:
@@ -371,8 +371,8 @@ def main(argv):
     auth_url = GeneratePermissionUrl(options.client_id, options.scope, options.user)
     print('To authorize token, visit this url and follow the directions:')
     print(f'  {auth_url}')
-    webbrowser.open(auth_url)  # Otwórz automatycznie w domyślnej przeglądarce
-    StartLocalServer()  # Startuje lokalny serwer
+    webbrowser.open(auth_url)  
+    StartLocalServer()  
     #authorization_code = input('Enter verification code: ')
     #response = AuthorizeTokens(options.client_id, options.client_secret,
     #                            authorization_code)
