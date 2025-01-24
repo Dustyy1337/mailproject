@@ -32,7 +32,7 @@ public class MimeMessageReader {
     private static String getTextFromMimeMultipart(MimeMultipart mimeMultipart) throws MessagingException, IOException {
         StringBuilder htmlContent = new StringBuilder();
         StringBuilder plainContent = new StringBuilder();
-        Map<String, String> cidMap = new HashMap<>(); // Mapowanie CID na lokalne ścieżki plików
+        Map<String, String> cidMap = new HashMap<>(); 
 
         for (int i = 0; i < mimeMultipart.getCount(); i++) {
             BodyPart bodyPart = mimeMultipart.getBodyPart(i);
@@ -41,7 +41,7 @@ public class MimeMessageReader {
             // Pomijanie załączników
             if (Part.ATTACHMENT.equalsIgnoreCase(bodyPart.getDisposition()) ||
                     Part.INLINE.equalsIgnoreCase(bodyPart.getDisposition()) ||
-                    (bodyPart.getDisposition() == null && bodyPart.getFileName() != null)) { // Obsługa brakującej dyspozycji
+                    (bodyPart.getDisposition() == null && bodyPart.getFileName() != null)) { 
                 if (bodyPart instanceof MimeBodyPart) {
                     MimeBodyPart mimeBodyPart = (MimeBodyPart) bodyPart;
                     if (mimeBodyPart.getContentID() != null) {
@@ -69,15 +69,15 @@ public class MimeMessageReader {
         if (htmlContent.length() > 0) {
             org.jsoup.nodes.Document document = org.jsoup.Jsoup.parse(htmlContent.toString());
             document.select("img[src^=cid:]").forEach(img -> {
-                String cid = img.attr("src").substring(4); // Usuń "cid:"
-                String localUri = cidMap.get(cid); // Pobierz lokalny URI
+                String cid = img.attr("src").substring(4); 
+                String localUri = cidMap.get(cid); 
                 if (localUri != null) {
-                    img.attr("src", localUri); // Zastąp źródło obrazu lokalnym URI
+                    img.attr("src", localUri); 
                 } else {
                     System.out.println("Nie znaleziono lokalnego URI dla CID: " + cid);
                 }
             });
-            htmlContent = new StringBuilder(document.html()); // Zaktualizowana treść HTML
+            htmlContent = new StringBuilder(document.html()); 
         }
 
         return htmlContent.length() > 0 ? htmlContent.toString() : plainContent.toString();
