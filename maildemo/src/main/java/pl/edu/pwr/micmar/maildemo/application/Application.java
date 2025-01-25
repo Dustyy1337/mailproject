@@ -59,25 +59,20 @@ class SBERTTranslator implements Translator<String, float[]> {
 
     @Override
     public NDList processInput(TranslatorContext ctx, String input) {
-        // Ensure tokenizer is initialized
         if (tokenizer == null) {
             tokenizer = HuggingFaceTokenizer.newInstance("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2");
         }
 
-        // Tokenize the input text to get `input_ids` and `attention_mask`
         var encoding = tokenizer.encode(input);
 
-        // Convert `input_ids` and `attention_mask` to NDArrays
         NDArray inputIdsArray = ctx.getNDManager().create(encoding.getIds());
         NDArray attentionMaskArray = ctx.getNDManager().create(encoding.getAttentionMask());
 
-        // Pass both `input_ids` and `attention_mask` in the NDList
         return new NDList(inputIdsArray, attentionMaskArray);
     }
 
     @Override
     public float[] processOutput(TranslatorContext ctx, NDList list) throws TranslateException {
-        // Check how many tensors are returned
         if (list.size() == 0) {
             throw new TranslateException("Expected at least one output tensor.");
         }
